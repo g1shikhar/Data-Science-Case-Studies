@@ -1,0 +1,54 @@
+drop table loan_details;
+drop table disbursement_information_nonull;
+
+select count(*) from loan_information;
+
+#2476
+
+select count(*) from enterprise_information;
+
+#2476
+
+select count(*) from scores_information;
+
+#2476
+
+select count(*) from disbursement_information;
+
+#2476
+
+
+create table disbursement_information_nonull AS
+SELECT * FROM disbursement_information
+where account_number is not null;
+
+
+create table loan_details as
+select a.loan_id,
+a.account_number,
+customer_id,
+a.enterprise_id,
+screening_date,
+product_code,
+hub_id,
+business_type,
+business_activity,
+business_sector,
+ManagAgeui_APP,
+BusinFormalityOfTheBusinessui,
+ManagCBscoreui_APP,
+total_disbursement_amount,
+disbursement_month
+from loan_information as a
+left join scores_information as b
+on a.loan_id = b.loan_id
+left join enterprise_information as c
+on a.loan_id= c.loan_id
+left join disbursement_information_nonull as d
+on a.account_number = d.account_number;
+
+
+select count(*) from loan_details;
+
+
+#2476

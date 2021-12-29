@@ -1,0 +1,2498 @@
+Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,Feature10,Feature11,DEFAULT
+5300,36,0.2346,33200.0,697,Debt Consolidation,RENT,FL,Office,2020,3,0
+17000,60,0.0952,75000.0,727,Debt Consolidation,RENT,NY,Food/Hospitality,2019,20,0
+1200,36,0.1461,62000.0,697,Other Major Purchase,MORTGAGE,CT,Office,2020,3,0
+40000,60,36.33,90000.0,715,debt_consolidation,rent,SC,IT/Engineering,2018,2 years,0
+23100,36,0.13699999999999998,73500.0,717,Debt Consolidation,RENT,TX,Others,2018,0,0
+6000,36,0.264,39000.0,712,Credit Card Refinancing,RENT,NY,,2020,2 years,0
+5000,36,0.1536,40000.0,692,Credit Card Refinancing,OWN,MD,Office,2018,7,0
+22000,36,23.27,36000.0,705,credit_card,rent,CA,,2019,< 1 year,1
+5000,36,0.0793,72000.0,682,Other,MORTGAGE,VA,Office,2018,10,0
+30000,36,0.3689,105000.0,687,Credit Card Refinancing,RENT,NC,IT/Engineering,2020,4,0
+8500,36,0.08,33000.0,687,Credit Card Refinancing,MORTGAGE,SC,Office,2018,0,0
+12000,36,0.0643,50000.0,712,Credit Card Refinancing,MORTGAGE,FL,Food/Hospitality,2019,20,0
+11875,36,0.0971,55000.0,717,Home Improvement,MORTGAGE,NJ,IT/Engineering,2020,7,0
+6800,36,0.1722,37488.0,707,Debt Consolidation,MORTGAGE,IL,Skilled Labor,2018,4,0
+22000,36,0.2397,450000.0,672,Debt Consolidation,MORTGAGE,TX,Small Business,2019,12,0
+20000,36,0.245,125000.0,707,Credit Card Refinancing,OWN,MI,Others,2018,10,0
+6000,36,17.71,45600.0,675,debt_consolidation,mortgage,MS,,2019,,0
+21000,60,0.3355,68000.0,692,Debt Consolidation,MORTGAGE,FL,Office,2018,6,0
+40000,60,0.128,131000.0,707,Debt Consolidation,OWN,NC,,2019,,0
+31900,60,11.45,90000.0,770,debt_consolidation,rent,CA,,2020,< 1 year,0
+8500,36,0.2423,110000.0,682,Debt Consolidation,RENT,IN,Others,2019,3,0
+17000,60,0.1401,70000.0,662,Debt Consolidation,RENT,CA,Others,2019,11,0
+30000,60,0.1702,67000.0,672,Debt Consolidation,MORTGAGE,IL,Food/Hospitality,2019,10,1
+1500,36,0.1638,68000.0,667,Home Improvement,MORTGAGE,NY,Office,2019,1,0
+3625,36,0.2329,16800.0,682,Debt Consolidation,OWN,MT,Health care,2019,2,0
+35000,60,0.25,128500.0,692,Debt Consolidation,RENT,IL,IT/Engineering,2019,16,0
+10000,60,0.1027,142000.0,732,Other Major Purchase,RENT,CA,Education,2019,2,0
+16000,60,0.2203,95000.0,667,Debt Consolidation,OWN,TN,Driver/Transportation,2019,9,0
+10000,60,0.3973,50000.0,672,Debt Consolidation,RENT,WA,Food/Hospitality,2019,1,0
+8000,36,0.1076,26000.0,662,Debt Consolidation,RENT,AZ,Food/Hospitality,2019,1,0
+18000,60,0.3835,54816.0,762,Debt Consolidation,RENT,PA,Office,2019,2,1
+30000,36,0.09,115000.0,707,Debt Consolidation,MORTGAGE,FL,Others,2019,25,0
+20000,36,15.7,50000.0,665,debt_consolidation,mortgage,WA,Office,2019,2 years,0
+15000,60,0.3387,32000.0,727,Debt Consolidation,RENT,CA,Food/Hospitality,2019,1,0
+14000,60,0.10800000000000001,30000.0,672,Debt Consolidation,RENT,GA,Skilled Labor,2019,2,1
+6400,36,0.2743,34000.0,667,Debt Consolidation,RENT,FL,Office,2019,1,0
+2100,36,0.3446,52000.0,717,Credit Card Refinancing,MORTGAGE,PA,Health care,2019,9,0
+10000,60,0.1747,65000.0,662,Debt Consolidation,RENT,GA,Others,2019,5,1
+4000,36,0.1627,26700.0,712,Credit Card Refinancing,RENT,AZ,Food/Hospitality,2018,4,0
+10625,60,0.2559,40000.0,727,Debt Consolidation,RENT,OR,Skilled Labor,2019,23,0
+24000,60,0.205,84000.0,672,Credit Card Refinancing,MORTGAGE,CA,Others,2019,11,0
+15000,36,0.2327,114000.0,682,Debt Consolidation,MORTGAGE,NJ,Sales,2020,3,0
+32000,60,31.86,108000.0,670,credit_card,mortgage,CA,Office,2018,6 years,0
+20000,60,6.41,260000.0,660,debt_consolidation,mortgage,VA,,2018,< 1 year,1
+35000,36,0.2579,85000.0,742,Credit Card Refinancing,MORTGAGE,PA,Others,2019,1,0
+21700,60,0.3428,50000.0,707,Debt Consolidation,MORTGAGE,KY,Others,2019,0,1
+11900,60,0.2921,28000.0,672,Debt Consolidation,RENT,MD,Driver/Transportation,2019,4,0
+35000,36,17.85,120000.0,660,home_improvement,mortgage,CA,Small Business,2019,9 years,0
+20000,60,0.1988,100000.0,732,Debt Consolidation,MORTGAGE,NC,Office,2019,4,1
+35000,60,0.1483,172000.0,692,Home Improvement,MORTGAGE,MN,Office,2019,21,0
+8000,36,0.1423,70000.0,687,Debt Consolidation,RENT,NY,Education,2018,10,0
+9600,36,0.3297,48000.0,692,Debt Consolidation,RENT,NJ,Office,2019,2,1
+4800,36,0.3319,101000.0,707,Other,MORTGAGE,ID,Others,2018,9,0
+11000,36,0.3479,74000.0,777,Home Improvement,MORTGAGE,FL,IT/Engineering,2019,6,0
+8500,36,0.2865,57000.0,712,Debt Consolidation,MORTGAGE,TX,Office,2018,10,0
+2000,36,0.0821,75000.0,662,Debt Consolidation,MORTGAGE,NJ,Office,2019,8,0
+35000,60,0.2175,70000.0,702,Debt Consolidation,MORTGAGE,TX,Legal/Government/Police,2019,10,0
+6000,36,0.1197,38000.0,667,Debt Consolidation,OWN,TX,Skilled Labor,2019,0,1
+21275,36,0.281,60000.0,687,Credit Card Refinancing,RENT,FL,Office,2019,10,1
+16000,60,0.3701,60000.0,697,Debt Consolidation,MORTGAGE,FL,Education,2019,12,0
+35000,60,0.1058,85000.0,687,Debt Consolidation,RENT,KY,,2020,,0
+35000,36,0.0818,205288.0,712,Debt Consolidation,RENT,NM,,2019,< 1 year,1
+10000,60,14.78,35000.0,685,credit_card,rent,CA,Driver/Transportation,2019,7 years,0
+40000,60,0.0821,148000.0,827,Business,MORTGAGE,NY,IT/Engineering,2020,8,1
+20000,36,0.052000000000000005,96000.0,702,Medical Expenses,MORTGAGE,UT,Others,2018,10,0
+20000,60,0.3361,82000.0,712,Debt Consolidation,MORTGAGE,OH,Education,2019,3,0
+10000,60,0.1164,23000.0,667,Debt Consolidation,RENT,IL,Office,2019,10,0
+10000,60,0.2121,34000.0,722,Debt Consolidation,OWN,PA,Customer Service,2020,3,0
+10625,60,0.3031,69000.0,682,Debt Consolidation,RENT,IN,Others,2019,16,0
+38275,36,0.1829,100000.0,707,Home Improvement,MORTGAGE,CO,Sales,2019,10,0
+13675,60,0.2661,16188.0,692,Credit Card Refinancing,RENT,MI,,2019,,0
+10000,36,0.18,35000.0,662,Debt Consolidation,RENT,MO,Skilled Labor,2019,3,0
+12000,36,8.35,125000.0,670,home_improvement,mortgage,GA,IT/Engineering,2019,10+ years,0
+4200,36,0.2247,33280.0,727,Debt Consolidation,MORTGAGE,OH,Office,2018,2,0
+25000,60,0.2677,64500.0,687,Debt Consolidation,RENT,NE,Office,2019,3,0
+13450,60,0.2808,40000.0,692,Credit Card Refinancing,RENT,KY,Unknown,2019,23,0
+27000,60,0.2047,54000.0,712,Debt Consolidation,RENT,CA,Health care,2019,15,0
+10000,36,0.1433,70000.0,692,Credit Card Refinancing,MORTGAGE,CA,,2019,1,0
+16000,36,13.81,100000.0,645,debt_consolidation,mortgage,WI,Office,2019,< 1 year,0
+2500,36,0.3669,45000.0,677,Debt Consolidation,RENT,CA,Driver/Transportation,2019,10,1
+6050,36,0.1301,27000.0,692,Credit Card Refinancing,RENT,CA,Food/Hospitality,2018,1,1
+10625,36,0.312,78000.0,692,Home Improvement,OWN,VA,Skilled Labor,2019,9,0
+23250,60,0.2728,60000.0,682,Other,MORTGAGE,MO,Others,2019,5,0
+15000,60,0.2101,49462.0,672,Debt Consolidation,MORTGAGE,NE,Office,2018,5,0
+5400,36,0.0422,62000.0,732,Debt Consolidation,RENT,OH,Skilled Labor,2018,6,1
+15000,36,0.0457,129996.0,677,Vehicle Purchase,OWN,NC,,2018,,0
+20000,60,0.1358,95000.0,672,Other,MORTGAGE,MI,Driver/Transportation,2019,11,0
+15000,36,0.0571,130000.0,672,Credit Card Refinancing,RENT,NY,Others,2019,15,0
+16000,60,8.66,88000.0,690,debt_consolidation,mortgage,IN,Skilled Labor,2019,8 years,0
+10625,36,0.278,50000.0,682,Debt Consolidation,MORTGAGE,TX,Construction/Labor,2019,3,0
+5000,36,14.03,209000.0,650,credit_card,rent,MI,,2020,< 1 year,1
+15950,60,0.2245,100000.0,752,Credit Card Refinancing,OWN,SC,Health care,2020,0,0
+16000,60,0.3553,48000.0,707,Credit Card Refinancing,RENT,OR,Others,2019,10,0
+10800,60,0.2393,72000.0,737,Home Improvement,ANY,IN,Office,2019,3,0
+35000,60,0.0667,178000.0,732,Home Improvement,RENT,AR,Office,2019,0,0
+31900,60,0.2558,95144.0,667,Debt Consolidation,RENT,NJ,Office,2019,17,0
+20000,36,0.1132,60000.0,677,Debt Consolidation,RENT,CT,Skilled Labor,2019,2,0
+22325,36,0.2495,60400.0,687,Home Improvement,MORTGAGE,IL,Office,2019,2,0
+6000,36,0.1569,90000.0,662,Debt Consolidation,RENT,MD,Office,2019,7,0
+21000,60,0.2975,52000.0,662,Debt Consolidation,MORTGAGE,FL,Health care,2018,1,0
+14875,60,0.3613,50000.0,682,Credit Card Refinancing,RENT,CA,,2019,14,0
+9000,36,0.1911,59604.0,677,Credit Card Refinancing,MORTGAGE,NY,Office,2019,0,0
+10000,36,0.1857,70000.0,667,Debt Consolidation,RENT,CA,,2020,< 1 year,0
+8000,36,0.0309,80000.0,662,Other,MORTGAGE,KY,Small Business,2018,1,0
+15000,36,27.96,63000.0,775,debt_consolidation,rent,IN,Office,2018,< 1 year,0
+11700,60,0.3455,38000.0,702,Debt Consolidation,MORTGAGE,AZ,Office,2019,12,0
+30000,36,20.06,75000.0,630,debt_consolidation,mortgage,CA,Small Business,2018,7 years,0
+15950,36,0.2215,73000.0,682,Debt Consolidation,RENT,FL,Driver/Transportation,2019,2,1
+38000,36,0.195,223000.0,717,Debt Consolidation,RENT,GA,Small Business,2020,5,1
+16000,36,0.2818,106000.0,697,Debt Consolidation,MORTGAGE,AL,Others,2019,3,0
+15000,60,0.2126,70000.0,677,Debt Consolidation,MORTGAGE,MA,Office,2018,0,0
+31000,60,10.49,250000.0,755,home_improvement,mortgage,FL,Others,2019,10+ years,0
+18925,36,0.1559,145000.0,702,Debt Consolidation,MORTGAGE,MD,Office,2020,10,0
+10000,60,0.2005,44000.0,707,Debt Consolidation,MORTGAGE,CA,Health care,2019,11,0
+16000,60,0.14400000000000002,35000.0,682,Debt Consolidation,MORTGAGE,LA,Others,2019,10,0
+1000,36,0.2239,32000.0,727,Vacation,RENT,CA,Skilled Labor,2019,10,0
+3025,36,0.0411,24480.0,702,Debt Consolidation,MORTGAGE,GA,Construction/Labor,2020,3,0
+10000,60,0.0837,92000.0,672,Vacation,RENT,CA,Others,2019,4 years,0
+14000,60,0.1375,89000.0,707,Credit Card Refinancing,MORTGAGE,FL,Office,2019,2,0
+15000,36,0.2487,40000.0,717,Credit Card Refinancing,RENT,IL,Driver/Transportation,2018,10,0
+20000,36,0.2502,140000.0,717,Credit Card Refinancing,MORTGAGE,MO,Office,2019,0,0
+15000,36,24.98,70000.0,725,debt_consolidation,mortgage,TX,Education,2019,10+ years,0
+6000,36,0.2097,26000.0,672,Debt Consolidation,RENT,FL,Driver/Transportation,2019,13,0
+30000,36,0.2239,89000.0,687,Debt Consolidation,RENT,TX,Skilled Labor,2019,3,0
+27700,36,26.73,36000.0,720,debt_consolidation,rent,CA,Skilled Labor,2018,10+ years,1
+24000,60,0.1347,80000.0,662,Debt Consolidation,MORTGAGE,IL,Education,2019,13,0
+40000,60,0.1802,55000.0,747,Debt Consolidation,RENT,FL,Sales,2019,6,0
+20000,36,0.1536,120000.0,672,Credit Card Refinancing,RENT,CA,,2019,3,1
+20000,60,0.2733,63000.0,682,Debt Consolidation,OWN,MD,Office,2020,4,0
+4000,36,0.1483,89000.0,717,Debt Consolidation,OWN,GA,IT/Engineering,2018,10,0
+8000,36,0.1808,60000.0,667,Debt Consolidation,RENT,VA,Office,2018,3,0
+22000,60,0.2579,105000.0,707,Home Improvement,MORTGAGE,NY,Office,2019,27,1
+20000,36,0.0377,100000.0,667,Home Purchase,MORTGAGE,TX,Health care,2018,10,0
+18000,60,29.04,150000.0,685,debt_consolidation,mortgage,TN,IT/Engineering,2020,2 years,0
+25000,60,0.203,104300.0,672,Debt Consolidation,MORTGAGE,FL,Office,2019,1,1
+15000,36,0.1757,50000.0,692,Debt Consolidation,RENT,OH,,2019,< 1 year,0
+11000,60,18.41,81000.0,720,debt_consolidation,mortgage,GA,,2019,,0
+11050,60,8.16,65000.0,690,debt_consolidation,rent,NV,Driver/Transportation,2019,1 year,0
+37000,36,13.12,158000.0,710,debt_consolidation,mortgage,NJ,Others,2020,< 1 year,0
+14275,60,0.3272,34000.0,682,Debt Consolidation,OWN,IL,Office,2019,5,0
+10000,60,9.1,48000.0,655,credit_card,rent,GA,IT/Engineering,2019,< 1 year,0
+24000,36,0.258,110000.0,707,Debt Consolidation,MORTGAGE,AR,Skilled Labor,2019,4,0
+40000,36,0.21,200000.0,722,Debt Consolidation,RENT,CA,Office,2019,5,0
+7200,36,0.2736,60000.0,697,Debt Consolidation,RENT,MN,Construction/Labor,2019,7,0
+21275,36,0.1817,90000.0,672,Debt Consolidation,OWN,NY,Others,2020,4,0
+30000,60,0.1737,75000.0,672,Debt Consolidation,RENT,PA,Office,2020,4,0
+2000,36,0.3064,45000.0,772,Other Major Purchase,RENT,TX,Skilled Labor,2019,1,0
+15000,36,0.168,80000.0,662,Debt Consolidation,RENT,CA,,2019,< 1 year,0
+30000,36,0.45,80000.0,695,debt_consolidation,own,VA,,2019,,0
+16000,60,0.0916,118000.0,702,Home Improvement,MORTGAGE,MI,Office,2019,27,0
+27000,60,0.1266,55000.0,692,Debt Consolidation,MORTGAGE,MD,Health care,2019,3,0
+5300,36,15.27,50000.0,670,debt_consolidation,rent,GA,Legal/Government/Police,2019,10+ years,1
+19500,60,0.1867,56000.0,717,Debt Consolidation,MORTGAGE,MO,Office,2018,10,0
+26575,60,0.1039,180000.0,702,Credit Card Refinancing,OWN,FL,Skilled Labor,2019,11,0
+25000,36,0.2178,135000.0,672,Debt Consolidation,OWN,MA,Others,2018,15,0
+6025,36,0.1114,70000.0,672,Debt Consolidation,RENT,MA,Office,2018,4,0
+18000,60,0.1689,72500.0,692,Debt Consolidation,RENT,MD,Office,2019,0,1
+11150,36,0.2408,86432.0,672,Debt Consolidation,RENT,CA,Office,2019,12,0
+8400,36,0.1798,55000.0,672,Debt Consolidation,RENT,GA,Construction/Labor,2019,2,0
+8075,36,0.2659,26000.0,677,Debt Consolidation,RENT,CA,Others,2019,0,0
+17000,60,0.1442,68000.0,662,Debt Consolidation,OWN,AL,Legal/Government/Police,2019,2,0
+7000,36,13.32,85000.0,645,debt_consolidation,rent,MD,,2018,< 1 year,0
+35000,36,0.1886,185000.0,667,Debt Consolidation,RENT,SC,Others,2020,0,1
+6000,36,0.0884,55000.0,667,Debt Consolidation,RENT,AR,Others,2019,4,0
+20000,60,0.1538,114000.0,687,Debt Consolidation,MORTGAGE,PA,Legal/Government/Police,2019,10,1
+15000,60,0.2652,72000.0,682,Debt Consolidation,MORTGAGE,LA,Sales,2019,10,1
+12000,60,0.1664,108000.0,662,Debt Consolidation,RENT,VA,Health care,2018,1,0
+28000,36,0.282,110000.0,662,Debt Consolidation,MORTGAGE,VA,Driver/Transportation,2019,12,0
+8000,36,0.2855,120000.0,697,Debt Consolidation,OWN,MD,Unknown,2019,4,0
+40000,36,0.1514,168000.0,712,Credit Card Refinancing,MORTGAGE,NY,IT/Engineering,2019,9,0
+15000,36,0.2548,45302.0,687,Debt Consolidation,RENT,AR,Skilled Labor,2019,0,0
+12000,36,0.2867,110000.0,682,Debt Consolidation,RENT,CA,Real Estate,2019,2,0
+8400,36,0.1172,51000.0,712,Credit Card Refinancing,MORTGAGE,CO,Skilled Labor,2018,6,0
+23000,36,0.2816,91000.0,667,Debt Consolidation,MORTGAGE,GA,Driver/Transportation,2019,14,1
+19350,60,0.2799,140000.0,692,Debt Consolidation,MORTGAGE,TX,Office,2018,10,1
+24000,36,0.1799,70000.0,702,Credit Card Refinancing,RENT,FL,IT/Engineering,2018,6,0
+4000,36,0.10800000000000001,35000.0,662,Debt Consolidation,RENT,CT,Others,2019,7,1
+35000,60,0.1225,190000.0,672,Home Improvement,MORTGAGE,MA,Education,2019,10,0
+12050,60,0.3773,32000.0,707,Credit Card Refinancing,RENT,OH,Office,2019,26,0
+16000,36,0.1905,97000.0,692,Debt Consolidation,MORTGAGE,PA,Others,2019,7,0
+20000,36,0.1017,70000.0,677,Other,RENT,CA,Food/Hospitality,2019,2,1
+19700,36,0.3877,72000.0,672,Debt Consolidation,RENT,FL,IT/Engineering,2019,5,1
+10000,36,0.3031,90000.0,672,Other,MORTGAGE,UT,Skilled Labor,2019,1,0
+30000,60,0.3589,125000.0,692,Debt Consolidation,MORTGAGE,TX,Others,2018,10,0
+8000,36,0.1076,60000.0,672,Debt Consolidation,RENT,OH,Unknown,2019,2,0
+30375,60,17.5,207000.0,650,credit_card,mortgage,FL,Others,2018,1 year,0
+22400,36,0.1425,53000.0,752,Home Improvement,MORTGAGE,MN,Office,2019,7,1
+8000,36,0.3871,62000.0,672,Debt Consolidation,RENT,TX,Office,2019,0,0
+15000,60,0.2948,30000.0,732,Debt Consolidation,RENT,MI,Skilled Labor,2019,1,1
+25000,60,0.0913,120000.0,687,Credit Card Refinancing,MORTGAGE,MI,Sales,2019,3,0
+20000,60,0.2501,95000.0,712,Medical Expenses,RENT,CT,Others,2019,11,1
+10000,60,0.2141,175000.0,682,Business,MORTGAGE,NY,Others,2018,4,0
+25000,60,0.2026,100000.0,672,Credit Card Refinancing,MORTGAGE,CA,Office,2019,1,0
+31900,60,0.20800000000000002,115000.0,757,Debt Consolidation,MORTGAGE,TX,Sales,2019,1,0
+25000,36,0.0581,140000.0,692,Credit Card Refinancing,RENT,CA,Others,2018,4,1
+20000,60,0.0934,60000.0,692,Debt Consolidation,MORTGAGE,NC,Driver/Transportation,2019,6,1
+15950,36,0.2563,75000.0,707,Credit Card Refinancing,OWN,NY,Health care,2019,10,1
+22325,60,0.2098,89000.0,662,Debt Consolidation,RENT,OH,,2019,,0
+25000,36,0.3597,150000.0,722,Other Major Purchase,MORTGAGE,LA,,2019,< 1 year,1
+40000,60,0.1353,155000.0,702,Debt Consolidation,MORTGAGE,NJ,Office,2019,10,0
+40000,60,17.7,140000.0,690,debt_consolidation,mortgage,TX,Small Business,2018,10+ years,0
+30000,36,0.2705,65000.0,747,Debt Consolidation,RENT,FL,Small Business,2019,2,0
+20000,36,0.1711,73792.0,667,Other,MORTGAGE,CA,Food/Hospitality,2019,10,0
+3000,36,0.1602,35000.0,677,Debt Consolidation,OWN,WA,,2019,,0
+10675,36,0.373,44313.0,677,Credit Card Refinancing,MORTGAGE,FL,Legal/Government/Police,2020,30,0
+25000,36,19.71,78500.0,680,credit_card,own,KY,,2019,,0
+25000,36,0.3272,75000.0,692,Debt Consolidation,OWN,LA,Others,2020,0,0
+40000,36,0.2829,97000.0,672,Debt Consolidation,RENT,TX,Others,2019,5,0
+28000,60,25.4,110000.0,710,credit_card,mortgage,SC,Education,2020,2 years,0
+12000,60,0.2682,40000.0,667,Debt Consolidation,RENT,CA,Construction/Labor,2019,6,0
+20000,60,0.1966,115000.0,672,Credit Card Refinancing,RENT,PA,Unknown,2019,14,0
+11000,36,7.34,75000.0,665,medical,rent,MD,Office,2019,3 years,0
+16000,36,0.1138,115000.0,682,Debt Consolidation,RENT,CA,IT/Engineering,2019,12,0
+30000,36,0.1553,80000.0,687,Debt Consolidation,RENT,TX,Skilled Labor,2019,4,1
+10000,60,0.0783,70000.0,662,Other,RENT,FL,Skilled Labor,2019,9,0
+3600,36,0.3228,25000.0,692,Home Purchase,MORTGAGE,FL,Customer Service,2019,6,0
+10000,36,0.2172,40000.0,687,Credit Card Refinancing,MORTGAGE,PA,Others,2019,1,0
+7500,36,0.0849,28000.0,662,Debt Consolidation,RENT,IL,Skilled Labor,2019,16,0
+11200,60,0.1779,45000.0,692,Credit Card Refinancing,MORTGAGE,OH,Legal/Government/Police,2019,5,0
+10000,60,0.1538,70000.0,682,Debt Consolidation,RENT,NV,Skilled Labor,2019,2,0
+7500,36,0.1774,96000.0,682,Credit Card Refinancing,RENT,AZ,Office,2019,0,0
+31375,60,0.3247,133000.0,667,Debt Consolidation,MORTGAGE,NC,Health care,2019,6,0
+23350,36,0.2562,101500.0,747,Debt Consolidation,RENT,NH,Others,2019,0,0
+30000,36,0.1758,175000.0,712,Debt Consolidation,MORTGAGE,FL,Office,2019,2,0
+10000,36,0.1767,65000.0,672,Debt Consolidation,MORTGAGE,KS,Office,2019,6,0
+22500,36,0.2783,306000.0,662,Debt Consolidation,MORTGAGE,OK,Others,2020,10,0
+19200,60,0.2585,101512.0,702,Debt Consolidation,MORTGAGE,TX,Skilled Labor,2018,2,0
+15000,36,0.2542,33276.0,702,Debt Consolidation,RENT,CA,,2019,,0
+21275,60,0.1749,75000.0,677,Credit Card Refinancing,RENT,CA,Unknown,2019,2,1
+10000,36,0.0902,35000.0,662,Credit Card Refinancing,OWN,FL,Food/Hospitality,2018,5,0
+20000,36,0.1458,108000.0,687,Credit Card Refinancing,MORTGAGE,TX,Others,2018,8,0
+35000,60,12.98,183000.0,795,debt_consolidation,mortgage,VA,,2020,< 1 year,0
+16000,36,0.2444,63580.0,737,Debt Consolidation,MORTGAGE,RI,Office,2018,3,0
+26575,60,0.2453,140000.0,672,Debt Consolidation,MORTGAGE,IL,Sales,2020,8,0
+7425,36,0.0752,80000.0,697,Debt Consolidation,RENT,CA,Skilled Labor,2019,10,0
+36000,60,21.64,36000.0,650,debt_consolidation,mortgage,TX,Health care,2020,5 years,0
+30000,36,0.2619,119000.0,672,Debt Consolidation,MORTGAGE,TX,Others,2019,0,0
+32000,60,0.2218,75000.0,677,Debt Consolidation,RENT,WA,Health care,2019,10,0
+40000,36,0.1063,130000.0,732,Debt Consolidation,MORTGAGE,CA,Sales,2019,30,0
+20000,60,0.193,107640.0,737,Debt Consolidation,MORTGAGE,WI,Customer Service,2019,0,0
+40000,60,26.64,125000.0,750,home_improvement,mortgage,TX,Office,2020,< 1 year,0
+23000,36,0.3533,145000.0,697,Debt Consolidation,MORTGAGE,NV,Others,2020,3,0
+30000,36,0.2694,160000.0,667,Debt Consolidation,OWN,NC,Legal/Government/Police,2019,7,1
+12000,60,0.1253,100000.0,662,Other Major Purchase,RENT,CA,Small Business,2019,10,0
+15000,36,0.1731,40000.0,702,Debt Consolidation,RENT,MO,,2019,< 1 year,1
+35000,60,0.1944,60000.0,722,Debt Consolidation,RENT,CT,Office,2019,10,0
+16000,36,11.91,139000.0,680,debt_consolidation,rent,CA,Sales,2019,10+ years,0
+30000,60,10.37,200000.0,670,credit_card,mortgage,NM,Real Estate,2020,3 years,0
+10625,60,0.2985,109000.0,712,Debt Consolidation,RENT,MD,Office,2019,31,0
+16825,36,0.2222,60000.0,772,Debt Consolidation,RENT,WI,Office,2019,4,0
+3500,36,0.1155,50000.0,727,Credit Card Refinancing,RENT,FL,,2018,,0
+30000,36,0.2902,61000.0,732,Debt Consolidation,RENT,VA,Office,2018,1,0
+14000,60,0.1784,90000.0,677,Credit Card Refinancing,OWN,MS,Others,2019,10,0
+10000,60,0.68,44000.0,715,home_improvement,mortgage,UT,,2019,,0
+17550,36,0.2566,74000.0,692,Debt Consolidation,RENT,HI,Others,2019,10,1
+8700,36,0.1438,55000.0,667,Credit Card Refinancing,RENT,CA,Food/Hospitality,2020,5,0
+30000,36,0.061,50000.0,662,Home Improvement,MORTGAGE,VT,,2018,,1
+40000,36,0.2044,125132.0,662,Debt Consolidation,MORTGAGE,TX,IT/Engineering,2019,5,0
+2500,36,0.1426,67000.0,667,Home Purchase,OWN,TX,,2019,,0
+16000,36,0.2777,50000.0,677,Credit Card Refinancing,RENT,CA,Small Business,2019,7,0
+10000,36,0.1315,76000.0,702,Credit Card Refinancing,MORTGAGE,KY,Others,2018,3,0
+5000,36,0.0736,52000.0,672,Debt Consolidation,RENT,TX,Food/Hospitality,2018,7,0
+10625,36,0.2964,30000.0,742,Home Improvement,OWN,CA,,2019,,0
+21000,60,0.3246,61000.0,722,Debt Consolidation,MORTGAGE,NE,,2018,,0
+20000,36,0.1633,105000.0,727,Other,RENT,TX,Health care,2019,10,0
+10000,36,13.48,89000.0,650,debt_consolidation,own,CA,,2018,< 1 year,0
+15000,36,0.2054,77087.0,687,Credit Card Refinancing,RENT,TX,Real Estate,2018,8,0
+12000,36,0.1542,40000.0,687,Credit Card Refinancing,RENT,NY,Skilled Labor,2020,2,0
+6000,36,0.0759,40000.0,677,Credit Card Refinancing,RENT,NY,Office,2018,3,0
+16000,36,0.2608,165000.0,672,Debt Consolidation,RENT,CA,Others,2019,0,0
+10000,36,0.2821,35000.0,697,Debt Consolidation,OWN,PA,Office,2018,5,0
+30000,36,31.26,65000.0,750,debt_consolidation,rent,OR,Construction/Labor,2018,10+ years,0
+25275,60,0.233,142900.0,767,Debt Consolidation,MORTGAGE,NM,Others,2019,13,0
+40000,36,0.2274,166250.0,747,Business,RENT,VA,Others,2019,7,1
+5000,36,7.61,130000.0,705,house,mortgage,FL,,2019,,0
+39000,36,0.2066,195000.0,717,Debt Consolidation,MORTGAGE,CO,Office,2018,3,0
+20000,60,0.2205,113559.0,717,Debt Consolidation,MORTGAGE,TX,Legal/Government/Police,2019,6,0
+25525,60,15.03,165000.0,750,debt_consolidation,rent,CA,Office,2019,2 years,0
+2000,36,21.72,30000.0,645,credit_card,rent,FL,Health care,2019,< 1 year,0
+10000,36,0.1684,170000.0,667,Other,RENT,AZ,Office,2019,10,0
+20000,36,8.92,153230.0,590,home_improvement,mortgage,TX,,2019,,0
+13000,60,0.1969,120000.0,677,Debt Consolidation,MORTGAGE,LA,,2019,< 1 year,0
+21275,60,0.1199,120000.0,662,Debt Consolidation,RENT,OH,Others,2019,3,0
+20000,60,0.1079,180000.0,667,Debt Consolidation,MORTGAGE,IL,Sales,2019,1,0
+20000,36,0.1619,101447.0,712,Credit Card Refinancing,MORTGAGE,MD,Others,2019,4,0
+30000,60,0.1953,155000.0,697,Debt Consolidation,RENT,FL,Office,2019,7,1
+11700,36,0.304,58000.0,677,Debt Consolidation,MORTGAGE,MD,Skilled Labor,2019,3,0
+35000,36,0.1348,160000.0,682,Other,OWN,NC,,2019,< 1 year,0
+5100,36,0.1424,75000.0,662,Credit Card Refinancing,RENT,MD,Unknown,2019,10,0
+30000,60,2.42,80000.0,690,debt_consolidation,rent,CA,Office,2018,2 years,0
+30000,60,0.1829,168000.0,662,Debt Consolidation,RENT,AZ,Others,2019,10,1
+25000,36,0.3794,119800.0,702,Credit Card Refinancing,OWN,VA,Legal/Government/Police,2018,10,0
+40000,36,0.1563,120000.0,762,Debt Consolidation,RENT,CA,Office,2019,0,0
+14400,60,0.131,62000.0,707,Credit Card Refinancing,MORTGAGE,FL,Food/Hospitality,2019,10,1
+16000,60,0.1614,40000.0,692,Other,OWN,WV,Office,2020,2,0
+10000,60,0.2705,37000.0,727,Debt Consolidation,RENT,PA,Sales,2019,3,0
+5000,36,0.07200000000000001,60000.0,672,Debt Consolidation,RENT,NY,Construction/Labor,2018,10,0
+28000,60,35.31,75000.0,740,debt_consolidation,mortgage,MI,Small Business,2018,3 years,0
+20000,60,0.2465,65000.0,707,Debt Consolidation,OWN,TX,Office,2019,5,0
+6375,36,23.3,75000.0,645,home_improvement,own,NJ,Small Business,2019,9 years,0
+10000,60,0.2069,62000.0,697,Debt Consolidation,MORTGAGE,SC,Others,2019,10,0
+8250,36,0.385,36000.0,667,Debt Consolidation,RENT,CA,Health care,2020,5,0
+24000,36,0.2944,150000.0,692,Credit Card Refinancing,MORTGAGE,CT,Health care,2019,3,0
+20000,60,0.1264,56000.0,682,Debt Consolidation,RENT,MI,Health care,2019,0,0
+25000,60,0.1922,145000.0,682,Debt Consolidation,MORTGAGE,OH,Driver/Transportation,2019,12,0
+10000,36,15.6,127500.0,670,credit_card,rent,VA,Others,2019,3 years,0
+33300,60,0.387,108000.0,712,Debt Consolidation,RENT,NY,Skilled Labor,2018,10,0
+16000,60,8.63,100000.0,495,debt_consolidation,rent,CA,,2018,< 1 year,0
+29775,60,14.67,120000.0,725,debt_consolidation,rent,CA,Office,2019,10+ years,0
+13500,36,0.1857,90000.0,737,Debt Consolidation,MORTGAGE,NY,Health care,2018,9,0
+12750,60,0.1625,100000.0,717,Other,OWN,FL,Small Business,2020,0,0
+15950,36,0.1896,60000.0,672,Debt Consolidation,MORTGAGE,WI,Skilled Labor,2020,17,0
+30000,36,0.3009,70000.0,672,Credit Card Refinancing,OWN,AL,Skilled Labor,2019,14,0
+40000,60,17.78,120000.0,710,credit_card,mortgage,CA,,2019,< 1 year,0
+40000,36,0.1004,159996.0,732,Debt Consolidation,RENT,CO,Others,2019,2,0
+20000,60,0.2116,107000.0,667,Debt Consolidation,MORTGAGE,CA,,2018,0,0
+22400,36,0.2661,51000.0,687,Credit Card Refinancing,RENT,GA,Food/Hospitality,2020,3,0
+5500,36,0.1653,54000.0,697,Credit Card Refinancing,RENT,MD,Education,2020,0,0
+5000,36,0.3464,51000.0,712,Home Improvement,MORTGAGE,FL,Office,2018,7,0
+23000,60,0.1733,50000.0,692,Debt Consolidation,OWN,CA,Others,2019,0,0
+15000,36,0.1851,89000.0,672,Business,RENT,PA,Skilled Labor,2019,1,0
+10400,60,0.091,50000.0,662,Debt Consolidation,MORTGAGE,MI,,2019,< 1 year,0
+10000,60,0.0954,57000.0,662,Debt Consolidation,MORTGAGE,IN,Office,2019,5,0
+25000,36,0.1909,76000.0,742,Home Purchase,RENT,NY,Customer Service,2018,12,0
+40000,60,0.1209,150000.0,697,Debt Consolidation,RENT,TX,Others,2019,2,0
+14000,36,0.203,49000.0,677,Debt Consolidation,RENT,CA,Others,2019,7,0
+12600,36,0.3868,30000.0,662,Debt Consolidation,OWN,SC,Small Business,2019,8,1
+21025,36,0.2356,30000.0,732,Debt Consolidation,RENT,OR,Office,2019,0,1
+15000,36,0.198,39520.0,662,Credit Card Refinancing,RENT,TX,Sales,2019,9,0
+35000,36,4.61,90000.0,635,other,rent,FL,IT/Engineering,2019,< 1 year,0
+36000,36,0.2166,115000.0,712,Home Improvement,MORTGAGE,UT,IT/Engineering,2019,6,0
+15125,36,0.289,49000.0,712,Debt Consolidation,MORTGAGE,GA,,2019,0,0
+19050,36,13.3,160000.0,675,debt_consolidation,own,OR,Sales,2019,< 1 year,0
+1400,36,0.2684,30000.0,672,Debt Consolidation,RENT,NJ,Customer Service,2019,7,0
+30000,36,13.32,111000.0,730,debt_consolidation,mortgage,CA,Office,2020,1 year,0
+20000,60,0.1851,75000.0,687,Other,RENT,VT,IT/Engineering,2019,0,0
+10625,36,0.2403,73500.0,697,Home Improvement,MORTGAGE,OH,Skilled Labor,2020,2,0
+3500,36,0.1144,40000.0,712,Debt Consolidation,OWN,PA,Construction/Labor,2020,1,0
+30000,60,0.0941,100000.0,672,Debt Consolidation,RENT,MN,Real Estate,2019,9,0
+11800,36,0.2187,50000.0,667,Credit Card Refinancing,RENT,CA,,2019,< 1 year,1
+35000,60,0.1531,140000.0,677,Debt Consolidation,RENT,MA,Skilled Labor,2019,7,0
+10500,36,0.1579,45000.0,727,Debt Consolidation,MORTGAGE,CO,Unknown,2017,5,0
+26500,60,0.1323,150000.0,707,Other,OWN,VA,Sales,2019,10,1
+21275,60,16.25,165000.0,605,debt_consolidation,mortgage,CA,Sales,2019,7 years,1
+21850,36,0.3752,80000.0,732,Credit Card Refinancing,RENT,FL,,2018,< 1 year,1
+10625,36,0.2469,40000.0,732,Credit Card Refinancing,MORTGAGE,IN,,2020,0,0
+24000,60,0.16899999999999998,256400.0,667,Credit Card Refinancing,MORTGAGE,MO,Legal/Government/Police,2019,10,0
+6000,36,4.27,30667.0,665,home_improvement,mortgage,ID,,2019,,0
+2500,36,0.22699999999999998,9252.0,677,Credit Card Refinancing,RENT,LA,,2019,,0
+12000,60,0.3067,56000.0,727,Other,MORTGAGE,FL,Office,2019,6,0
+30700,60,0.3931,260000.0,692,Credit Card Refinancing,MORTGAGE,VA,Others,2020,2,0
+6400,36,0.1466,92500.0,672,Debt Consolidation,MORTGAGE,FL,Health care,2019,0,0
+3600,36,8.41,58512.0,665,debt_consolidation,rent,OH,Office,2020,5 years,0
+24000,36,0.2823,119000.0,672,Debt Consolidation,MORTGAGE,AR,Health care,2018,8,1
+11475,60,0.3215,82000.0,677,Moving or Relocation,RENT,IL,IT/Engineering,2019,5,0
+6600,36,0.2317,53000.0,662,Credit Card Refinancing,RENT,CA,Construction/Labor,2019,3,0
+15000,60,0.1071,88000.0,712,Debt Consolidation,RENT,CA,Skilled Labor,2019,7,0
+10350,36,0.2862,40000.0,702,Debt Consolidation,MORTGAGE,TX,Health care,2019,2,0
+15000,60,0.2353,58000.0,682,Credit Card Refinancing,RENT,CA,Skilled Labor,2019,1,0
+10000,60,0.3049,91000.0,702,Credit Card Refinancing,RENT,NY,Construction/Labor,2019,3,0
+30000,36,0.1569,128000.0,712,Business,RENT,CA,,2019,< 1 year,1
+20000,60,0.1896,85000.0,667,Debt Consolidation,MORTGAGE,FL,Customer Service,2018,4,0
+34025,60,0.1178,78000.0,662,Debt Consolidation,RENT,CA,Others,2019,2,1
+27000,60,0.0668,115000.0,677,Credit Card Refinancing,RENT,AZ,Others,2019,0,0
+35000,36,14.2,350000.0,615,credit_card,mortgage,MS,IT/Engineering,2018,10+ years,0
+10000,36,0.2119,55000.0,712,Debt Consolidation,MORTGAGE,NE,Skilled Labor,2018,4,0
+10200,36,0.2309,45000.0,662,Other Major Purchase,OWN,KY,Others,2019,5,0
+35000,60,0.2747,104551.0,797,Debt Consolidation,RENT,WA,Legal/Government/Police,2020,8,0
+10000,60,2.73,120000.0,695,debt_consolidation,mortgage,LA,,2019,< 1 year,0
+1000,36,0.2499,45000.0,677,Other,MORTGAGE,IL,Construction/Labor,2019,6,0
+22325,36,0.125,65000.0,667,Credit Card Refinancing,RENT,FL,Others,2019,1,0
+15000,36,0.2093,80000.0,677,Debt Consolidation,RENT,CA,Education,2018,3,0
+8000,36,0.226,35000.0,662,Debt Consolidation,OWN,CA,,2018,,0
+40000,60,0.1285,97000.0,777,Debt Consolidation,MORTGAGE,TX,Skilled Labor,2019,5,0
+8400,36,0.2081,70000.0,667,Debt Consolidation,RENT,AR,Others,2019,3,1
+12000,60,13.76,75000.0,650,debt_consolidation,rent,WA,Skilled Labor,2020,2 years,0
+10000,36,5.76,225000.0,685,home_improvement,mortgage,CA,,2019,< 1 year,0
+18300,60,0.1302,140000.0,672,Debt Consolidation,MORTGAGE,IL,Office,2019,4,1
+12000,60,0.1722,89000.0,662,Debt Consolidation,RENT,NY,Food/Hospitality,2018,0,0
+14500,60,0.2513,36000.0,687,Debt Consolidation,RENT,OR,Office,2020,3,0
+5300,36,0.1771,95000.0,677,Debt Consolidation,RENT,NM,Others,2019,2,0
+16475,36,0.1612,185000.0,672,Credit Card Refinancing,RENT,FL,Others,2019,2,0
+24000,60,6.69,130000.0,750,debt_consolidation,mortgage,TX,IT/Engineering,2019,1 year,0
+27000,60,0.172,62652.0,752,Debt Consolidation,MORTGAGE,CA,,2019,,0
+25000,36,0.3866,79000.0,722,Debt Consolidation,RENT,MO,,2019,< 1 year,0
+16000,36,19.54,101480.0,670,debt_consolidation,rent,FL,Skilled Labor,2019,10+ years,0
+38500,60,0.2343,115000.0,707,Debt Consolidation,MORTGAGE,FL,Office,2019,6,1
+16000,60,0.1324,170000.0,717,Debt Consolidation,MORTGAGE,CA,Others,2020,12,0
+12500,60,0.0835,38362.5,697,Debt Consolidation,MORTGAGE,AL,Others,2018,2,0
+25000,60,0.2791,58000.0,687,Debt Consolidation,RENT,NJ,Legal/Government/Police,2019,10,1
+7425,36,0.2215,35000.0,722,Debt Consolidation,RENT,TN,,2019,,0
+18000,36,0.2172,135000.0,682,Debt Consolidation,MORTGAGE,NC,Others,2019,10,0
+12500,60,0.2351,64000.0,712,Credit Card Refinancing,MORTGAGE,WA,Office,2019,3,0
+21275,60,0.1956,57750.0,687,Debt Consolidation,RENT,WA,Office,2019,1,0
+10000,60,0.1736,80000.0,662,Debt Consolidation,MORTGAGE,FL,Construction/Labor,2019,7,0
+17500,36,0.2376,80000.0,687,Credit Card Refinancing,MORTGAGE,CT,Skilled Labor,2018,10,0
+20000,36,0.0665,50000.0,662,Debt Consolidation,RENT,NJ,Driver/Transportation,2018,2,1
+10000,36,0.0233,90000.0,672,Home Improvement,MORTGAGE,NJ,Others,2019,2,0
+3500,36,0.3232,46000.0,692,Credit Card Refinancing,OWN,TN,Unknown,2018,10,0
+16000,36,0.2007,80000.0,712,Debt Consolidation,MORTGAGE,NV,,2019,,0
+8000,36,0.2552,137000.0,672,Home Improvement,OWN,MD,Skilled Labor,2018,10,0
+24000,36,0.2169,53000.0,672,Debt Consolidation,RENT,NJ,Travel,2019,0,0
+21600,36,0.3053,45000.0,687,Home Improvement,OWN,NJ,Food/Hospitality,2018,9,0
+5000,36,0.1487,52285.0,692,Moving or Relocation,RENT,TN,Office,2018,2,0
+19125,36,0.3834,55000.0,677,Debt Consolidation,MORTGAGE,FL,Construction/Labor,2020,10,0
+15000,36,0.1222,60000.0,707,Credit Card Refinancing,RENT,CA,Health care,2018,10,0
+2400,36,0.2069,80000.0,667,Debt Consolidation,MORTGAGE,IL,Others,2019,4,0
+21275,36,0.2109,184000.0,732,Debt Consolidation,OWN,TX,IT/Engineering,2019,3,0
+30000,60,7.37,160000.0,685,credit_card,rent,NJ,,2020,< 1 year,0
+20000,60,0.0574,141000.0,667,Debt Consolidation,MORTGAGE,AK,Legal/Government/Police,2019,12,1
+32000,60,0.1392,95000.0,757,Debt Consolidation,MORTGAGE,CA,Office,2019,1,0
+18000,60,0.303,69200.0,667,Debt Consolidation,MORTGAGE,FL,Office,2019,10,0
+10000,36,0.3411,45000.0,737,Debt Consolidation,RENT,WI,Office,2019,9,0
+30000,60,0.2811,135273.29,702,Debt Consolidation,MORTGAGE,NH,Health care,2019,22,0
+8000,36,0.1526,225000.0,707,Debt Consolidation,RENT,IL,IT/Engineering,2019,8,0
+15000,36,0.2143,62000.0,682,Credit Card Refinancing,OWN,MD,Skilled Labor,2019,2,0
+10000,36,0.34700000000000003,60000.0,702,Credit Card Refinancing,MORTGAGE,FL,Office,2018,10,0
+15000,60,0.2489,50000.0,687,Debt Consolidation,MORTGAGE,OR,Others,2019,7,0
+34025,60,0.2205,90000.0,697,Credit Card Refinancing,MORTGAGE,KS,Skilled Labor,2019,7,0
+16000,60,9.91,78000.0,680,home_improvement,mortgage,VA,Others,2018,10+ years,0
+15000,36,0.1405,45000.0,732,Debt Consolidation,MORTGAGE,TX,Unknown,2018,4,1
+38000,36,0.3677,105000.0,682,Credit Card Refinancing,MORTGAGE,MO,Sales,2019,1,0
+25000,60,0.1102,50653.0,712,Debt Consolidation,MORTGAGE,FL,Education,2018,7,0
+7800,36,7.32,60000.0,690,debt_consolidation,mortgage,RI,,2019,< 1 year,0
+35000,36,7.29,112000.0,715,debt_consolidation,mortgage,CA,Office,2019,1 year,1
+5500,36,0.2522,62000.0,702,Credit Card Refinancing,RENT,AL,Skilled Labor,2019,10,0
+35000,36,0.1007,234000.0,712,Debt Consolidation,MORTGAGE,NJ,,2019,,0
+19125,60,0.0886,60000.0,677,Debt Consolidation,MORTGAGE,ID,Small Business,2019,0,0
+15000,60,0.3758,48000.0,737,Business,RENT,CA,Health care,2020,16,0
+24650,60,0.3452,110000.0,692,Debt Consolidation,MORTGAGE,OH,Others,2019,0,0
+13275,60,0.1434,42000.0,672,Credit Card Refinancing,RENT,IN,Skilled Labor,2019,5,0
+20000,60,23.69,70000.0,700,debt_consolidation,mortgage,LA,Office,2019,3 years,0
+24125,36,0.397,60000.0,712,Debt Consolidation,RENT,GA,Office,2020,7,0
+10000,60,299.14,7000.0,730,debt_consolidation,mortgage,PA,,2018,,0
+10000,36,0.2468,80000.0,702,Credit Card Refinancing,OWN,KS,Health care,2018,10,0
+13875,36,16.5,185000.0,715,credit_card,mortgage,TX,Sales,2018,< 1 year,0
+13825,60,0.1571,107000.0,697,Credit Card Refinancing,MORTGAGE,NV,Skilled Labor,2020,10,0
+8000,36,0.1513,51000.0,692,Debt Consolidation,MORTGAGE,CT,Small Business,2018,10,0
+15950,60,32.35,45150.0,725,debt_consolidation,own,NM,,2018,,0
+28000,60,35.1,48000.0,690,debt_consolidation,rent,MD,,2020,,0
+10000,60,0.2861,51000.0,707,Debt Consolidation,RENT,MN,Others,2019,4,0
+24000,60,0.2762,110000.0,667,Debt Consolidation,RENT,CA,Others,2019,5,0
+40000,36,0.2496,70000.0,722,Debt Consolidation,MORTGAGE,OH,,2019,< 1 year,0
+18000,36,0.1507,130000.0,667,Credit Card Refinancing,MORTGAGE,TX,Office,2019,5,0
+4000,36,0.2212,60000.0,672,Home Improvement,RENT,NJ,,2019,,0
+24000,36,0.3578,65000.0,677,Debt Consolidation,RENT,HI,Education,2019,7,0
+40000,60,0.0945,150000.0,702,Credit Card Refinancing,RENT,FL,Others,2019,23,0
+24000,60,0.2902,39000.0,702,Credit Card Refinancing,RENT,RI,Unknown,2018,2,0
+8000,36,0.0821,80000.0,692,Credit Card Refinancing,MORTGAGE,NY,Office,2020,4,0
+20000,36,0.3204,68500.0,662,Debt Consolidation,RENT,TX,Education,2020,22,0
+12750,60,0.0754,135000.0,697,Credit Card Refinancing,MORTGAGE,CA,Travel,2019,11,0
+5000,36,0.1478,45969.0,682,Medical Expenses,RENT,CA,Unknown,2019,6,1
+22525,60,28.52,30000.0,675,debt_consolidation,rent,FL,,2018,,0
+25000,36,18.03,118000.0,765,debt_consolidation,mortgage,CA,Others,2018,9 years,0
+35000,60,0.2141,109000.0,687,Debt Consolidation,OWN,GA,Driver/Transportation,2019,12,0
+5400,36,0.23,80500.0,662,Debt Consolidation,RENT,NJ,Others,2020,10,0
+25000,60,0.2404,65000.0,687,Credit Card Refinancing,RENT,AZ,Skilled Labor,2019,3,1
+30300,60,0.273,55000.0,682,Credit Card Refinancing,OWN,MN,Office,2019,4,0
+3000,36,0.1381,68644.0,682,Debt Consolidation,RENT,KY,Education,2019,3,0
+16000,60,0.2696,119000.0,667,Debt Consolidation,RENT,NV,Others,2019,3,0
+14000,36,0.1408,110000.0,677,Debt Consolidation,MORTGAGE,AZ,Office,2019,2,0
+10000,36,0.0956,86000.0,677,Debt Consolidation,RENT,TX,,2019,,0
+20000,60,0.3302,60000.0,697,Credit Card Refinancing,MORTGAGE,FL,,2019,0,0
+40000,36,0.067,145000.0,707,Debt Consolidation,RENT,NY,Others,2019,2,0
+7000,36,0.2691,40000.0,732,Debt Consolidation,MORTGAGE,CT,Education,2018,5,0
+5000,36,0.0335,72000.0,662,Credit Card Refinancing,MORTGAGE,MN,,2020,,0
+16575,60,0.1256,125000.0,672,Credit Card Refinancing,MORTGAGE,CA,,2019,,0
+15000,60,0.231,76000.0,692,Credit Card Refinancing,RENT,MA,Sales,2018,3,0
+25000,36,0.0807,298000.0,677,Debt Consolidation,MORTGAGE,CA,Others,2019,6,0
+15000,60,0.1744,78683.0,687,Medical Expenses,MORTGAGE,FL,Health care,2019,0,0
+1500,36,0.11800000000000001,24000.0,672,Medical Expenses,RENT,OH,,2019,,0
+40000,36,0.2703,155934.0,727,Debt Consolidation,MORTGAGE,PA,Others,2019,16,0
+12000,36,0.23800000000000002,181000.0,722,Debt Consolidation,RENT,MD,Office,2018,9,0
+15000,36,0.0572,150000.0,752,Home Improvement,MORTGAGE,UT,Real Estate,2018,10,0
+10000,60,0.3285,135000.0,692,Home Improvement,MORTGAGE,KS,Office,2019,17,0
+15000,60,0.3401,95000.0,687,Other,MORTGAGE,MI,Unknown,2019,10,0
+6000,36,0.0259,63000.0,762,Debt Consolidation,RENT,CO,IT/Engineering,2018,0,0
+15375,36,0.057,42739.0,712,Debt Consolidation,OWN,NC,,2019,< 1 year,0
+7125,36,0.1278,108000.0,667,Debt Consolidation,MORTGAGE,CA,IT/Engineering,2019,1,0
+8500,36,27.52,60000.0,685,debt_consolidation,mortgage,GA,Sales,2020,5 years,0
+32000,60,0.2277,82000.0,707,Debt Consolidation,MORTGAGE,GA,Office,2019,0,0
+10400,60,12.82,69000.0,505,credit_card,rent,VA,Others,2019,10+ years,0
+20000,60,10.42,175000.0,745,debt_consolidation,mortgage,ND,Small Business,2019,10+ years,0
+7000,36,0.1714,53000.0,677,Debt Consolidation,RENT,NJ,Others,2020,19,0
+28000,60,0.0378,450000.0,722,Debt Consolidation,MORTGAGE,WA,Others,2019,1,0
+6000,36,0.2158,75000.0,662,Credit Card Refinancing,MORTGAGE,TX,Legal/Government/Police,2020,2,0
+29500,36,0.2933,71000.0,702,Credit Card Refinancing,MORTGAGE,IL,Office,2018,3,0
+11000,60,0.0928,52000.0,702,Debt Consolidation,RENT,MN,Office,2020,2,0
+22400,36,0.1355,72000.0,662,Debt Consolidation,RENT,TX,Others,2019,8,0
+10000,60,0.156,72000.0,707,Debt Consolidation,RENT,IL,Office,2019,13,0
+10000,36,0.2892,80000.0,692,Credit Card Refinancing,RENT,CA,Health care,2019,5,1
+11200,36,0.1459,61200.0,797,Debt Consolidation,OWN,FL,Others,2018,6,0
+32000,60,0.1366,98600.0,697,Debt Consolidation,MORTGAGE,AZ,Legal/Government/Police,2019,10,0
+8000,36,0.2662,65000.0,667,Debt Consolidation,MORTGAGE,NJ,Office,2019,3,0
+21275,36,0.355,138560.0,702,Debt Consolidation,MORTGAGE,OH,Legal/Government/Police,2019,9,0
+15000,60,0.1758,83000.0,667,Debt Consolidation,RENT,IL,Others,2019,23,0
+40000,36,0.32799999999999996,265000.0,707,Credit Card Refinancing,MORTGAGE,MD,Others,2019,4,0
+3000,36,0.0801,40000.0,662,Other Major Purchase,OWN,TX,Others,2018,10,0
+25000,60,0.1235,105000.0,662,Debt Consolidation,MORTGAGE,WI,Office,2019,0,0
+17000,60,20.4,52000.0,795,debt_consolidation,mortgage,NC,Others,2018,10+ years,0
+7200,36,0.1167,180000.0,722,Debt Consolidation,RENT,CO,Others,2020,3,0
+10000,36,0.1395,115000.0,722,Home Improvement,MORTGAGE,IL,Others,2018,1,0
+16700,60,0.2883,92000.0,677,Debt Consolidation,RENT,FL,Health care,2019,15,0
+20000,60,0.115,125000.0,682,Credit Card Refinancing,RENT,GA,,2019,< 1 year,0
+20000,60,0.1539,230000.0,692,Debt Consolidation,MORTGAGE,SD,Unknown,2019,10,0
+12850,60,0.2638,26520.0,667,Debt Consolidation,RENT,FL,,2019,,0
+31925,60,16.34,168000.0,720,debt_consolidation,rent,CA,Office,2019,10+ years,1
+12500,60,0.0868,61000.0,767,Other,RENT,WA,Unknown,2020,0,0
+12000,60,0.2732,38000.0,702,Credit Card Refinancing,RENT,KS,Driver/Transportation,2020,1,0
+12000,36,0.2905,83000.0,742,Debt Consolidation,MORTGAGE,OK,Office,2020,4,0
+6000,36,0.1109,72300.0,672,Debt Consolidation,RENT,ID,Skilled Labor,2020,1,0
+15000,60,0.2999,62395.0,682,Credit Card Refinancing,RENT,VA,Office,2019,2,0
+12000,60,0.2688,145000.0,677,Other,MORTGAGE,CA,Unknown,2019,2,0
+26300,36,13.64,150000.0,730,home_improvement,mortgage,CA,Health care,2020,8 years,0
+11750,60,0.2008,56233.0,672,Credit Card Refinancing,RENT,GA,Office,2018,2,0
+18000,36,0.2235,40000.0,742,Debt Consolidation,RENT,NV,Health care,2018,2,0
+21275,60,0.2209,130000.0,687,Debt Consolidation,MORTGAGE,TX,Health care,2019,5,0
+40000,36,0.3685,85000.0,717,Credit Card Refinancing,MORTGAGE,NY,,2019,,0
+35000,36,0.16899999999999998,60000.0,712,Business,RENT,CA,,2019,< 1 year,1
+10000,36,0.3386,32540.0,692,Credit Card Refinancing,RENT,VA,Customer Service,2019,3,0
+21775,60,0.2826,40000.0,672,Credit Card Refinancing,RENT,NJ,Skilled Labor,2020,2,1
+30000,36,23.0,43000.0,710,credit_card,rent,NC,Education,2018,8 years,0
+15000,36,0.1366,90000.0,687,Debt Consolidation,RENT,TN,,2019,< 1 year,0
+15000,36,0.1093,130000.0,667,Debt Consolidation,RENT,GA,Others,2018,0,0
+30000,60,0.013000000000000001,300000.0,747,Credit Card Refinancing,MORTGAGE,NY,Others,2019,10,0
+40000,36,0.0295,92000.0,757,Debt Consolidation,RENT,CA,Office,2018,7,0
+30000,60,0.1304,60000.0,712,Home Improvement,MORTGAGE,CT,Office,2020,14,0
+13000,36,0.0894,64999.0,672,Credit Card Refinancing,RENT,CA,Skilled Labor,2020,6,0
+28000,36,0.2298,133000.0,677,Debt Consolidation,MORTGAGE,FL,Others,2019,21,0
+6375,36,0.2346,85000.0,722,Credit Card Refinancing,RENT,FL,Others,2019,11,0
+8000,36,0.1751,165000.0,697,Credit Card Refinancing,MORTGAGE,OH,Office,2020,7,0
+20000,60,0.3364,65000.0,712,Debt Consolidation,OWN,TX,Health care,2019,12,0
+10625,36,22.28,60000.0,680,debt_consolidation,own,FL,Education,2019,2 years,0
+12800,60,0.3034,53128.0,672,Debt Consolidation,MORTGAGE,NJ,Office,2018,10,0
+6500,36,0.256,30000.0,662,Credit Card Refinancing,RENT,MS,Office,2019,10,0
+11200,36,0.1182,52096.0,692,Debt Consolidation,MORTGAGE,MI,Skilled Labor,2018,8,0
+15500,60,15.8,39284.0,775,debt_consolidation,mortgage,VA,,2018,,0
+10000,36,0.1211,35000.0,682,Credit Card Refinancing,OWN,IN,Office,2019,5,0
+19200,36,0.2414,52000.0,707,Debt Consolidation,RENT,DC,Food/Hospitality,2019,3,0
+10475,36,0.2064,150000.0,747,Home Improvement,OWN,FL,Office,2018,2,0
+16000,60,0.2547,31000.0,687,Debt Consolidation,RENT,NY,,2018,0,0
+2400,36,8.27,18000.0,675,other,rent,ID,,2019,,0
+16200,60,0.1898,65000.0,727,Debt Consolidation,RENT,ME,,2020,,0
+20000,36,0.2052,80000.0,682,Debt Consolidation,MORTGAGE,RI,Driver/Transportation,2018,8,0
+10000,36,16.06,140000.0,625,debt_consolidation,mortgage,TX,Unknown,2018,10+ years,1
+40000,60,14.46,78000.0,765,debt_consolidation,mortgage,CA,Health care,2019,10+ years,0
+10000,36,0.1564,70000.0,697,Business,RENT,TX,,2020,< 1 year,0
+10000,36,0.1757,50000.0,692,Debt Consolidation,RENT,CA,Driver/Transportation,2018,5,0
+10000,36,0.2465,33000.0,672,Debt Consolidation,RENT,TX,Driver/Transportation,2019,7,0
+4500,36,0.0971,63000.0,667,Other Major Purchase,RENT,FL,Driver/Transportation,2018,4,0
+35000,36,0.1137,155000.0,717,Debt Consolidation,RENT,OR,Others,2020,5,0
+4000,36,0.1247,41376.0,682,Home Improvement,OWN,CA,,2019,0,0
+12000,36,12.47,176000.0,645,debt_consolidation,mortgage,AR,Others,2019,< 1 year,0
+12275,36,0.3703,54392.92,687,Debt Consolidation,MORTGAGE,FL,,2018,,0
+1000,36,17.83,118000.0,685,major_purchase,mortgage,AL,Office,2019,10+ years,0
+4000,36,0.2443,20000.0,692,Debt Consolidation,OWN,TX,,2019,,0
+25525,60,0.1936,90432.0,672,Debt Consolidation,MORTGAGE,OK,Skilled Labor,2020,2,0
+12750,60,0.2233,132000.0,717,Home Improvement,MORTGAGE,FL,Skilled Labor,2020,4,0
+8525,36,0.1398,80000.0,662,Home Improvement,MORTGAGE,OK,Others,2019,5,0
+20000,60,0.2554,63000.0,687,Debt Consolidation,RENT,KY,Others,2019,0,0
+22400,60,0.1501,71000.0,767,Debt Consolidation,RENT,CA,Office,2019,3,0
+10000,36,0.2487,40000.0,677,Other,MORTGAGE,SC,Driver/Transportation,2018,3,0
+10000,36,0.2355,72000.0,702,Debt Consolidation,RENT,PA,Others,2019,0,0
+10000,36,0.3398,35000.0,677,Debt Consolidation,OWN,CA,Skilled Labor,2019,0,0
+14000,36,0.2254,50900.0,702,Other,MORTGAGE,CO,,2018,,0
+30000,60,0.2395,72000.0,662,Debt Consolidation,RENT,GA,Education,2019,12,0
+15000,36,0.2711,53000.0,712,Debt Consolidation,MORTGAGE,TX,Real Estate,2018,2,0
+20000,60,0.14300000000000002,60000.0,707,Business,RENT,WA,Small Business,2019,1,1
+22000,36,0.1205,50200.0,702,Debt Consolidation,OWN,MA,Others,2018,7,0
+8450,36,0.1174,52000.0,662,Debt Consolidation,RENT,OR,Office,2018,2,0
+20175,60,0.2463,140000.0,667,Debt Consolidation,MORTGAGE,CT,Office,2018,10,0
+20000,36,0.1295,88500.0,662,Credit Card Refinancing,MORTGAGE,NC,Legal/Government/Police,2018,10,0
+14000,60,0.2857,79500.0,742,Debt Consolidation,RENT,CA,Office,2019,6,0
+40000,60,0.2981,78102.0,747,Debt Consolidation,OWN,KY,,2019,,0
+30000,36,0.166,190000.0,672,Debt Consolidation,OWN,MO,IT/Engineering,2020,5,0
+22975,36,0.2875,110000.0,682,Debt Consolidation,RENT,TX,Health care,2019,1,1
+30000,36,0.1043,95000.0,692,Credit Card Refinancing,OWN,NJ,Others,2018,7,1
+19200,36,0.2647,120000.0,677,Other,RENT,MI,Driver/Transportation,2019,15,0
+20200,60,0.2514,52520.0,712,Debt Consolidation,MORTGAGE,PA,Health care,2019,13,0
+10625,60,0.0667,98000.0,702,Other Major Purchase,RENT,GA,Sales,2020,0,0
+10000,60,0.0831,40000.0,677,Credit Card Refinancing,RENT,PA,Driver/Transportation,2019,7,0
+24000,36,0.0674,66560.0,697,Credit Card Refinancing,RENT,OR,Office,2019,0,0
+25000,60,0.1261,250000.0,682,Debt Consolidation,OWN,AR,Health care,2018,2,0
+18000,60,0.271,50400.0,687,Debt Consolidation,RENT,CA,Skilled Labor,2019,7,0
+14000,60,0.1022,39000.0,747,Credit Card Refinancing,MORTGAGE,TX,,2020,,0
+30000,60,0.2517,90000.0,697,Debt Consolidation,RENT,MD,Office,2019,0,0
+15000,60,0.1797,115000.0,677,Debt Consolidation,RENT,CA,Health care,2019,0,0
+6300,36,0.3208,37000.0,787,Credit Card Refinancing,OWN,CA,,2019,0,0
+10000,36,31.33,38502.0,715,credit_card,mortgage,WA,,2019,,0
+36000,36,0.2107,120000.0,727,Debt Consolidation,RENT,TN,Office,2018,7,1
+5000,36,0.2633,26400.0,677,Debt Consolidation,RENT,PA,,2019,0,0
+15950,60,0.3687,35000.0,692,Debt Consolidation,OWN,IL,Small Business,2019,1,0
+18000,60,0.2553,144523.0,677,Debt Consolidation,MORTGAGE,MD,Office,2019,27,0
+28425,60,0.0383,130000.0,747,Other Major Purchase,RENT,FL,,2019,< 1 year,0
+10875,60,13.64,82000.0,680,debt_consolidation,mortgage,MI,Others,2019,1 year,0
+15000,60,0.3311,65000.0,712,Other,RENT,NY,Skilled Labor,2019,9,0
+25525,60,0.2349,127000.0,662,Debt Consolidation,RENT,KS,Driver/Transportation,2019,5,0
+6000,36,0.375,40000.0,722,Credit Card Refinancing,OWN,FL,Small Business,2019,2,0
+14000,36,0.2147,45000.0,672,Debt Consolidation,RENT,FL,Others,2019,5,1
+35000,36,0.0465,1161498.0,692,Debt Consolidation,RENT,WI,Others,2018,3,0
+10000,36,0.2773,175000.0,692,Debt Consolidation,MORTGAGE,CA,Others,2019,6,0
+12750,60,0.1571,56000.0,732,Home Improvement,OWN,FL,Food/Hospitality,2019,3,1
+27100,36,0.3954,75000.0,752,Debt Consolidation,MORTGAGE,NY,Skilled Labor,2018,35,0
+6075,36,0.2232,30000.0,742,Home Improvement,MORTGAGE,OH,Education,2020,5,1
+10000,60,0.2972,44000.0,667,Credit Card Refinancing,MORTGAGE,PA,Others,2019,16,0
+21000,36,0.3069,55000.0,707,Credit Card Refinancing,RENT,SC,Unknown,2018,8,0
+32000,36,0.281,110000.0,687,Credit Card Refinancing,RENT,OR,IT/Engineering,2019,4,0
+7000,36,9.15,50000.0,680,credit_card,mortgage,PA,Health care,2019,10+ years,0
+13000,60,0.1533,61200.0,677,Credit Card Refinancing,MORTGAGE,TX,Construction/Labor,2019,7,0
+4800,36,0.0864,54000.0,662,Credit Card Refinancing,OWN,NY,Customer Service,2019,0,0
+12000,36,0.2924,55000.0,747,Debt Consolidation,RENT,NJ,Others,2018,3,0
+12500,60,0.3171,54000.0,667,Debt Consolidation,MORTGAGE,AL,Driver/Transportation,2018,10,0
+4000,36,0.3345,31000.0,667,Debt Consolidation,RENT,IN,Office,2020,3,1
+13000,60,0.3216,75000.0,752,Debt Consolidation,OWN,IN,Driver/Transportation,2019,9,1
+17000,36,0.3838,65000.0,707,Medical Expenses,RENT,TX,Skilled Labor,2019,8,0
+10200,36,0.1357,275000.0,687,Debt Consolidation,RENT,CA,Office,2018,14,0
+10000,36,0.3933,110000.0,687,Debt Consolidation,MORTGAGE,TX,,2019,< 1 year,0
+29500,60,0.19699999999999998,70000.0,682,Credit Card Refinancing,MORTGAGE,CA,Health care,2019,25,1
+17000,36,0.2227,70871.0,662,Debt Consolidation,RENT,NE,IT/Engineering,2018,15,0
+16000,36,0.3111,157000.0,667,Debt Consolidation,MORTGAGE,OH,Office,2020,10,0
+3000,36,0.2781,150119.0,682,Debt Consolidation,MORTGAGE,NC,Construction/Labor,2019,3,0
+19425,36,0.3358,215000.0,712,Business,OWN,TX,,2019,< 1 year,0
+15000,36,0.1913,75000.0,747,Debt Consolidation,MORTGAGE,NV,Real Estate,2019,18,0
+5500,36,0.2939,35000.0,752,Credit Card Refinancing,RENT,LA,Office,2018,10,0
+6000,36,0.1281,16860.0,662,Debt Consolidation,RENT,GA,,2019,0,0
+11000,60,0.19899999999999998,48000.0,687,Debt Consolidation,RENT,WA,Customer Service,2019,1,0
+30000,36,0.3756,123000.0,682,Debt Consolidation,MORTGAGE,TX,IT/Engineering,2019,0,0
+16000,36,0.1512,105000.0,662,Credit Card Refinancing,RENT,CA,IT/Engineering,2019,2,1
+18000,60,0.2187,63000.0,672,Debt Consolidation,MORTGAGE,TX,Office,2019,5,1
+7000,36,0.2085,69000.0,682,Debt Consolidation,RENT,NV,Others,2019,4,0
+29950,36,0.3328,75000.0,697,Debt Consolidation,MORTGAGE,TX,,2019,,0
+7200,36,0.1469,42000.0,672,Debt Consolidation,RENT,TX,Skilled Labor,2019,2,1
+32000,36,0.2484,111000.0,667,Credit Card Refinancing,MORTGAGE,AR,Office,2019,7,0
+15000,36,0.0644,65000.0,677,Debt Consolidation,RENT,MO,IT/Engineering,2019,1,0
+8000,36,0.2981,45000.0,692,Other,RENT,NJ,Others,2019,18,0
+10000,60,0.217,38000.0,672,Debt Consolidation,OWN,CA,,2019,,1
+17000,36,8.48,115000.0,720,debt_consolidation,mortgage,MD,IT/Engineering,2019,4 years,0
+14750,36,0.3453,48000.0,682,Credit Card Refinancing,RENT,CA,Office,2018,19,0
+10000,36,0.0956,100500.0,697,Debt Consolidation,RENT,NY,Office,2018,1,0
+15000,60,0.203,170000.0,707,Home Improvement,MORTGAGE,MD,Office,2019,19,0
+27000,36,4.9,300000.0,730,debt_consolidation,mortgage,CA,Office,2020,< 1 year,0
+6375,36,1.97,80000.0,700,debt_consolidation,rent,CA,,2020,< 1 year,0
+10000,60,0.2649,42000.0,707,Debt Consolidation,OWN,CA,Office,2020,1,0
+8500,36,0.3193,50000.0,712,Debt Consolidation,OWN,OK,Education,2019,15,0
+4500,36,0.1995,112000.0,687,Credit Card Refinancing,MORTGAGE,WI,Unknown,2019,12,0
+16500,60,0.2341,123908.0,702,Credit Card Refinancing,MORTGAGE,OR,Others,2019,1,0
+10000,36,0.1812,90000.0,752,Debt Consolidation,RENT,TN,Education,2018,2,0
+12750,60,0.0468,80000.0,687,Other,RENT,MT,Sales,2019,4,0
+17000,36,0.1329,82000.0,712,Debt Consolidation,RENT,TX,Small Business,2018,3,0
+12000,36,0.1913,79100.0,667,Debt Consolidation,RENT,CA,Office,2019,2,0
+35000,36,0.0786,150000.0,692,Debt Consolidation,RENT,CA,,2018,10,0
+26000,36,0.1313,155000.0,712,Debt Consolidation,RENT,WA,Skilled Labor,2018,1,0
+10000,36,0.3754,27500.0,722,Credit Card Refinancing,OWN,WI,,2018,0,0
+32000,36,0.3153,91405.0,722,Debt Consolidation,RENT,CA,Sales,2020,11,1
+10625,36,0.1591,48736.0,687,Home Improvement,MORTGAGE,VA,,2019,,0
+6000,36,0.0863,60000.0,662,Debt Consolidation,RENT,CA,Office,2018,1,0
+13000,36,0.2337,162667.0,712,Credit Card Refinancing,MORTGAGE,IL,Office,2020,35,0
+15000,60,0.1883,52000.0,662,Debt Consolidation,RENT,CT,Office,2019,2,0
+13600,60,0.3348,102440.0,702,Debt Consolidation,OWN,WV,Office,2019,3,0
+13800,60,6.59,89000.0,650,debt_consolidation,rent,TX,,2019,< 1 year,0
+25000,36,0.2104,70000.0,712,Debt Consolidation,MORTGAGE,MN,Others,2019,4,0
+28000,36,0.3963,80000.0,682,Credit Card Refinancing,MORTGAGE,FL,Legal/Government/Police,2018,10,0
+3000,36,0.2566,21000.0,697,Credit Card Refinancing,RENT,CA,Others,2020,3,0
+8400,36,0.2482,31245.0,682,Debt Consolidation,RENT,NY,Office,2019,0,0
+18000,60,0.0326,126000.0,717,Debt Consolidation,MORTGAGE,MI,Driver/Transportation,2019,1,0
+16000,36,30.08,47000.0,675,credit_card,mortgage,AL,Education,2019,4 years,0
+12000,36,0.1566,84000.0,667,Debt Consolidation,MORTGAGE,NV,Health care,2018,5,0
+3000,36,0.2771,39200.0,662,Home Improvement,OWN,NC,Education,2019,0,0
+30000,60,0.3219,99800.0,707,Credit Card Refinancing,MORTGAGE,TX,Office,2019,22,0
+28700,60,0.1222,300000.0,722,Credit Card Refinancing,RENT,NJ,Food/Hospitality,2019,6,1
+10000,36,0.1566,60000.0,687,Credit Card Refinancing,RENT,FL,Skilled Labor,2019,0,0
+30000,36,0.2026,190000.0,697,Debt Consolidation,MORTGAGE,MA,Others,2019,17,0
+15000,60,13.13,125000.0,745,debt_consolidation,mortgage,SC,Health care,2019,5 years,0
+30000,60,0.2612,135000.0,717,Debt Consolidation,MORTGAGE,RI,Real Estate,2019,4,0
+25000,36,0.1215,110000.0,672,Debt Consolidation,MORTGAGE,MD,Legal/Government/Police,2018,6,0
+5000,36,0.2693,52000.0,687,Credit Card Refinancing,MORTGAGE,IN,Office,2019,26,0
+19250,36,0.2449,200000.0,682,Debt Consolidation,MORTGAGE,NJ,Construction/Labor,2019,10,0
+30000,60,0.0864,30000.0,677,Debt Consolidation,RENT,LA,Unknown,2018,10,0
+36000,36,0.0246,85000.0,732,Debt Consolidation,MORTGAGE,MD,Skilled Labor,2019,0,0
+11000,60,0.0572,80000.0,662,Credit Card Refinancing,RENT,CA,Office,2019,15,0
+16000,60,0.2413,75000.0,697,Credit Card Refinancing,MORTGAGE,MO,,2019,,0
+8000,36,0.2095,92000.0,662,Debt Consolidation,MORTGAGE,WA,Legal/Government/Police,2019,3,1
+26600,36,36.06,100000.0,685,credit_card,mortgage,WI,,2019,< 1 year,0
+10625,36,0.1693,48000.0,682,Credit Card Refinancing,RENT,NY,Skilled Labor,2019,0,1
+31200,60,53.32,58000.0,710,debt_consolidation,own,NC,Others,2018,5 years,0
+21650,60,0.0971,57000.0,722,Other,RENT,SC,Customer Service,2019,0,0
+17850,36,0.1017,53000.0,732,Debt Consolidation,RENT,NY,Customer Service,2019,0,0
+31425,36,0.2395,188000.0,662,Debt Consolidation,OWN,WI,Others,2019,4,1
+19200,36,0.1148,95000.0,662,Credit Card Refinancing,RENT,CA,Others,2018,12,1
+30000,36,0.0368,60000.0,712,Debt Consolidation,RENT,CA,Office,2018,6,0
+25525,60,0.1983,110700.0,732,Credit Card Refinancing,RENT,CA,Office,2019,2,1
+15000,36,0.2132,90000.0,712,Medical Expenses,MORTGAGE,NV,,2019,< 1 year,0
+18000,60,0.1234,95000.0,677,Debt Consolidation,MORTGAGE,FL,Skilled Labor,2019,10,0
+20000,60,0.1789,65000.0,667,Credit Card Refinancing,MORTGAGE,WV,,2019,< 1 year,0
+5000,36,0.1696,28800.0,702,Home Purchase,MORTGAGE,NC,,2019,,0
+25000,36,0.1304,116000.0,667,Debt Consolidation,MORTGAGE,MD,Others,2019,18,0
+21275,60,0.1887,81000.0,712,Debt Consolidation,RENT,PA,Office,2019,4,0
+17000,36,0.3779,28800.0,687,Debt Consolidation,RENT,CA,Skilled Labor,2019,3,1
+10000,60,0.1662,65000.0,677,Credit Card Refinancing,RENT,MI,,2019,< 1 year,0
+36000,60,19.89,40000.0,715,debt_consolidation,rent,CA,Office,2019,2 years,0
+26575,36,0.2341,75000.0,687,Debt Consolidation,MORTGAGE,AK,Customer Service,2020,10,0
+21275,36,0.122,107448.0,682,Home Improvement,MORTGAGE,WA,Others,2019,2,0
+20000,60,0.2167,84000.0,687,Debt Consolidation,MORTGAGE,IL,Skilled Labor,2019,10,0
+10000,36,0.1301,120000.0,667,Debt Consolidation,MORTGAGE,TX,Small Business,2019,10,0
+26000,36,0.2489,118000.0,672,Credit Card Refinancing,MORTGAGE,IL,Skilled Labor,2019,3,0
+17000,36,0.1334,140000.0,672,Home Improvement,OWN,FL,IT/Engineering,2019,3,0
+19200,60,0.2989,62000.0,722,Debt Consolidation,MORTGAGE,CA,Office,2020,20,0
+14875,36,0.3314,52000.0,687,Credit Card Refinancing,MORTGAGE,ND,Others,2020,2,0
+40000,60,0.0756,150000.0,737,Debt Consolidation,RENT,DC,Sales,2019,8,1
+12800,36,0.2118,48000.0,662,Credit Card Refinancing,RENT,CA,Office,2019,4,0
+19000,60,0.2956,33000.0,712,Debt Consolidation,RENT,MD,Health care,2019,1,1
+5300,36,0.1794,140000.0,712,Vacation,MORTGAGE,NJ,Skilled Labor,2019,3,0
+30000,60,0.3512,120000.0,692,Debt Consolidation,MORTGAGE,PA,Driver/Transportation,2019,10,1
+18000,60,0.342,70000.0,717,Debt Consolidation,MORTGAGE,FL,Skilled Labor,2019,17,0
+10000,36,0.249,63000.0,732,Debt Consolidation,RENT,CO,Office,2018,5,0
+4800,36,0.2622,40000.0,662,Debt Consolidation,OWN,AR,,2019,0,0
+25000,60,0.128,68000.0,682,Debt Consolidation,RENT,CT,Customer Service,2019,6,1
+30000,60,14.15,124705.0,675,debt_consolidation,rent,TX,Skilled Labor,2019,3 years,0
+40000,36,0.2156,160000.0,702,Debt Consolidation,MORTGAGE,TX,IT/Engineering,2018,0,0
+10000,36,0.3211,42000.0,662,Debt Consolidation,RENT,WA,Construction/Labor,2019,5,1
+6000,36,0.1799,33552.0,697,Debt Consolidation,RENT,DC,,2020,,0
+4775,36,0.2185,105000.0,677,Debt Consolidation,RENT,UT,Construction/Labor,2020,2,0
+13000,60,10.05,85000.0,520,debt_consolidation,rent,CA,Office,2019,2 years,1
+15000,60,0.27399999999999997,80000.0,677,Credit Card Refinancing,MORTGAGE,TX,Driver/Transportation,2019,1,1
+6375,36,0.3576,45000.0,697,Debt Consolidation,MORTGAGE,FL,Office,2020,2,0
+3200,36,0.1725,130000.0,682,Home Improvement,MORTGAGE,KY,Others,2018,10,0
+7200,36,0.2447,84000.0,702,Other,RENT,TX,Skilled Labor,2019,8,1
+30000,60,0.0589,98000.0,702,Debt Consolidation,RENT,GA,Others,2019,1,1
+15000,60,26.31,52000.0,695,credit_card,rent,OR,Food/Hospitality,2020,10+ years,0
+25000,60,0.2285,81500.0,687,Debt Consolidation,MORTGAGE,NC,IT/Engineering,2018,7,0
+28000,60,0.2386,131000.0,737,Credit Card Refinancing,MORTGAGE,RI,IT/Engineering,2019,10,1
+32500,60,0.2673,125000.0,742,Credit Card Refinancing,MORTGAGE,CO,Others,2018,2,0
+9500,36,0.2964,56000.0,687,Debt Consolidation,RENT,NM,Office,2019,0,0
+10000,36,18.7,72000.0,675,debt_consolidation,mortgage,NH,Health care,2019,1 year,0
+40000,36,0.1835,500000.0,682,Debt Consolidation,MORTGAGE,TX,Others,2018,10,0
+2200,36,0.3096,50000.0,667,Home Improvement,MORTGAGE,CA,Construction/Labor,2020,5,0
+13275,60,0.2348,85000.0,672,Debt Consolidation,MORTGAGE,CT,Skilled Labor,2019,4,0
+7975,36,0.2634,17000.0,712,Debt Consolidation,RENT,WI,,2019,,0
+31575,36,0.341,72000.0,717,Debt Consolidation,RENT,NJ,,2019,,0
+40000,60,0.19699999999999998,130000.0,702,Debt Consolidation,MORTGAGE,CA,IT/Engineering,2019,2,0
+35000,60,0.1636,100000.0,662,Debt Consolidation,MORTGAGE,MD,Legal/Government/Police,2019,11,1
+8500,36,0.3904,58000.0,722,Vacation,MORTGAGE,CA,Sales,2019,7,0
+20000,36,0.0607,55000.0,727,Debt Consolidation,RENT,CA,Food/Hospitality,2018,1,0
+21000,60,20.5,107000.0,745,other,own,MD,,2019,,0
+8000,36,0.2802,35000.0,732,Debt Consolidation,MORTGAGE,OH,Unknown,2018,0,0
+3500,36,0.0736,75000.0,697,Credit Card Refinancing,RENT,NE,Sales,2018,7,0
+26575,60,0.2291,171313.0,707,Other,MORTGAGE,MD,Office,2019,10,0
+8000,36,0.1152,55000.0,687,Debt Consolidation,MORTGAGE,CA,Health care,2018,0,0
+14000,60,0.2859,75000.0,682,Credit Card Refinancing,MORTGAGE,NC,Others,2019,8,0
+5000,36,0.1419,50000.0,717,Credit Card Refinancing,MORTGAGE,FL,Office,2018,1,0
+10000,36,0.215,35000.0,667,Debt Consolidation,RENT,NC,Office,2020,2,0
+5000,36,0.0757,36000.0,662,Other,RENT,NJ,Driver/Transportation,2019,1,0
+23200,60,0.1494,252000.0,727,Debt Consolidation,MORTGAGE,MI,Others,2019,5,1
+10000,36,0.1836,30000.0,672,Debt Consolidation,RENT,TX,Office,2019,2,0
+31200,36,0.3386,99378.0,682,Debt Consolidation,MORTGAGE,WY,IT/Engineering,2019,1,0
+23400,60,0.2354,60000.0,757,Other,MORTGAGE,OH,Skilled Labor,2019,7,0
+18000,36,0.1946,240000.0,692,Vehicle Purchase,MORTGAGE,MD,,2019,,0
+32000,60,0.259,75000.0,702,Debt Consolidation,MORTGAGE,IL,Others,2020,1,0
+10000,36,6.9,234000.0,700,debt_consolidation,mortgage,CA,Customer Service,2020,5 years,0
+31900,60,0.1183,120000.0,672,Debt Consolidation,OWN,LA,Skilled Labor,2019,5,1
+20000,60,1.15,50000.0,700,other,own,GA,,2020,,0
+25000,60,14.27,94000.0,740,credit_card,mortgage,GA,IT/Engineering,2019,< 1 year,0
+36225,60,0.2351,170000.0,677,Credit Card Refinancing,MORTGAGE,TN,Office,2019,13,0
+12000,36,0.0993,125000.0,662,Credit Card Refinancing,MORTGAGE,IL,Others,2018,2,0
+13500,60,0.2036,88000.0,692,Home Improvement,MORTGAGE,GA,,2019,,0
+32000,60,0.1535,140000.0,662,Credit Card Refinancing,RENT,PA,IT/Engineering,2019,1,0
+10000,36,0.3352,70000.0,677,Credit Card Refinancing,RENT,NJ,IT/Engineering,2019,9,0
+6025,36,0.0811,160000.0,702,Other,MORTGAGE,MA,Office,2019,20,0
+18000,36,18.82,50000.0,710,debt_consolidation,own,CA,,2019,,0
+9550,36,0.0507,120000.0,757,Home Improvement,RENT,AK,Skilled Labor,2020,19,0
+1000,36,0.2362,14784.0,677,Credit Card Refinancing,RENT,MI,,2019,0,0
+15000,36,0.1354,75000.0,662,Vacation,RENT,MO,Skilled Labor,2018,10,0
+35000,36,0.1277,69461.0,717,Credit Card Refinancing,MORTGAGE,NY,Office,2019,10,0
+7425,36,0.1908,38000.0,667,Other,RENT,VA,Legal/Government/Police,2019,1,0
+17000,36,0.2471,38221.8,717,Credit Card Refinancing,RENT,TX,,2019,0,0
+20000,60,0.3879,83000.0,662,Debt Consolidation,OWN,FL,Food/Hospitality,2019,10,1
+24000,60,8.23,258000.0,700,debt_consolidation,mortgage,MD,Others,2019,10+ years,0
+7000,36,0.209,53000.0,672,Credit Card Refinancing,RENT,SC,Real Estate,2019,2,0
+21275,36,0.385,95000.0,687,Debt Consolidation,RENT,NV,Unknown,2019,24,1
+15000,60,0.1233,63000.0,687,Debt Consolidation,MORTGAGE,PA,Small Business,2020,7,0
+15000,60,17.87,105000.0,730,debt_consolidation,mortgage,NJ,Office,2019,10+ years,0
+16000,36,23.42,70000.0,710,debt_consolidation,own,TN,Education,2019,10+ years,0
+30000,36,0.3643,94036.0,687,Debt Consolidation,MORTGAGE,KY,,2019,,0
+17875,60,0.2706,75000.0,692,Credit Card Refinancing,RENT,CA,Health care,2019,0,1
+35000,36,0.1311,120000.0,662,Moving or Relocation,RENT,CA,,2019,1,0
+20000,60,0.1852,105000.0,662,Debt Consolidation,MORTGAGE,MD,Skilled Labor,2019,10,0
+11000,36,17.68,78720.0,680,debt_consolidation,mortgage,MI,Legal/Government/Police,2019,5 years,0
+14000,60,0.2067,132000.0,707,Debt Consolidation,OWN,NV,Others,2019,7,0
+3600,36,0.1025,76900.0,727,Vehicle Purchase,RENT,IN,Office,2019,7,0
+5000,36,0.0888,30000.0,662,Debt Consolidation,RENT,MN,Food/Hospitality,2018,0,0
+18000,60,0.1575,65000.0,662,Debt Consolidation,RENT,GA,Legal/Government/Police,2018,4,1
+16800,36,9.01,90000.0,700,credit_card,rent,CA,Office,2019,3 years,0
+4000,36,0.2734,100000.0,702,Other Major Purchase,RENT,CA,Health care,2019,1,0
+10000,36,0.0428,170000.0,672,Home Improvement,MORTGAGE,IN,Others,2019,2 years,0
+10000,36,0.08199999999999999,47000.0,682,Debt Consolidation,MORTGAGE,AL,Education,2019,22,0
+16200,60,0.0853,90000.0,687,Debt Consolidation,OWN,NY,Food/Hospitality,2019,7,0
+21275,60,0.1192,125000.0,682,Credit Card Refinancing,RENT,NJ,Health care,2019,0,0
+4250,36,0.2408,50000.0,677,Debt Consolidation,RENT,AZ,Office,2020,4,0
+3000,36,0.1226,70000.0,737,Debt Consolidation,MORTGAGE,WA,Food/Hospitality,2018,7,0
+12000,60,0.2299,97500.0,697,Debt Consolidation,RENT,CA,IT/Engineering,2019,2,1
+10000,36,0.0868,55000.0,692,Debt Consolidation,MORTGAGE,TX,Small Business,2018,10,0
+24000,60,0.2158,120000.0,737,Debt Consolidation,ANY,CA,Health care,2019,5,1
+40000,36,0.2152,92720.0,702,Debt Consolidation,RENT,CA,,2019,< 1 year,0
+10625,60,0.1753,36000.0,677,Debt Consolidation,OWN,FL,,2019,0,0
+2650,36,0.1819,59000.0,662,Debt Consolidation,OWN,TX,Skilled Labor,2019,5,0
+25000,36,0.3775,95000.0,682,Credit Card Refinancing,MORTGAGE,NV,Office,2019,2,1
+6000,36,0.2625,54080.0,672,Debt Consolidation,RENT,MI,Office,2019,3,0
+20000,60,0.2095,100000.0,672,Other,RENT,OK,Others,2019,2,0
+10000,36,0.1408,45000.0,662,Debt Consolidation,RENT,MA,Skilled Labor,2019,10,1
+17000,60,0.1507,34000.0,667,Debt Consolidation,MORTGAGE,IN,,2019,< 1 year,0
+28300,60,0.2583,210000.0,697,Credit Card Refinancing,RENT,TX,Others,2019,6,1
+10000,36,0.2076,50000.0,662,Vacation,MORTGAGE,IL,,2019,,0
+10000,36,0.2506,96000.0,692,Credit Card Refinancing,RENT,TX,Skilled Labor,2019,5,1
+35000,60,0.2678,95000.0,722,Debt Consolidation,RENT,CA,Construction/Labor,2018,10,0
+10000,36,0.3429,40000.0,682,Debt Consolidation,RENT,OH,Skilled Labor,2019,3,0
+12000,60,0.1575,55000.0,692,Credit Card Refinancing,MORTGAGE,NJ,Office,2020,4,0
+4800,36,0.0515,45000.0,662,Debt Consolidation,RENT,CA,Office,2020,1,0
+25000,60,0.2365,86472.99,672,Credit Card Refinancing,MORTGAGE,FL,IT/Engineering,2020,2,0
+32000,60,30.18,199000.0,700,credit_card,mortgage,MD,IT/Engineering,2020,10+ years,0
+17000,60,0.14,47500.0,682,Debt Consolidation,MORTGAGE,GA,Legal/Government/Police,2018,20,0
+15000,36,0.2293,46000.0,667,Debt Consolidation,MORTGAGE,IL,,2019,0,0
+17600,36,25.06,60000.0,730,credit_card,own,PA,,2019,,0
+24000,36,11.72,125000.0,665,debt_consolidation,mortgage,PA,,2019,< 1 year,0
+10000,36,0.0874,25000.0,682,Debt Consolidation,OWN,FL,,2018,0,0
+16000,36,0.3672,30000.0,687,Debt Consolidation,OWN,OH,,2018,,0
+18500,60,0.2336,135000.0,707,Credit Card Refinancing,MORTGAGE,CA,Others,2019,1,0
+10000,36,0.29,49992.0,677,Other,OWN,AR,Others,2019,2,1
+39375,36,0.1922,203900.0,712,Debt Consolidation,OWN,TX,Unknown,2019,5,0
+40000,60,0.54,97000.0,765,debt_consolidation,own,MD,Sales,2019,10+ years,0
+15000,36,21.21,85000.0,615,credit_card,mortgage,VA,Office,2018,10+ years,0
+10575,60,22.66,59000.0,745,credit_card,own,NH,,2019,,0
+25000,36,13.34,95000.0,680,other,mortgage,FL,Skilled Labor,2019,2 years,0
+18000,36,0.0,58000.0,677,Debt Consolidation,MORTGAGE,WI,Health care,2018,4,0
+10000,36,0.2715,39960.0,712,Debt Consolidation,RENT,CA,Others,2019,2,0
+10000,36,0.0656,80000.0,682,Debt Consolidation,MORTGAGE,NJ,Skilled Labor,2019,8,0
+5000,36,0.3672,30000.0,667,Debt Consolidation,RENT,VA,Health care,2020,8,0
+7200,36,0.3781,112250.0,687,Debt Consolidation,RENT,FL,IT/Engineering,2019,1,1
+8100,36,0.1058,48000.0,682,Debt Consolidation,RENT,CA,Others,2020,4,0
+9575,60,0.2317,35000.0,662,Debt Consolidation,RENT,OR,,2020,0,0
+18000,36,0.2285,119000.0,662,Debt Consolidation,MORTGAGE,MO,Others,2019,20,0
+5000,36,0.1366,60000.0,667,Debt Consolidation,RENT,AL,Office,2019,2,0
+6000,36,0.1261,63168.0,672,Debt Consolidation,RENT,TX,Others,2018,10,0
+6000,36,0.2639,68000.0,697,Debt Consolidation,RENT,HI,Office,2018,4,0
+3200,36,0.1117,58000.0,662,Debt Consolidation,RENT,TX,Office,2018,10,0
+26575,60,0.1666,84290.4,662,Debt Consolidation,RENT,CA,Office,2019,5,0
+18000,36,0.0164,108531.0,712,Debt Consolidation,MORTGAGE,MA,Health care,2019,4,0
+21275,60,0.1952,80000.0,702,Debt Consolidation,MORTGAGE,FL,Skilled Labor,2019,8,0
+10000,60,0.0828,87000.0,667,Debt Consolidation,MORTGAGE,CA,Skilled Labor,2019,23,0
+6025,36,0.1543,55000.0,677,Debt Consolidation,RENT,MA,Construction/Labor,2019,2,0
+12000,60,21.5,96000.0,665,debt_consolidation,mortgage,FL,,2018,< 1 year,0
+4000,36,0.36200000000000004,24000.0,727,Credit Card Refinancing,RENT,KY,Food/Hospitality,2018,0,0
+19000,60,0.1693,66000.0,702,Debt Consolidation,MORTGAGE,FL,Others,2019,2,0
+6000,36,0.2274,40000.0,672,Debt Consolidation,RENT,PA,Office,2019,0,0
+35000,60,0.2022,150000.0,672,Debt Consolidation,MORTGAGE,GA,Health care,2019,3,0
+10000,36,0.1387,86000.0,667,Debt Consolidation,MORTGAGE,CA,Legal/Government/Police,2019,10,0
+10000,36,0.322,47000.0,702,Home Improvement,MORTGAGE,AL,Driver/Transportation,2020,6,1
+30000,36,0.1902,156000.0,667,Debt Consolidation,OWN,CA,IT/Engineering,2018,10,0
+20000,60,0.0977,145000.0,697,Credit Card Refinancing,RENT,MD,Office,2019,1,0
+15000,60,0.174,40000.0,682,Debt Consolidation,RENT,NJ,Construction/Labor,2019,2,0
+7500,36,0.0999,40000.0,712,Debt Consolidation,MORTGAGE,MO,Office,2018,2,1
+16800,36,17.73,72000.0,675,credit_card,rent,CA,Legal/Government/Police,2019,8 years,0
+2800,36,0.1867,25000.0,727,Other,OWN,TX,Office,2019,0,0
+12750,36,0.1431,110000.0,742,Medical Expenses,MORTGAGE,CO,,2018,,0
+14400,60,0.0525,40000.0,722,Credit Card Refinancing,RENT,IL,,2019,,0
+7425,36,0.3012,60000.0,687,Credit Card Refinancing,RENT,CA,Skilled Labor,2019,5,0
+5000,36,31.25,55000.0,685,home_improvement,rent,CA,Others,2019,10+ years,0
+9000,36,0.2713,56800.0,722,Debt Consolidation,MORTGAGE,IN,,2019,,0
+24000,36,0.1281,165000.0,732,Home Improvement,RENT,NJ,Real Estate,2018,5,1
+35000,60,0.157,82000.0,702,Credit Card Refinancing,OWN,TX,Others,2019,10,0
+35000,60,0.0357,290000.0,672,Debt Consolidation,RENT,CA,,2019,< 1 year,0
+10000,60,0.1968,115000.0,702,Home Improvement,MORTGAGE,TN,Health care,2018,10,0
+35000,36,0.2057,180000.0,692,Debt Consolidation,MORTGAGE,NV,Legal/Government/Police,2019,5,0
+11200,36,0.1779,105000.0,667,Credit Card Refinancing,RENT,CA,Others,2019,10,0
+7500,36,0.1204,93000.0,662,Credit Card Refinancing,MORTGAGE,KS,Travel,2019,5,0
+8000,36,0.3808,26732.4,697,Credit Card Refinancing,RENT,MO,,2019,0,0
+21000,60,24.37,23000.0,700,other,mortgage,PA,Skilled Labor,2018,1 year,0
+20000,60,0.1996,46600.0,662,Debt Consolidation,RENT,CA,Travel,2019,3,0
+18000,36,0.1383,110000.0,667,Credit Card Refinancing,MORTGAGE,CA,Health care,2019,10,0
+25000,36,0.2724,110000.0,677,Credit Card Refinancing,RENT,MD,IT/Engineering,2019,4,0
+9525,36,0.2143,27000.0,687,Debt Consolidation,MORTGAGE,TX,Food/Hospitality,2019,5,0
+15000,36,0.3126,42000.0,692,Debt Consolidation,RENT,IL,Health care,2018,10,0
+10000,36,28.46,70000.0,685,credit_card,rent,VA,Food/Hospitality,2019,10+ years,0
+20000,60,0.2869,53000.0,707,Credit Card Refinancing,RENT,TX,Driver/Transportation,2019,21,0
+2500,36,0.3302,38000.0,677,Debt Consolidation,RENT,CA,,2019,< 1 year,0
+10000,36,0.3094,20400.0,667,Debt Consolidation,RENT,CA,,2019,,1
+8000,36,0.3016,32000.0,722,Debt Consolidation,MORTGAGE,MI,,2019,,0
+10000,36,0.1737,130000.0,662,Debt Consolidation,MORTGAGE,IL,Sales,2018,10,0
+18000,60,0.2584,60000.0,672,Debt Consolidation,RENT,CA,Office,2019,3,1
+20000,36,0.0456,96000.0,682,Debt Consolidation,MORTGAGE,CO,Driver/Transportation,2018,1,0
+6000,36,11.63,100000.0,650,credit_card,rent,KY,Skilled Labor,2019,2 years,0
+24000,60,0.2062,74736.0,677,Credit Card Refinancing,MORTGAGE,CA,Office,2018,10,0
+20000,36,0.16,82500.0,697,Debt Consolidation,RENT,CA,Skilled Labor,2018,10,1
+40000,60,31.96,90000.0,760,debt_consolidation,mortgage,MO,,2019,,0
+10000,36,0.0827,106196.0,682,Vacation,RENT,TX,Office,2018,5,0
+14175,36,0.1625,48000.0,672,Debt Consolidation,MORTGAGE,FL,Unknown,2019,0,1
+10000,60,0.0908,54999.0,677,Credit Card Refinancing,MORTGAGE,WA,Skilled Labor,2019,0,0
+12000,60,0.1493,100000.0,757,Home Improvement,MORTGAGE,CA,Others,2019,10,0
+25000,60,0.3531,36400.0,722,Credit Card Refinancing,MORTGAGE,AR,Skilled Labor,2019,10,1
+21275,60,0.1336,120000.0,672,Debt Consolidation,MORTGAGE,WI,IT/Engineering,2019,1,1
+30000,60,0.3551,66485.0,677,Credit Card Refinancing,MORTGAGE,WY,Office,2019,15,0
+40000,36,0.1111,185000.0,772,Debt Consolidation,MORTGAGE,VA,Office,2019,7,0
+16000,60,0.1837,75000.0,747,Debt Consolidation,MORTGAGE,PA,Driver/Transportation,2019,1,0
+22500,60,0.145,142000.0,662,Credit Card Refinancing,MORTGAGE,WA,Office,2018,2,0
+16000,60,0.2464,33600.0,697,Debt Consolidation,MORTGAGE,NC,,2019,0,0
+33000,60,8.58,165000.0,685,credit_card,mortgage,WA,Office,2019,8 years,0
+15000,60,0.3405,35000.0,722,Other,RENT,NJ,Others,2019,6,1
+30000,36,0.2775,104000.0,672,Credit Card Refinancing,RENT,NY,Education,2020,10,0
+26050,36,0.2951,155000.0,677,Debt Consolidation,OWN,CA,Others,2019,2,1
+10000,36,12.03,105000.0,660,home_improvement,mortgage,MI,Customer Service,2019,8 years,0
+14000,60,0.3008,60000.0,662,Debt Consolidation,RENT,MD,IT/Engineering,2019,3,0
+21000,36,11.45,100000.0,500,credit_card,rent,CA,,2019,< 1 year,0
+25000,60,10.54,140000.0,665,debt_consolidation,mortgage,WA,Skilled Labor,2020,10+ years,0
+9000,36,0.172,63000.0,672,Credit Card Refinancing,RENT,OH,Construction/Labor,2019,3,0
+40000,36,0.265,100000.0,677,Debt Consolidation,RENT,WA,Food/Hospitality,2019,2,1
+20000,60,0.2701,104000.0,742,Debt Consolidation,MORTGAGE,MA,Others,2019,0,0
+20400,36,0.3384,36204.0,697,Debt Consolidation,RENT,CO,,2019,,0
+30000,60,0.2522,113000.0,682,Debt Consolidation,MORTGAGE,WI,Skilled Labor,2019,14,0
+16000,36,22.5,135200.0,680,credit_card,mortgage,FL,Office,2020,< 1 year,0
+10000,60,0.3368,80000.0,712,Home Improvement,MORTGAGE,TX,Real Estate,2018,2,0
+15000,36,0.0179,165000.0,672,Debt Consolidation,RENT,TX,,2018,< 1 year,0
+9775,36,0.1902,67000.0,692,Debt Consolidation,MORTGAGE,NJ,Education,2019,10,1
+15000,36,0.1848,38000.0,757,Other,RENT,MA,Others,2019,4,0
+25000,36,0.1131,90000.0,682,Debt Consolidation,MORTGAGE,NH,Legal/Government/Police,2018,3,0
+19200,60,0.22899999999999998,73000.0,712,Debt Consolidation,RENT,AZ,Health care,2019,3,0
+21000,36,18.91,70000.0,695,debt_consolidation,mortgage,AZ,,2018,< 1 year,0
+30000,36,0.2184,60000.0,687,Credit Card Refinancing,MORTGAGE,TN,Others,2018,4,0
+17475,36,0.3244,110000.0,722,Home Purchase,OWN,CA,IT/Engineering,2019,19,0
+10500,60,0.3143,42000.0,697,Debt Consolidation,RENT,AZ,,2020,,0
+35000,60,0.071,280000.0,762,Other Major Purchase,RENT,CA,Skilled Labor,2019,3,0
+18000,60,33.69,150000.0,665,debt_consolidation,mortgage,PA,Others,2019,10+ years,0
+13675,60,17.2,75000.0,745,home_improvement,own,CA,Office,2019,10+ years,0
+30000,60,0.3194,57000.0,697,Credit Card Refinancing,RENT,WA,Others,2020,7,0
+15000,60,0.1712,84700.0,717,Medical Expenses,MORTGAGE,CO,Skilled Labor,2018,10,1
+20000,60,0.213,69000.0,707,Home Improvement,MORTGAGE,NY,Health care,2020,10,0
+1200,36,0.1721,115692.0,712,Home Improvement,MORTGAGE,MD,Office,2019,10,0
+5000,36,2.9,234000.0,685,other,rent,CA,Office,2020,1 year,0
+20000,36,0.1739,142000.0,682,Debt Consolidation,MORTGAGE,IL,Driver/Transportation,2018,3,0
+35000,36,2.15,100000.0,710,other,rent,DE,,2020,< 1 year,0
+8000,36,0.2295,53000.0,687,Home Improvement,MORTGAGE,WY,Others,2019,5,0
+16000,36,0.2082,80000.0,692,Debt Consolidation,RENT,IL,,2019,< 1 year,0
+21000,60,0.184,18000.0,707,Debt Consolidation,MORTGAGE,NV,,2020,,0
+35000,60,0.2533,105000.0,702,Credit Card Refinancing,MORTGAGE,VT,Office,2020,24,0
+15950,36,0.2151,111000.0,692,Debt Consolidation,MORTGAGE,GA,Office,2019,0,0
+40000,36,0.1404,173000.0,747,Credit Card Refinancing,MORTGAGE,NJ,Others,2019,40,0
+30000,36,0.2547,105500.0,722,Debt Consolidation,RENT,CA,Others,2020,3,0
+5675,60,0.048,80000.0,742,Debt Consolidation,RENT,RI,Driver/Transportation,2020,15,0
+21600,60,23.68,97000.0,725,debt_consolidation,mortgage,TX,Office,2019,10+ years,0
+5000,36,0.1678,63000.0,742,Credit Card Refinancing,OWN,FL,,2020,,0
+12000,60,0.1294,103000.0,677,Home Improvement,RENT,WI,Skilled Labor,2018,3,0
+15000,36,0.16899999999999998,40000.0,667,Credit Card Refinancing,RENT,OH,Skilled Labor,2019,2,0
+15000,36,0.1942,55000.0,717,Debt Consolidation,MORTGAGE,MS,,2018,,0
+35000,60,0.1349,116000.0,717,Credit Card Refinancing,MORTGAGE,NY,Sales,2019,7,1
+35000,60,0.1448,46000.0,662,Credit Card Refinancing,RENT,TX,Driver/Transportation,2019,1,0
+7000,36,0.1702,60000.0,662,Debt Consolidation,RENT,NC,Driver/Transportation,2019,3,1
+35000,60,0.1937,56364.0,692,Home Improvement,MORTGAGE,OH,Construction/Labor,2019,7,0
+3000,36,0.1206,81000.0,667,Home Improvement,MORTGAGE,NC,Office,2020,12,0
+16575,60,0.1247,80000.0,712,Debt Consolidation,MORTGAGE,PA,Others,2019,10,1
+9000,36,0.0984,110728.0,667,Debt Consolidation,RENT,VA,Construction/Labor,2019,5,0
+16000,36,0.1967,47840.0,712,Debt Consolidation,RENT,FL,Unknown,2018,6,0
+35000,60,0.2965,96000.0,677,Credit Card Refinancing,MORTGAGE,NM,IT/Engineering,2019,10,0
+27000,36,0.3632,80000.0,682,Credit Card Refinancing,MORTGAGE,MO,Others,2020,3,0
+10000,60,0.18600000000000003,24000.0,692,Debt Consolidation,RENT,PA,Office,2019,9,0
+27475,36,0.1651,100000.0,707,Credit Card Refinancing,OWN,VT,Education,2019,10,0
+8000,36,0.2522,51000.0,677,Other Major Purchase,OWN,CA,Others,2019,7,0
+8400,36,0.0711,50000.0,692,Debt Consolidation,RENT,CA,Office,2018,8,1
+3000,36,0.0996,57500.0,692,Home Improvement,RENT,CA,Sales,2018,8,0
+10850,60,0.163,252000.0,697,Home Improvement,MORTGAGE,NY,Others,2019,1,0
+40000,60,0.0154,138600.0,812,Debt Consolidation,RENT,KS,Skilled Labor,2019,2,0
+40000,36,0.1582,140000.0,742,Debt Consolidation,MORTGAGE,MO,Office,2018,7,0
+20000,36,15.33,158000.0,665,debt_consolidation,mortgage,NC,Small Business,2019,10+ years,0
+19000,36,0.1379,98000.0,682,Debt Consolidation,RENT,CA,Sales,2019,8,0
+20000,36,0.3007,97500.0,667,Credit Card Refinancing,MORTGAGE,NC,Sales,2019,0,0
+26575,36,0.146,138000.0,662,Credit Card Refinancing,MORTGAGE,FL,Legal/Government/Police,2019,27,0
+6000,36,0.2078,60000.0,662,Debt Consolidation,RENT,DE,,2019,< 1 year,0
+18000,36,0.3315,35000.0,787,Debt Consolidation,RENT,NY,Skilled Labor,2018,10,1
+19125,60,0.3623,58000.0,687,Debt Consolidation,MORTGAGE,FL,,2020,0,0
+15000,60,0.2705,108400.0,692,Home Improvement,MORTGAGE,FL,Others,2019,11,0
+31575,36,0.2247,200000.0,702,Debt Consolidation,MORTGAGE,CA,Office,2019,3,0
+16000,36,0.0591,42000.0,687,Home Purchase,MORTGAGE,CA,Skilled Labor,2017,9,0
+6000,36,14.38,105000.0,690,debt_consolidation,rent,GA,Sales,2018,10+ years,0
+5000,36,0.1578,35000.0,712,Debt Consolidation,RENT,IL,Office,2018,9,0
+16000,36,0.94,62500.0,695,home_improvement,own,ID,Skilled Labor,2019,10+ years,0
+12000,60,0.1459,50000.0,792,Debt Consolidation,MORTGAGE,FL,,2019,,0
+15000,36,0.3248,90000.0,682,Credit Card Refinancing,MORTGAGE,TX,Others,2019,15,1
+17000,60,21.7,124000.0,770,debt_consolidation,mortgage,OR,Travel,2019,9 years,0
+8000,36,0.2282,110000.0,697,Other,OWN,CA,Skilled Labor,2020,6,1
+2500,36,0.3551,52000.0,782,Debt Consolidation,RENT,TX,IT/Engineering,2018,10,0
+3500,36,0.1303,70000.0,667,Home Improvement,MORTGAGE,MI,Unknown,2019,3,0
+16000,36,0.1689,85000.0,712,Business,MORTGAGE,FL,Health care,2018,0,1
+6000,36,0.0431,116000.0,697,Debt Consolidation,MORTGAGE,CT,Office,2018,1,1
+40000,36,0.162,155000.0,662,Debt Consolidation,RENT,FL,Office,2019,2,0
+2400,36,16.7,61500.0,690,medical,rent,CA,Office,2019,2 years,0
+5000,36,0.3025,47880.0,707,Debt Consolidation,RENT,NV,,2019,,0
+6000,36,0.1664,65000.0,662,Credit Card Refinancing,OWN,OH,Others,2019,1,1
+12000,36,0.1826,65000.0,712,Debt Consolidation,RENT,NJ,Education,2018,2,0
+20400,36,0.067,55000.0,662,Debt Consolidation,RENT,NY,Legal/Government/Police,2019,3,0
+6025,36,0.301,65000.0,672,Other Major Purchase,RENT,MA,IT/Engineering,2018,4,0
+2500,36,9.83,67500.0,705,car,rent,PA,,2019,,0
+20000,36,20.05,90000.0,735,debt_consolidation,mortgage,NC,Others,2019,< 1 year,0
+24000,36,0.0978,110000.0,707,Vehicle Purchase,RENT,FL,Office,2019,20,1
+3025,36,0.2865,95000.0,677,Other,RENT,GA,Office,2019,0,0
+18000,36,0.2297,86000.0,697,Credit Card Refinancing,RENT,TN,Others,2019,7,0
+16000,36,0.1629,125000.0,677,Credit Card Refinancing,MORTGAGE,MN,,2019,< 1 year,0
+40000,60,0.1752,125000.0,797,Home Improvement,MORTGAGE,MN,Skilled Labor,2019,7,0
+4000,36,0.0261,85000.0,662,Credit Card Refinancing,MORTGAGE,IL,Skilled Labor,2018,10,0
+19125,60,0.2559,33300.0,692,Debt Consolidation,OWN,ME,Skilled Labor,2020,3,0
+29500,36,0.2335,70000.0,697,Debt Consolidation,RENT,NJ,Real Estate,2018,6,0
+10625,36,0.3457,55000.0,692,Credit Card Refinancing,RENT,CA,Office,2019,10,0
+25000,60,0.2475,67500.0,682,Credit Card Refinancing,MORTGAGE,NV,Others,2019,12,1
+6000,36,0.24100000000000002,151000.0,677,Home Purchase,MORTGAGE,NH,Construction/Labor,2019,18,0
+40000,36,0.1736,100000.0,742,Debt Consolidation,RENT,CA,Health care,2019,7,0
+20000,60,0.1428,51600.0,752,Debt Consolidation,RENT,CO,Office,2018,3,0
+35000,60,0.1782,66000.0,717,Debt Consolidation,RENT,FL,,2019,0,0
+35000,36,34.64,105000.0,770,vacation,own,WY,Legal/Government/Police,2018,4 years,0
+16000,60,0.114,83892.0,677,Debt Consolidation,MORTGAGE,CA,Office,2019,2,0
+16000,36,0.2343,36000.0,697,Debt Consolidation,MORTGAGE,SC,Office,2019,1,0
+17000,36,0.1632,47000.0,672,Debt Consolidation,MORTGAGE,MN,Office,2020,4,0
+38000,60,10.34,98000.0,710,debt_consolidation,mortgage,AL,Office,2019,3 years,0
+4000,36,11.92,100000.0,680,other,rent,CA,,2020,,0
+11150,36,0.2888,115000.0,667,Other,RENT,WA,Health care,2019,0,0
+20000,60,0.3587,62500.0,717,Debt Consolidation,MORTGAGE,OH,Unknown,2019,4,0
+18000,60,0.0181,45000.0,747,Other Major Purchase,RENT,CO,Small Business,2019,0,0
+35000,60,0.182,128000.0,687,Vacation,OWN,IN,Others,2019,0,1
+31400,36,10.18,74000.0,715,credit_card,rent,CA,Construction/Labor,2019,10+ years,0
+10000,60,12.23,208000.0,635,small_business,own,GA,,2019,< 1 year,0
+10000,36,0.1262,205000.0,712,Home Improvement,MORTGAGE,FL,Others,2020,8,0
+10625,60,0.3386,42000.0,697,Debt Consolidation,MORTGAGE,AR,Sales,2019,8,0
+35000,36,0.1656,111000.0,682,Debt Consolidation,MORTGAGE,MI,Office,2019,3,0
+35000,36,0.2207,135000.0,677,Debt Consolidation,MORTGAGE,NJ,Others,2018,7,0
+40000,60,0.0829,111000.0,692,Debt Consolidation,MORTGAGE,FL,Health care,2019,1,1
+20000,60,18.86,115000.0,720,debt_consolidation,mortgage,NJ,Others,2018,10+ years,0
+13450,36,0.0552,75000.0,667,Home Improvement,MORTGAGE,TX,Others,2019,2,0
+19200,60,0.0846,69400.0,662,Debt Consolidation,MORTGAGE,IL,IT/Engineering,2019,16,0
+3500,36,0.2423,66208.0,707,Debt Consolidation,MORTGAGE,NY,Office,2018,5,0
+6375,36,0.2132,119250.0,712,Other,OWN,NC,Education,2020,0,0
+12000,36,0.3802,53000.0,682,Debt Consolidation,OWN,MS,Skilled Labor,2018,6,0
+15300,60,0.2362,60000.0,722,Debt Consolidation,RENT,TN,Others,2019,6,0
+20000,60,0.1505,80000.0,687,Debt Consolidation,MORTGAGE,WA,Travel,2019,4,0
+3000,36,0.2287,102300.0,692,Vacation,MORTGAGE,AL,Customer Service,2019,8,0
+29500,36,0.3117,85000.0,682,Debt Consolidation,OWN,TX,Skilled Labor,2019,20,1
+7325,36,0.3884,37200.0,687,Debt Consolidation,MORTGAGE,VA,,2019,0,0
+20000,60,0.1724,30000.0,707,Other,RENT,NJ,Others,2019,0,0
+40000,36,0.1052,200000.0,722,Debt Consolidation,RENT,NY,Others,2019,3,0
+35000,36,0.1447,144000.0,677,Credit Card Refinancing,RENT,WA,Office,2018,3,0
+12000,60,0.3266,42000.0,672,Credit Card Refinancing,RENT,VA,Skilled Labor,2019,5,1
+20000,36,0.384,64000.0,672,Credit Card Refinancing,OWN,VA,,2019,,0
+7000,36,0.1758,40000.0,712,Credit Card Refinancing,MORTGAGE,MI,,2019,,0
+20000,36,0.1935,88000.0,672,Credit Card Refinancing,OWN,FL,Unknown,2018,3,1
+10625,36,0.2995,150000.0,702,Debt Consolidation,MORTGAGE,CA,Office,2019,15,0
+20000,60,0.3218,81000.0,702,Debt Consolidation,MORTGAGE,WV,Skilled Labor,2019,2,0
+13000,60,11.13,80000.0,655,credit_card,rent,CA,Office,2019,10+ years,1
+12625,60,0.12300000000000001,130000.0,787,Debt Consolidation,MORTGAGE,CT,Office,2019,11,0
+4000,36,0.2222,75000.0,757,Debt Consolidation,RENT,CT,Others,2019,10,0
+3500,36,0.2502,26000.0,667,Other,RENT,MI,Customer Service,2019,0,1
+15000,60,0.0545,50000.0,682,Other Major Purchase,RENT,IN,Office,2018,1,0
+12000,60,0.1184,80000.0,687,Debt Consolidation,MORTGAGE,UT,IT/Engineering,2019,5,0
+5000,36,16.47,80000.0,685,home_improvement,rent,CA,Driver/Transportation,2020,10+ years,0
+18000,36,0.19699999999999998,55000.0,702,Debt Consolidation,RENT,IN,Driver/Transportation,2018,1,0
+25000,36,0.1963,70000.0,697,Credit Card Refinancing,RENT,VA,Office,2019,4,0
+10000,36,23.16,140000.0,590,debt_consolidation,own,TX,Office,2019,2 years,0
+32775,36,21.36,144000.0,670,major_purchase,rent,NC,Others,2019,3 years,0
+35000,36,24.14,150000.0,680,debt_consolidation,own,GA,Sales,2020,10+ years,0
+15000,60,21.68,100000.0,755,credit_card,mortgage,RI,Office,2018,< 1 year,0
+15950,60,0.3175,55000.0,702,Vehicle Purchase,RENT,TX,Skilled Labor,2019,3,0
+3200,36,0.3064,30000.0,722,Home Improvement,OWN,CA,,2019,,0
+15000,60,0.2392,87000.0,692,Debt Consolidation,MORTGAGE,NY,Others,2019,10,0
+35000,36,0.0021,77000.0,677,Other,RENT,MI,Skilled Labor,2018,0,0
+16000,36,0.3197,108000.0,737,Debt Consolidation,OWN,OK,Food/Hospitality,2019,11,0
+35000,60,0.2845,75000.0,792,Debt Consolidation,RENT,CA,Office,2019,7,1
+12000,36,0.2222,36400.0,677,Credit Card Refinancing,RENT,WA,Real Estate,2020,1,0
+20000,60,23.05,93000.0,740,debt_consolidation,mortgage,PA,Others,2019,8 years,0
+26825,36,0.1667,205000.0,702,Debt Consolidation,MORTGAGE,DC,Others,2019,5,0
+12000,60,0.1488,55000.0,682,Debt Consolidation,MORTGAGE,NV,Skilled Labor,2019,0,0
+12000,36,0.1743,40000.0,667,Credit Card Refinancing,RENT,CA,,2019,< 1 year,0
+32000,60,0.2142,199700.0,672,Debt Consolidation,MORTGAGE,NY,Others,2019,9,0
+25000,36,0.3846,130000.0,677,Credit Card Refinancing,MORTGAGE,TX,Health care,2019,6,0
+7000,36,0.2953,54000.0,702,Credit Card Refinancing,OWN,MA,Health care,2020,0,0
+20000,60,0.1876,148000.0,662,Credit Card Refinancing,MORTGAGE,TX,Others,2019,1,0
+12000,36,19.06,108000.0,730,debt_consolidation,rent,FL,Others,2020,10+ years,0
+4000,36,23.23,69000.0,745,home_improvement,mortgage,PA,Health care,2019,1 year,0
+16000,60,0.2646,113500.0,702,Moving or Relocation,RENT,GA,Others,2019,3,0
+10000,36,0.0645,43000.0,727,Debt Consolidation,RENT,NC,Health care,2018,0,0
+1000,36,0.3114,54000.0,677,Credit Card Refinancing,OWN,PA,,2020,,0
+20000,36,0.1027,70720.0,702,Debt Consolidation,RENT,CO,Others,2018,2,0
+18800,36,7.81,600000.0,645,other,mortgage,PA,Office,2020,10+ years,0
+12250,36,0.2846,35000.0,662,Debt Consolidation,RENT,TX,Office,2019,2,0
+14000,36,0.3601,37100.0,667,Credit Card Refinancing,RENT,MI,,2018,,0
+4000,36,0.0923,64999.0,717,Credit Card Refinancing,RENT,AZ,Others,2020,3,0
+10400,36,9.32,68000.0,735,debt_consolidation,mortgage,TX,Skilled Labor,2019,3 years,0
+2500,36,0.1422,40000.0,697,Debt Consolidation,MORTGAGE,AZ,Education,2018,6,0
+40000,60,0.0034,88000.0,762,Business,MORTGAGE,KY,,2019,< 1 year,0
+13000,36,4.32,75000.0,740,debt_consolidation,rent,TX,Sales,2020,< 1 year,0
+10500,36,0.1257,70000.0,677,Debt Consolidation,RENT,MO,Food/Hospitality,2018,2,0
+10000,36,0.3175,35000.0,682,Debt Consolidation,RENT,NC,Skilled Labor,2019,0,0
+28000,36,0.1749,133000.0,742,Debt Consolidation,MORTGAGE,MN,Unknown,2018,8,0
+14000,36,0.2716,100000.0,697,Debt Consolidation,MORTGAGE,CA,Office,2020,1,0
+12000,36,0.2417,79179.0,672,Debt Consolidation,MORTGAGE,LA,,2019,,1
+21275,60,0.2571,73000.0,737,Debt Consolidation,MORTGAGE,WV,Skilled Labor,2019,20,0
+20000,60,0.0391,58000.0,662,Credit Card Refinancing,RENT,AZ,Driver/Transportation,2019,0,0
+10000,60,0.1172,110000.0,662,Home Improvement,MORTGAGE,MN,IT/Engineering,2019,40,0
+6050,36,0.2634,38000.0,662,Debt Consolidation,RENT,FL,IT/Engineering,2019,2,0
+24000,36,0.2194,68000.0,777,Debt Consolidation,MORTGAGE,NC,Office,2019,15,0
+10000,36,5.67,77000.0,715,debt_consolidation,mortgage,TX,,2020,,0
+35000,60,0.1609,75000.0,737,Debt Consolidation,RENT,CA,Office,2019,32,0
+20000,60,0.2027,83000.0,677,Debt Consolidation,MORTGAGE,AL,Legal/Government/Police,2019,6,0
+35000,60,16.7,85000.0,725,debt_consolidation,mortgage,NE,Sales,2019,3 years,0
+8000,36,0.2343,65000.0,662,Debt Consolidation,RENT,GA,Others,2019,4,1
+35375,60,0.1666,550000.0,692,Home Improvement,MORTGAGE,NY,Others,2019,5,0
+9600,36,0.2247,40000.0,742,Credit Card Refinancing,MORTGAGE,CO,Legal/Government/Police,2018,3,0
+40000,60,0.0955,89000.0,702,Debt Consolidation,RENT,VA,Legal/Government/Police,2019,5,0
+17500,36,11.62,97500.0,745,debt_consolidation,mortgage,CA,,2019,,0
+20000,60,0.2989,45000.0,667,Credit Card Refinancing,MORTGAGE,OK,,2019,,0
+2500,36,0.2856,55000.0,677,Medical Expenses,MORTGAGE,TX,Education,2019,5,0
+1100,36,27.83,34752.0,680,major_purchase,mortgage,PA,Construction/Labor,2019,10+ years,0
+10000,60,18.85,48000.0,670,credit_card,own,CA,Health care,2019,8 years,0
+40000,36,0.3304,116000.0,712,Debt Consolidation,MORTGAGE,TX,,2019,,0
+35000,60,0.1203,235000.0,712,Debt Consolidation,RENT,CA,Health care,2019,10,1
+15000,36,0.1733,140000.0,677,Other,MORTGAGE,CA,Office,2018,1,0
+11000,36,0.0712,47000.0,682,Debt Consolidation,MORTGAGE,NC,Health care,2019,3,0
+18000,36,20.71,90000.0,720,debt_consolidation,rent,CA,Office,2019,9 years,0
+24600,60,0.3634,75000.0,727,Debt Consolidation,MORTGAGE,SC,Skilled Labor,2019,16,0
+9475,36,0.0524,146000.0,667,Home Improvement,MORTGAGE,CA,Legal/Government/Police,2020,4,0
+16000,60,0.1958,72000.0,692,Credit Card Refinancing,RENT,WA,Office,2019,5,1
+35000,36,14.82,100000.0,695,debt_consolidation,rent,CA,Others,2018,5 years,0
+10625,36,32.49,85000.0,680,credit_card,mortgage,CA,Skilled Labor,2019,5 years,0
+21000,60,0.1462,160000.0,677,Credit Card Refinancing,MORTGAGE,TN,Small Business,2019,4,0
+10000,36,0.3272,160000.0,767,Vehicle Purchase,RENT,NC,Office,2018,7,0
+20000,60,24.67,130000.0,700,home_improvement,mortgage,TX,Others,2019,1 year,0
+3600,36,0.0804,23000.0,692,Credit Card Refinancing,OWN,MO,,2019,,0
+15500,36,0.365,91000.0,697,Debt Consolidation,RENT,CA,Others,2020,3,0
+15000,36,0.1592,120000.0,672,Debt Consolidation,RENT,OH,Legal/Government/Police,2019,16,0
+7650,36,0.0944,30000.0,702,Debt Consolidation,OWN,CA,Sales,2019,2,0
+25000,60,0.1958,70000.0,707,Credit Card Refinancing,MORTGAGE,CA,Others,2019,15,0
+12000,60,0.1089,68000.0,672,Debt Consolidation,MORTGAGE,TN,Sales,2018,29,0
+3500,36,0.067,23280.0,672,Credit Card Refinancing,RENT,CA,,2018,,1
+16000,60,19.84,145600.0,720,debt_consolidation,mortgage,WY,IT/Engineering,2019,< 1 year,0
+26000,60,0.0443,148325.0,702,Debt Consolidation,MORTGAGE,TX,Education,2019,8,1
+10000,36,0.3537,180000.0,687,Other,OWN,TX,IT/Engineering,2020,5,0
+15000,60,0.2658,60000.0,682,Debt Consolidation,MORTGAGE,MT,Legal/Government/Police,2019,9,0
+19200,60,0.1892,86000.0,677,Debt Consolidation,MORTGAGE,OH,Office,2019,3,0
+10000,36,0.1617,125000.0,667,Credit Card Refinancing,MORTGAGE,AL,Small Business,2018,8,0
+40000,36,20.63,106000.0,710,debt_consolidation,rent,NC,Others,2020,4 years,0
+6700,36,0.1853,45000.0,697,Debt Consolidation,OWN,LA,Others,2018,8,0
+30000,36,10.04,345000.0,650,debt_consolidation,own,CA,Education,2018,6 years,0
+27000,36,0.1043,90000.0,687,Debt Consolidation,MORTGAGE,CA,Others,2019,10,1
+10000,36,7.73,96000.0,690,debt_consolidation,rent,TX,Office,2019,< 1 year,0
+16000,36,0.1456,91000.0,682,Debt Consolidation,RENT,MS,Driver/Transportation,2019,1,0
+5000,36,0.3641,71000.0,682,Home Improvement,MORTGAGE,IL,,2018,,0
+6500,36,0.3022,19500.0,727,Debt Consolidation,RENT,MA,,2019,0,0
+24000,60,0.319,80000.0,702,Debt Consolidation,RENT,CA,Office,2019,2,0
+2000,36,0.2623,41000.0,687,Credit Card Refinancing,RENT,FL,Office,2019,10,0
+10000,60,0.3392,112560.0,697,Credit Card Refinancing,MORTGAGE,CA,Office,2019,9,0
+17000,60,0.2162,58000.0,717,Other,OWN,NJ,Office,2019,6,0
+14000,60,0.1571,43000.0,697,Credit Card Refinancing,OWN,MS,Office,2019,8,0
+10000,36,0.217,58000.0,702,Medical Expenses,RENT,FL,Others,2019,10,0
+19275,60,0.2206,235000.0,687,Debt Consolidation,MORTGAGE,IL,Others,2019,10,0
+32000,36,0.0771,80000.0,667,Debt Consolidation,MORTGAGE,CA,Unknown,2018,3,0
+20000,36,0.2078,125000.0,677,Debt Consolidation,RENT,AZ,Sales,2019,7,0
+28000,36,0.2583,40000.0,687,Debt Consolidation,OWN,FL,Health care,2018,3,1
+16800,60,0.1355,94444.0,662,Debt Consolidation,OWN,GA,Food/Hospitality,2019,4,0
+4800,36,0.2083,64528.0,712,Moving or Relocation,RENT,VT,Office,2020,1,0
+10000,60,0.3348,39000.0,677,Debt Consolidation,MORTGAGE,FL,Construction/Labor,2019,10,0
+5000,36,0.1696,46000.0,717,Home Improvement,MORTGAGE,OR,,2018,,0
+11000,36,0.3363,40000.0,702,Debt Consolidation,RENT,CT,Unknown,2019,2,0
+22500,36,0.2185,122580.0,672,Credit Card Refinancing,RENT,CA,Office,2019,6,0
+26575,36,0.2781,40000.0,757,Other,RENT,DE,Office,2019,5,0
+11000,36,0.1292,87000.0,667,Credit Card Refinancing,RENT,CA,,2019,< 1 year,0
+20425,36,0.2733,75000.0,667,Debt Consolidation,OWN,GA,Driver/Transportation,2019,7,0
+6000,36,0.1801,10260.0,662,Debt Consolidation,RENT,MI,,2020,0,0
+25150,36,0.3295,220000.0,707,Home Improvement,OWN,GA,Small Business,2019,10,0
+15000,36,5.41,145000.0,715,debt_consolidation,rent,TX,Office,2019,< 1 year,0
+26575,60,0.1189,85000.0,677,Debt Consolidation,MORTGAGE,MA,Construction/Labor,2019,4,1
+25000,60,0.1508,73400.0,692,Debt Consolidation,RENT,CA,IT/Engineering,2019,1,0
+8000,36,0.1657,42000.0,682,Debt Consolidation,RENT,OH,Office,2019,4,0
+15000,36,0.1957,50000.0,662,Debt Consolidation,RENT,OH,Skilled Labor,2019,3,0
+3500,36,0.1258,99500.0,672,Other,MORTGAGE,KS,Office,2018,10,0
+13000,60,0.0167,134000.0,777,Credit Card Refinancing,MORTGAGE,CO,,2018,< 1 year,0
+20000,36,0.1571,135000.0,667,Debt Consolidation,RENT,TN,Unknown,2018,2,1
+21275,60,0.2257,89000.0,722,Credit Card Refinancing,RENT,AK,Office,2019,37,1
+35000,60,0.3103,120000.0,662,Debt Consolidation,RENT,MD,Office,2020,3,1
+5800,36,0.2767,50400.0,692,Credit Card Refinancing,OWN,OH,,2019,,0
+10000,36,10.25,123000.0,630,debt_consolidation,rent,OR,Office,2019,6 years,0
+20150,60,7.02,128000.0,695,credit_card,rent,CA,Unknown,2019,1 year,0
+10000,36,0.1837,57348.0,677,Debt Consolidation,MORTGAGE,TX,Construction/Labor,2018,2,0
+15000,36,0.1723,76000.0,682,Debt Consolidation,MORTGAGE,OH,,2019,,1
+5000,36,9.5,34000.0,685,debt_consolidation,rent,WV,,2019,,0
+6375,36,0.0973,90000.0,712,Home Improvement,MORTGAGE,MT,Education,2019,10,0
+24000,60,0.2225,66000.0,792,Debt Consolidation,MORTGAGE,NC,Skilled Labor,2019,20,0
+9000,36,0.1501,36060.0,712,Credit Card Refinancing,MORTGAGE,OK,Skilled Labor,2018,6,0
+9600,36,0.1764,57000.0,662,Credit Card Refinancing,RENT,NC,Others,2019,1,0
+20000,60,0.0831,155000.0,672,Debt Consolidation,MORTGAGE,CA,Unknown,2019,5,0
+21550,60,0.3128,45000.0,672,Credit Card Refinancing,OWN,PA,Office,2019,1,0
+10000,36,0.1671,40000.0,702,Debt Consolidation,MORTGAGE,CA,,2019,,0
+25000,36,0.2765,75000.0,692,Debt Consolidation,MORTGAGE,IL,Skilled Labor,2019,25,0
+35000,60,0.2727,80000.0,682,Debt Consolidation,MORTGAGE,CA,Customer Service,2019,9,0
+14500,36,0.3881,109000.0,682,Debt Consolidation,RENT,NC,Health care,2019,0,0
+6000,36,0.1842,95000.0,712,Other,RENT,NY,Office,2018,3,0
+20000,60,0.3065,65000.0,682,Other,RENT,CA,Sales,2018,7,1
+8000,36,0.1805,49000.0,667,Credit Card Refinancing,RENT,NY,Travel,2018,5,0
+25000,60,0.207,75000.0,677,Debt Consolidation,RENT,WA,Office,2019,2,0
+7000,36,0.2554,157000.0,707,Vacation,MORTGAGE,GA,Sales,2019,10,0
+7400,36,28.29,45000.0,700,debt_consolidation,mortgage,FL,Skilled Labor,2020,10+ years,0
+26575,36,0.1312,109400.0,697,Debt Consolidation,MORTGAGE,KY,Construction/Labor,2019,12,0
+10125,36,0.3907,23500.0,687,Credit Card Refinancing,RENT,MI,Others,2019,10,0
+27400,60,0.27699999999999997,60000.0,667,Debt Consolidation,RENT,CA,,2020,,0
+6000,36,0.1493,34000.0,667,Debt Consolidation,MORTGAGE,PA,Driver/Transportation,2019,6,0
+10000,36,0.1207,35000.0,687,Debt Consolidation,RENT,IL,Customer Service,2019,1,0
+16075,36,0.1001,100000.0,677,Home Improvement,MORTGAGE,CA,Office,2019,20,1
+5300,36,0.2306,89000.0,667,Debt Consolidation,MORTGAGE,OH,Health care,2020,10,0
+14000,60,12.57,120000.0,705,debt_consolidation,mortgage,FL,Others,2019,< 1 year,0
+29000,36,0.2233,90000.0,697,Credit Card Refinancing,OWN,FL,Office,2018,10,0
+20000,60,4.9,158000.0,750,debt_consolidation,own,TX,,2019,< 1 year,0
+20000,60,0.2474,93000.0,717,Medical Expenses,MORTGAGE,NJ,Office,2019,8,0
+27650,60,0.2884,60000.0,702,Debt Consolidation,MORTGAGE,SC,Others,2019,10,1
+20000,60,0.233,67000.0,667,Debt Consolidation,RENT,NE,Unknown,2018,3,1
+4500,36,0.1869,31200.0,672,Credit Card Refinancing,RENT,IN,Others,2019,2,0
+18075,60,0.2407,70000.0,672,Debt Consolidation,MORTGAGE,GA,Customer Service,2019,40,0
+13000,36,0.1767,125000.0,707,Debt Consolidation,OWN,TX,Others,2019,6,0
+29725,60,0.1836,265000.0,697,Debt Consolidation,OWN,WA,Sales,2019,1,1
+4000,36,0.3187,29000.0,712,Other,RENT,NC,Driver/Transportation,2019,5,0
+12750,60,0.1822,80000.0,672,Home Improvement,MORTGAGE,IL,Sales,2020,2,0
+40000,60,0.2481,170000.0,722,Other Major Purchase,OWN,LA,Others,2019,7,0
+20000,60,0.2952,85000.0,697,Debt Consolidation,RENT,NJ,Others,2018,2,0
+17000,60,0.2092,90000.0,727,Medical Expenses,MORTGAGE,FL,Skilled Labor,2019,4,0
+8000,36,0.3142,66000.0,667,Debt Consolidation,RENT,CT,,2020,< 1 year,1
+22000,36,0.1454,115000.0,707,Debt Consolidation,MORTGAGE,CA,Others,2020,19,0
+1400,36,17.94,55000.0,685,moving,rent,MO,Health care,2018,3 years,0
+28000,36,0.2702,70000.0,677,Credit Card Refinancing,RENT,OR,Education,2018,4,0
+25000,60,0.3022,72000.0,707,Credit Card Refinancing,MORTGAGE,SC,Others,2019,11,0
+32000,60,0.1597,65000.0,667,Debt Consolidation,RENT,CA,Health care,2019,10,1
+5700,36,0.2084,145000.0,697,Home Improvement,RENT,TX,Unknown,2020,5,1
+20000,60,0.26,83000.0,692,Credit Card Refinancing,OWN,KY,Office,2019,3,0
+21000,36,0.3029,55000.0,757,Debt Consolidation,RENT,NY,Others,2019,5,0
+20650,60,0.17300000000000001,400000.0,677,Credit Card Refinancing,MORTGAGE,OH,Office,2019,3,0
+14500,60,0.2316,80000.0,687,Debt Consolidation,MORTGAGE,AR,Sales,2020,2,0
+35000,60,0.2301,80000.0,687,Debt Consolidation,MORTGAGE,FL,Skilled Labor,2018,3,0
+16800,36,14.54,150000.0,665,debt_consolidation,mortgage,OH,Skilled Labor,2019,6 years,0
+20000,60,0.1461,79000.0,717,Debt Consolidation,RENT,OR,,2019,,0
+31900,60,0.3154,74640.0,692,Debt Consolidation,MORTGAGE,NM,,2019,,0
+6000,36,0.3256,52000.0,722,Credit Card Refinancing,MORTGAGE,MO,Education,2018,3,0
+6000,36,29.31,40000.0,705,credit_card,rent,CA,Skilled Labor,2019,1 year,0
+20500,60,0.1173,110000.0,692,Credit Card Refinancing,RENT,CA,Others,2019,10,1
+13825,60,9.6,48000.0,740,debt_consolidation,rent,TN,,2019,,0
+20000,36,0.3493,47000.0,672,Debt Consolidation,OWN,LA,Office,2019,18,0
+25000,60,0.1847,34500.0,682,Debt Consolidation,RENT,CO,Others,2018,10,0
+18800,36,0.3574,120000.0,692,Other,MORTGAGE,TX,Office,2020,3,0
+20000,36,0.1731,250000.0,737,Other,MORTGAGE,SC,Health care,2019,0,0
+30000,36,0.1926,101000.0,727,Debt Consolidation,MORTGAGE,MO,Others,2018,10,0
+5000,60,0.2033,33000.0,662,Credit Card Refinancing,RENT,IL,,2019,0,0
+25000,60,0.2714,75000.0,712,Debt Consolidation,MORTGAGE,MN,Office,2020,23,0
+29625,36,4.25,350000.0,690,debt_consolidation,mortgage,CA,Skilled Labor,2019,10+ years,0
+12000,36,0.233,63000.0,707,Debt Consolidation,MORTGAGE,VT,Others,2020,21,0
+12000,60,26.71,34500.0,710,credit_card,rent,RI,Skilled Labor,2019,1 year,0
+10625,60,19.52,60000.0,630,debt_consolidation,rent,WI,Skilled Labor,2019,10+ years,0
+21275,36,0.1854,123000.0,662,Debt Consolidation,MORTGAGE,CA,Customer Service,2019,4,0
+24000,60,0.2442,75000.0,662,Debt Consolidation,OWN,TN,Others,2019,3,0
+10000,60,17.06,65000.0,600,credit_card,mortgage,NC,Office,2019,1 year,0
+12000,60,0.3276,73000.0,682,Debt Consolidation,RENT,MN,Skilled Labor,2018,7,1
+5000,36,0.0885,110000.0,677,Debt Consolidation,RENT,NJ,Others,2018,10,0
+16000,36,0.0992,125000.0,687,Debt Consolidation,RENT,CA,Others,2018,5,0
+15000,60,0.268,80000.0,662,Credit Card Refinancing,OWN,LA,Others,2018,9,0
+15425,60,0.2257,72000.0,687,Debt Consolidation,RENT,FL,Office,2019,10,0
+9000,36,0.1979,35000.0,682,Credit Card Refinancing,ANY,NY,,2018,1,0
+6000,36,0.2544,155000.0,677,Debt Consolidation,MORTGAGE,CA,Unknown,2019,2,0
+35000,60,0.1004,135000.0,667,Debt Consolidation,MORTGAGE,AK,IT/Engineering,2019,12,0
+25000,36,0.2087,102000.0,662,Business,MORTGAGE,MD,Health care,2019,1,0
+12750,60,0.2214,65000.0,712,Credit Card Refinancing,RENT,TN,Others,2020,0,1
+6000,36,0.0778,76000.0,662,Debt Consolidation,MORTGAGE,AL,Others,2019,13,0
+30000,60,0.2011,83000.0,707,Debt Consolidation,RENT,CA,Office,2019,3,0
+16025,36,38.51,70000.0,695,debt_consolidation,mortgage,FL,,2019,,0
+18000,36,0.2836,60000.0,722,Business,RENT,NY,,2018,,0
+7500,36,0.3132,82000.0,717,Home Improvement,MORTGAGE,OH,Office,2019,3,0
+10625,36,0.1744,69115.0,662,Debt Consolidation,MORTGAGE,WA,Others,2019,0,1
+25100,60,0.2841,40000.0,677,Credit Card Refinancing,OWN,AL,,2019,,0
+35000,60,34.96,175000.0,665,debt_consolidation,mortgage,TX,Office,2019,10+ years,0
+2200,36,0.2125,96000.0,682,Other Major Purchase,RENT,TX,Driver/Transportation,2019,12,0
+27000,36,0.0367,150000.0,772,Other Major Purchase,RENT,OR,,2020,< 1 year,0
+20000,60,0.3035,90000.0,672,Debt Consolidation,MORTGAGE,IN,Office,2019,9,0
+20000,36,22.46,35000.0,695,credit_card,rent,CA,Construction/Labor,2018,2 years,0
+5500,36,0.0762,34000.0,662,Credit Card Refinancing,RENT,FL,Office,2018,0,0
+18000,36,0.1316,60000.0,747,Debt Consolidation,MORTGAGE,NJ,Customer Service,2019,0,0
+30000,36,0.1666,87794.0,692,Debt Consolidation,OWN,AZ,Office,2018,10,0
+12000,36,0.2792,60000.0,712,Debt Consolidation,RENT,CA,Unknown,2018,4,0
+24000,60,0.1131,62400.0,672,Debt Consolidation,RENT,MA,Unknown,2019,8,1
+4000,36,0.096,21000.0,697,Debt Consolidation,RENT,FL,,2018,,0
+35000,60,0.1315,105000.0,822,Debt Consolidation,MORTGAGE,PA,IT/Engineering,2019,2,0
+16000,36,0.1059,52000.0,677,Credit Card Refinancing,RENT,WA,Travel,2019,1,0
+28000,36,0.1794,121000.0,667,Debt Consolidation,MORTGAGE,KS,Others,2019,1,0
+19125,36,0.1512,58240.0,692,Credit Card Refinancing,RENT,RI,Skilled Labor,2019,5,0
+20000,36,0.1719,64000.0,742,Debt Consolidation,MORTGAGE,OH,Unknown,2020,8,0
+12000,36,0.2474,85000.0,702,Debt Consolidation,OWN,WV,Office,2018,2,0
+10500,36,0.1353,70000.0,712,Other,RENT,GA,Real Estate,2020,3,0
+31900,36,0.2613,125000.0,702,Debt Consolidation,MORTGAGE,WI,Others,2019,5,0
+10000,36,0.3156,47040.0,672,Debt Consolidation,RENT,CA,Sales,2019,2,0
+9175,36,0.1811,23000.0,712,Credit Card Refinancing,RENT,MN,Office,2019,4,0
+12000,36,0.2064,75000.0,682,Debt Consolidation,RENT,SC,Health care,2019,0,0
+10625,60,0.0493,63000.0,712,Debt Consolidation,RENT,MA,Others,2019,2,0
+28000,36,0.1719,105000.0,682,Debt Consolidation,RENT,CA,Health care,2019,2,1
+30000,36,0.3163,99850.0,662,Debt Consolidation,RENT,AL,Office,2019,1,1
+21275,60,0.2964,102000.0,692,Other,MORTGAGE,KY,IT/Engineering,2019,40,0
+23475,60,0.1274,213000.0,667,Credit Card Refinancing,MORTGAGE,CA,Office,2019,19,0
+17000,60,0.1804,65000.0,672,Debt Consolidation,MORTGAGE,IN,IT/Engineering,2019,21,0
+10000,36,0.1843,45000.0,707,Debt Consolidation,RENT,FL,Small Business,2019,7,0
+8400,36,0.2561,70000.0,722,Debt Consolidation,RENT,IL,Office,2019,10,1
+10000,60,0.3083,65000.0,662,Debt Consolidation,MORTGAGE,KY,Unknown,2019,3,0
+40000,60,0.2776,117000.0,802,Debt Consolidation,MORTGAGE,IL,Customer Service,2019,25,1
+9000,36,0.2348,25000.0,712,Credit Card Refinancing,RENT,TX,Construction/Labor,2020,6,0
+28000,60,0.1751,80000.0,667,Home Improvement,MORTGAGE,SC,Real Estate,2019,3,0
+8000,36,0.2425,124500.0,677,Credit Card Refinancing,MORTGAGE,GA,Driver/Transportation,2018,3,0
+6000,36,0.3174,32100.0,712,Debt Consolidation,MORTGAGE,FL,,2019,,0
+40000,60,0.3269,195000.0,692,Debt Consolidation,MORTGAGE,IL,Office,2019,10,0
+40000,60,0.1867,300000.0,672,Debt Consolidation,MORTGAGE,TX,,2019,< 1 year,0
+3600,36,0.1279,50194.0,707,Debt Consolidation,RENT,KS,Food/Hospitality,2020,8,0
+1500,36,0.1386,6500.0,687,Debt Consolidation,RENT,MI,,2019,5,1
+29900,36,0.0943,65000.0,702,Debt Consolidation,OWN,VA,,2018,,1
+30000,60,0.1572,100000.0,687,Credit Card Refinancing,OWN,CO,Education,2018,10,0
+20000,36,35.27,130000.0,670,credit_card,mortgage,RI,IT/Engineering,2019,8 years,1
+35000,36,0.2356,130000.0,707,Debt Consolidation,RENT,GA,Driver/Transportation,2019,0,1
+18000,60,0.2926,43500.0,662,Debt Consolidation,RENT,CA,,2019,,0
+30000,60,0.2459,35000.0,692,Credit Card Refinancing,OWN,NV,,2019,,0
+14000,60,12.52,71137.0,805,debt_consolidation,rent,OH,Health care,2018,4 years,0
+16000,36,0.1771,83000.0,662,Credit Card Refinancing,MORTGAGE,KY,Office,2018,3,1
+2800,36,0.1237,65000.0,687,Home Improvement,MORTGAGE,TX,Small Business,2019,10,1
+22975,60,0.2237,129500.0,732,Credit Card Refinancing,MORTGAGE,CA,Others,2019,10,0
+4625,36,0.1713,120000.0,672,Other,MORTGAGE,OH,Office,2019,10,0
+27000,60,0.0928,127002.0,692,Debt Consolidation,RENT,FL,IT/Engineering,2019,4,0
+30000,36,0.0896,220000.0,727,Debt Consolidation,MORTGAGE,LA,Customer Service,2018,10,0
+25000,36,0.2655,129000.0,692,Debt Consolidation,RENT,CA,Office,2019,24,1
+8000,36,0.3602,97425.0,687,Debt Consolidation,RENT,FL,Others,2020,2,0
+10000,36,0.2246,75000.0,697,Credit Card Refinancing,OWN,VT,Unknown,2019,10,0
+12000,36,0.1605,61000.0,787,Debt Consolidation,OWN,TX,Education,2019,9,0
+20000,36,0.3354,60000.0,682,Debt Consolidation,MORTGAGE,PA,Office,2020,4,1
+16000,36,19.03,79200.0,715,debt_consolidation,mortgage,TX,,2019,,0
+6000,36,0.0767,269970.0,682,Debt Consolidation,RENT,NJ,Health care,2019,15,0
+20075,60,0.1046,119400.0,692,Debt Consolidation,RENT,RI,Office,2019,3,0
+11000,36,0.32799999999999996,30000.0,722,Debt Consolidation,OWN,WY,Office,2018,4,0
+15000,60,0.364,33500.0,667,Debt Consolidation,RENT,OH,Office,2019,4,0
+15000,36,0.2227,43492.0,687,Debt Consolidation,RENT,TX,Skilled Labor,2019,0,0
+10625,60,0.1281,85000.0,722,Vehicle Purchase,RENT,MI,Others,2019,12,0
+15000,60,0.1686,118000.0,722,Other,MORTGAGE,NV,Skilled Labor,2019,7,0
+32000,36,0.2072,120000.0,687,Credit Card Refinancing,OWN,PA,IT/Engineering,2019,2,0
+2000,36,0.2202,115000.0,767,Vacation,MORTGAGE,TX,Office,2018,3,0
+10625,36,0.1659,63000.0,667,Other,RENT,IL,Unknown,2019,6,0
+19975,36,0.1357,220000.0,677,Credit Card Refinancing,RENT,GA,Sales,2019,4,0
+9600,36,14.78,120000.0,705,home_improvement,mortgage,VA,Others,2018,10+ years,0
+7625,36,20.24,67005.0,665,credit_card,own,PA,Others,2019,10+ years,0
+21000,36,0.0873,135000.0,747,Debt Consolidation,MORTGAGE,CO,Others,2018,9,1
+30000,60,0.3366,107200.0,677,Debt Consolidation,RENT,WA,Office,2018,0,0
+15000,60,32.45,100000.0,680,credit_card,own,PA,Office,2020,10+ years,0
+3600,36,0.248,50000.0,737,Debt Consolidation,RENT,NY,Office,2019,1,0
+18000,60,0.0926,105000.0,662,Debt Consolidation,RENT,AZ,Construction/Labor,2020,2,0
+10000,36,0.3278,65000.0,667,Credit Card Refinancing,OWN,GA,Education,2020,4,0
+10000,60,12.44,71000.0,565,credit_card,own,PA,Construction/Labor,2019,10+ years,0
+4800,36,0.3869,25000.0,757,Debt Consolidation,RENT,CA,Food/Hospitality,2018,6,0
+8200,36,0.3276,49200.0,817,Debt Consolidation,MORTGAGE,IN,Skilled Labor,2020,2 years,0
+3000,36,0.115,50000.0,747,Other,RENT,WY,Others,2018,10,0
+16000,36,0.3354,110000.0,677,Debt Consolidation,MORTGAGE,AL,Legal/Government/Police,2019,16,0
+17950,60,0.0693,200000.0,682,Business,OWN,CA,Real Estate,2019,10,0
+7000,36,0.1389,45800.0,672,Debt Consolidation,OWN,MD,,2018,,0
+10000,36,0.2213,110000.0,697,Debt Consolidation,MORTGAGE,CT,Legal/Government/Police,2019,10,0
+9450,36,0.0455,200000.0,747,Debt Consolidation,MORTGAGE,CA,Health care,2019,23,0
+8000,36,0.23600000000000002,24000.0,757,Debt Consolidation,RENT,AZ,Office,2019,3,0
+38000,60,0.1361,164000.0,722,Debt Consolidation,MORTGAGE,MD,Office,2018,2,0
+15000,60,0.1873,71000.0,722,Debt Consolidation,MORTGAGE,IL,Others,2019,25,0
+19950,60,0.1524,56000.0,742,Credit Card Refinancing,OWN,MI,IT/Engineering,2019,8,0
+20000,36,0.0669,95000.0,677,Debt Consolidation,MORTGAGE,CA,,2018,0,0
+40000,60,0.0528,172000.0,752,Other Major Purchase,RENT,WA,Real Estate,2018,5,0
+7000,36,0.1253,85000.0,692,Home Improvement,RENT,CO,Office,2018,8,0
+10000,60,0.1934,95732.0,687,Debt Consolidation,OWN,NC,Office,2019,11,0
+18000,36,0.2485,70000.0,667,Debt Consolidation,MORTGAGE,TX,Office,2020,1,0
+35000,60,18.53,144000.0,680,credit_card,mortgage,TX,Others,2019,8 years,0
+13000,36,0.1594,42000.0,662,Debt Consolidation,RENT,CA,Skilled Labor,2019,0,0
+30000,36,0.1236,330000.0,662,Debt Consolidation,RENT,VA,IT/Engineering,2019,1,0
+31000,60,0.2815,70000.0,672,Credit Card Refinancing,MORTGAGE,PA,Others,2019,5,0
+27500,36,26.41,125000.0,750,debt_consolidation,mortgage,CA,Skilled Labor,2018,10+ years,0
+22400,60,0.1494,120000.0,712,Other,MORTGAGE,TX,,2019,,1
+5300,36,0.3153,102000.0,717,Debt Consolidation,MORTGAGE,MI,Skilled Labor,2020,13,0
+12000,36,0.2753,113000.0,727,Home Improvement,MORTGAGE,FL,,2019,,0
+20000,36,0.3021,150000.0,732,Debt Consolidation,MORTGAGE,TX,Others,2019,4,0
+10000,60,0.2985,85000.0,697,Debt Consolidation,MORTGAGE,OH,Skilled Labor,2019,2,0
+16000,36,47.24,25000.0,685,credit_card,mortgage,IN,,2018,,0
+32000,60,0.3874,77000.0,757,Debt Consolidation,MORTGAGE,SD,Others,2019,4,0
+23000,36,0.1776,70000.0,677,Vehicle Purchase,RENT,NH,Health care,2018,2,0
+10000,60,0.1778,70000.0,662,Other,OWN,NY,Real Estate,2018,10,0
+13425,60,0.3314,75000.0,672,Debt Consolidation,MORTGAGE,OK,Unknown,2019,20,0
+15000,36,0.3098,64000.0,662,Debt Consolidation,RENT,KS,Office,2019,1,0
+31900,36,0.0759,228000.0,667,Green Loan,MORTGAGE,IL,Office,2019,0,1
+35000,36,0.0877,200000.0,662,Debt Consolidation,MORTGAGE,TX,Skilled Labor,2019,10,1
+14000,60,0.1831,110000.0,692,Credit Card Refinancing,MORTGAGE,FL,Others,2019,16,0
+29275,60,0.2611,176000.0,712,Debt Consolidation,MORTGAGE,WY,Office,2019,10,0
+1200,36,0.3894,40000.0,692,Vacation,OWN,CA,Skilled Labor,2020,2,0
+24000,60,0.3291,45000.0,697,Debt Consolidation,RENT,CT,Driver/Transportation,2018,1,0
+40000,60,0.1161,72000.0,767,Home Improvement,MORTGAGE,IL,Education,2019,10,0
+10000,60,10.58,80000.0,655,credit_card,mortgage,PA,Office,2019,4 years,0
+15300,60,29.97,65000.0,600,debt_consolidation,rent,MN,Office,2019,8 years,0
+9000,36,0.2857,56000.0,682,Debt Consolidation,MORTGAGE,OH,Health care,2019,4,0
+22675,60,0.2592,130000.0,707,Debt Consolidation,RENT,NJ,Others,2018,21,0
+12300,36,0.28,105000.0,717,Debt Consolidation,MORTGAGE,FL,Legal/Government/Police,2019,20,0
+12000,60,0.168,95000.0,697,Home Improvement,MORTGAGE,CA,Skilled Labor,2019,20,0
+26575,60,18.88,71000.0,670,debt_consolidation,mortgage,MI,Education,2019,10+ years,0
+17850,36,0.1468,130000.0,692,Business,MORTGAGE,TX,Construction/Labor,2019,3,0
+15950,60,0.0831,55000.0,727,Debt Consolidation,RENT,MN,IT/Engineering,2019,5,0
+2000,36,0.221,40000.0,697,Other,MORTGAGE,IN,Health care,2019,10,0
+32000,60,0.2474,75000.0,677,Credit Card Refinancing,RENT,WI,Construction/Labor,2019,8,0
+5000,36,0.0851,34000.0,677,Debt Consolidation,MORTGAGE,WI,Office,2019,3,0
+28000,60,11.23,126000.0,770,credit_card,rent,CA,Office,2018,2 years,0
+2500,36,0.2889,59000.0,727,Vacation,MORTGAGE,IL,Office,2019,10,0
+7000,36,0.2218,47500.0,667,Debt Consolidation,MORTGAGE,OR,Others,2019,13,0
+24000,36,16.31,220000.0,725,debt_consolidation,rent,WA,Legal/Government/Police,2020,6 years,0
+2000,36,0.3838,38000.0,712,Other,RENT,WI,Legal/Government/Police,2018,10,0
+26475,36,0.2363,145000.0,742,Debt Consolidation,RENT,MA,Office,2019,10,0
+15000,60,0.3485,56000.0,672,Debt Consolidation,RENT,FL,Unknown,2018,5,0
+16000,60,0.2602,80000.0,682,Home Improvement,MORTGAGE,GA,Construction/Labor,2020,3,0
+10625,36,0.2678,60000.0,662,Debt Consolidation,OWN,SC,Skilled Labor,2019,10,0
+25000,60,0.2774,85000.0,687,Credit Card Refinancing,RENT,CA,IT/Engineering,2019,3,0
+10625,36,0.2227,63000.0,667,Medical Expenses,RENT,MI,Office,2019,9,0
+17000,60,0.3241,25518.0,717,Debt Consolidation,MORTGAGE,MS,,2019,0,0
+10200,36,6.22,87000.0,695,debt_consolidation,rent,TX,IT/Engineering,2019,2 years,0
+30000,60,0.2165,150000.0,687,Debt Consolidation,OWN,CA,Office,2019,21,0
+10000,36,8.85,36336.0,730,debt_consolidation,mortgage,CA,,2019,,0
+8000,36,0.2561,137952.0,677,Other,MORTGAGE,CA,Others,2019,10+ years,0
+30000,60,0.1917,217000.0,682,Credit Card Refinancing,MORTGAGE,MD,Legal/Government/Police,2019,21,0
+35025,60,0.3487,82000.0,667,Debt Consolidation,RENT,RI,Office,2019,21,0
+5000,36,0.1658,55000.0,662,Debt Consolidation,OWN,CA,Construction/Labor,2019,6,0
+9000,36,0.0921,112000.0,707,Debt Consolidation,RENT,GA,,2020,< 1 year,0
+30000,60,0.2166,100000.0,667,Debt Consolidation,OWN,OK,Skilled Labor,2018,1,0
+25525,60,0.1083,175000.0,677,Debt Consolidation,MORTGAGE,VA,Customer Service,2019,0,0
+6000,36,5.54,31000.0,615,credit_card,rent,WI,,2019,,1
+21050,60,14.42,430000.0,760,credit_card,rent,NJ,Others,2019,10+ years,0
+10625,60,0.2483,38000.0,662,Credit Card Refinancing,MORTGAGE,FL,,2019,,0
+9900,36,0.2584,97000.0,662,Credit Card Refinancing,MORTGAGE,AL,Office,2019,1,1
+2000,36,19.52,38000.0,680,medical,rent,MI,,2020,< 1 year,0
+22000,36,0.1504,75000.0,712,Credit Card Refinancing,MORTGAGE,MA,Others,2019,30,0
+10000,36,0.1363,28000.0,702,Debt Consolidation,OWN,MI,,2019,0,0
+13000,60,0.1668,70000.0,682,Debt Consolidation,MORTGAGE,CT,Others,2019,11,0
+21500,36,0.1779,81000.0,682,Credit Card Refinancing,MORTGAGE,MN,Office,2019,8,0
+24000,60,0.1066,100000.0,687,Debt Consolidation,MORTGAGE,SC,Others,2019,12,0
+20000,36,0.2025,75000.0,667,Debt Consolidation,MORTGAGE,SC,Sales,2019,10,0
+26575,60,27.12,40000.0,735,credit_card,rent,NJ,,2020,,0
+3200,36,0.0999,50000.0,717,Other,RENT,VA,Sales,2018,4,0
+24000,60,0.1344,115000.0,662,Credit Card Refinancing,MORTGAGE,RI,Others,2018,10,0
+4100,36,0.3802,55000.0,707,Credit Card Refinancing,RENT,TX,Legal/Government/Police,2018,10,0
+26575,60,0.2691,91740.0,702,Debt Consolidation,MORTGAGE,MD,Office,2019,10,0
+3000,36,15.94,78000.0,665,debt_consolidation,mortgage,FL,Health care,2018,10+ years,0
+33075,60,0.1813,72000.0,667,Debt Consolidation,MORTGAGE,TX,Legal/Government/Police,2019,21,0
+40000,60,0.0578,65000.0,792,Other Major Purchase,OWN,CA,Others,2019,10,0
+30000,36,0.1826,74000.0,672,Debt Consolidation,MORTGAGE,SC,Others,2018,5,0
+20000,36,13.18,115000.0,710,credit_card,mortgage,CA,,2019,< 1 year,0
+5000,60,0.2254,55000.0,662,Credit Card Refinancing,RENT,FL,,2020,< 1 year,1
+10000,36,0.332,80000.0,697,Credit Card Refinancing,MORTGAGE,AR,Construction/Labor,2018,2,0
+31000,36,0.3263,63000.0,697,Debt Consolidation,RENT,NY,Office,2019,25,0
+11000,36,0.1105,48000.0,667,Debt Consolidation,MORTGAGE,AZ,Food/Hospitality,2018,10,0
+10000,60,0.2333,54000.0,677,Credit Card Refinancing,RENT,CA,Customer Service,2019,9,0
+11750,60,0.3337,36000.0,692,Debt Consolidation,RENT,MN,Health care,2019,6,0
+20000,60,12.17,150000.0,685,debt_consolidation,mortgage,TN,IT/Engineering,2018,< 1 year,0
+14000,36,0.3945,94000.0,742,Credit Card Refinancing,OWN,GA,Education,2018,10,0
+20000,36,33.26,35000.0,700,debt_consolidation,own,FL,,2018,,0
+7000,36,0.1039,100000.0,687,Other,RENT,NY,Skilled Labor,2018,10,0
+10000,36,0.158,80000.0,662,Home Improvement,MORTGAGE,IL,,2019,,0
+15000,60,0.1763,82000.0,692,Other,RENT,CA,Office,2019,1,0
+5300,36,0.2573,50000.0,707,Debt Consolidation,RENT,TX,Others,2019,3,0
+8600,36,0.0864,100000.0,727,Business,RENT,FL,,2018,< 1 year,0
+10000,36,0.1141,90000.0,667,Debt Consolidation,MORTGAGE,TX,Others,2019,5,0
+15000,36,0.1303,28000.0,662,Debt Consolidation,OWN,VA,,2019,0,0
+12000,60,5.25,70000.0,675,debt_consolidation,mortgage,NJ,Office,2019,3 years,0
+26400,36,8.32,60000.0,715,debt_consolidation,mortgage,SC,,2019,,0
+24000,60,0.1471,60000.0,712,Debt Consolidation,OWN,TX,IT/Engineering,2019,20,0
+25000,60,0.2063,96200.0,692,Debt Consolidation,MORTGAGE,CA,Office,2019,1,0
+16000,36,0.2162,113000.0,682,Debt Consolidation,MORTGAGE,ND,Health care,2018,2,1
+5000,36,0.0763,56000.0,662,Debt Consolidation,RENT,PA,Driver/Transportation,2018,2,0
+15950,36,0.3947,53628.0,677,Debt Consolidation,MORTGAGE,NV,,2019,,0
+14000,36,0.2044,31000.0,667,Debt Consolidation,RENT,WA,Office,2019,3,1
+18000,36,0.0056,200000.0,702,Credit Card Refinancing,MORTGAGE,CA,IT/Engineering,2019,2,0
+16000,60,0.0542,60000.0,672,Debt Consolidation,MORTGAGE,OH,Skilled Labor,2019,5,0
+10000,36,0.3611,125000.0,682,Debt Consolidation,MORTGAGE,IN,Others,2020,5,0
+10000,36,0.2205,85000.0,687,Credit Card Refinancing,RENT,CA,Legal/Government/Police,2018,10,1
+13000,36,0.095,37000.0,677,Credit Card Refinancing,RENT,CA,Food/Hospitality,2020,5,0
+25000,36,0.2075,150000.0,702,Credit Card Refinancing,OWN,SD,,2019,< 1 year,0
+30000,60,0.1801,100000.0,707,Credit Card Refinancing,MORTGAGE,NC,,2020,,1
+11000,36,0.3793,48000.0,692,Credit Card Refinancing,RENT,FL,Food/Hospitality,2019,3,1
+12750,60,0.1355,82000.0,667,Debt Consolidation,MORTGAGE,MA,Unknown,2019,14,0
+6000,36,0.1805,28400.0,672,Other,RENT,NC,Customer Service,2018,8,0
+25000,60,0.185,58060.44,677,Debt Consolidation,MORTGAGE,GA,,2018,0,0
+17000,60,0.1961,69400.0,662,Debt Consolidation,RENT,FL,Office,2019,4,0
+8075,36,0.0589,137005.0,682,Debt Consolidation,OWN,CT,,2020,,0
+25000,60,0.1683,80000.0,672,Debt Consolidation,RENT,FL,Others,2019,14,0
+35000,60,0.3275,156629.0,702,Debt Consolidation,MORTGAGE,FL,Office,2019,4,0
+18000,36,0.282,125000.0,682,Debt Consolidation,MORTGAGE,SC,Office,2018,9,0
+20000,60,0.1743,76000.0,702,Credit Card Refinancing,MORTGAGE,CA,Health care,2019,8,0
+20000,36,0.1449,70000.0,682,Credit Card Refinancing,RENT,FL,,2019,< 1 year,1
+10000,36,0.2546,60000.0,702,Home Improvement,OWN,FL,,2019,,0
+2700,36,0.2615,24560.0,712,Debt Consolidation,OWN,SC,Customer Service,2020,2,0
+10000,36,0.2471,230000.0,732,Home Improvement,MORTGAGE,MD,,2020,< 1 year,0
+10000,36,0.3392,42000.0,662,Other,RENT,AZ,Others,2019,10,0
+13775,36,0.1097,50000.0,677,Debt Consolidation,OWN,CA,Office,2018,0,0
+5225,36,0.1641,85000.0,807,Home Improvement,MORTGAGE,WV,Office,2019,7,0
+20000,36,0.2873,69000.0,662,Debt Consolidation,MORTGAGE,TX,Legal/Government/Police,2019,10,0
+10625,60,0.1501,35000.0,692,Home Improvement,MORTGAGE,NC,Education,2020,5,0
+15000,60,0.2238,58500.0,707,Other,MORTGAGE,TX,,2020,< 1 year,0
+40000,36,0.1468,205000.0,712,Debt Consolidation,MORTGAGE,LA,Office,2019,3,0
+15000,36,0.239,46000.0,667,Credit Card Refinancing,RENT,IL,,2019,,0
+6000,36,0.1592,31500.0,692,Credit Card Refinancing,OWN,CA,IT/Engineering,2019,0,0
+10000,36,0.3477,65000.0,692,Debt Consolidation,MORTGAGE,TX,Education,2019,5,0
+12000,36,0.2968,29000.0,662,Debt Consolidation,RENT,MN,Unknown,2019,0,1
+10000,60,0.1466,70000.0,682,Debt Consolidation,RENT,NV,Others,2019,8,0
+20000,60,5.01,79500.0,705,debt_consolidation,mortgage,FL,Office,2019,3 years,0
+14875,60,19.74,65000.0,745,credit_card,rent,FL,Office,2019,10+ years,0
+12000,36,23.28,80000.0,680,credit_card,rent,WV,IT/Engineering,2019,5 years,0
+13375,36,0.1893,40000.0,672,Debt Consolidation,MORTGAGE,TN,Skilled Labor,2019,16,0
+14000,60,0.3468,65000.0,687,Credit Card Refinancing,MORTGAGE,WA,Health care,2019,6,0
+14000,36,0.3866,81000.0,757,Debt Consolidation,MORTGAGE,NY,Small Business,2020,3,0
+28450,36,8.64,45000.0,645,major_purchase,rent,CA,IT/Engineering,2018,2 years,0
+4000,36,0.1617,38292.8,722,Other,MORTGAGE,CO,Office,2018,29,0
+20000,60,0.231,120000.0,702,Credit Card Refinancing,MORTGAGE,MN,,2019,< 1 year,0
+40000,36,0.1719,150000.0,667,Credit Card Refinancing,ANY,OH,,2019,< 1 year,0
+8000,36,10.84,65000.0,685,debt_consolidation,mortgage,MO,Legal/Government/Police,2019,1 year,0
+36000,60,0.316,80000.0,687,Debt Consolidation,MORTGAGE,ID,Office,2019,2,0
+24000,36,15.39,75000.0,670,credit_card,mortgage,PA,,2019,< 1 year,1
+39000,60,0.1797,70000.0,767,Debt Consolidation,MORTGAGE,OH,Health care,2019,0,0
+19000,60,0.0711,150000.0,697,Credit Card Refinancing,MORTGAGE,MO,,2019,< 1 year,0
+30000,36,0.244,300000.0,682,Debt Consolidation,RENT,VA,Small Business,2018,10,0
+15425,60,0.0857,70000.0,707,Debt Consolidation,MORTGAGE,AR,Health care,2019,8,0
+30000,36,10.83,150000.0,755,credit_card,mortgage,GA,Office,2019,< 1 year,0
+30000,60,0.2087,85406.0,662,Debt Consolidation,OWN,IL,Others,2019,22,0
+10000,60,0.1702,150000.0,772,Credit Card Refinancing,MORTGAGE,ND,Legal/Government/Police,2019,15,1
+2400,36,0.1528,30000.0,697,Home Improvement,OWN,SD,Construction/Labor,2018,1,0
+11700,36,0.3288,37600.0,762,Debt Consolidation,RENT,SC,,2020,< 1 year,0
+12000,60,0.3163,42000.0,667,Other,RENT,MN,Sales,2019,2,0
+10000,36,0.2851,65000.0,672,Credit Card Refinancing,RENT,TX,Sales,2019,11,0
+12500,36,0.1129,71000.0,677,Other,RENT,CA,Health care,2019,16,0
+21275,60,0.2963,55000.0,687,Debt Consolidation,MORTGAGE,ME,Driver/Transportation,2020,3,0
+16000,60,0.2181,40000.0,752,Debt Consolidation,RENT,AL,Skilled Labor,2019,4,0
+6400,36,0.0178,37000.0,707,Moving or Relocation,MORTGAGE,WA,Legal/Government/Police,2019,3,0
+6375,36,0.1568,65000.0,677,Business,RENT,NC,Office,2019,10,0
+2500,36,0.0623,145800.0,687,Debt Consolidation,OWN,AL,Office,2019,2,0
+7425,36,0.0725,26000.0,682,Credit Card Refinancing,OWN,AL,,2019,,0
+6000,36,21.1,60000.0,730,credit_card,mortgage,ID,Unknown,2019,10+ years,0
+10000,36,0.2218,120000.0,702,Debt Consolidation,MORTGAGE,MN,Office,2018,6,0
+25525,60,0.2427,50000.0,742,Debt Consolidation,RENT,CA,Others,2019,4,0
+25000,60,0.2484,135000.0,687,Credit Card Refinancing,OWN,KY,Small Business,2019,9,0
+18000,60,12.29,240000.0,630,credit_card,mortgage,TX,Others,2019,3 years,0
+20000,36,0.1781,77000.0,702,Credit Card Refinancing,RENT,NV,IT/Engineering,2019,11,0
+7200,36,0.3856,80600.0,687,Debt Consolidation,MORTGAGE,MN,Office,2019,29,0
+15000,36,0.1825,112000.0,667,Debt Consolidation,MORTGAGE,OH,,2019,,0
+1000,36,0.1594,70000.0,682,Other,RENT,SC,Education,2019,4,0
+17000,36,0.2384,50000.0,672,Credit Card Refinancing,RENT,CA,Others,2019,1,0
+38275,36,17.77,125000.0,725,credit_card,mortgage,CA,Health care,2020,10+ years,0
+6000,36,0.1851,38000.0,662,Credit Card Refinancing,RENT,FL,Driver/Transportation,2019,2,0
+12000,60,0.0768,114000.0,672,Debt Consolidation,RENT,CA,Customer Service,2019,0,0
+3000,36,0.201,105000.0,687,Other,MORTGAGE,VA,Others,2019,12,0
+18000,36,0.3692,60000.0,732,Credit Card Refinancing,OWN,NV,,2019,< 1 year,1
+31675,60,0.3975,122500.0,832,Debt Consolidation,OWN,IL,,2019,,0
+7500,36,15.12,85000.0,685,debt_consolidation,mortgage,MI,Office,2018,1 year,0
+5000,36,0.2434,63000.0,727,Home Improvement,OWN,IL,,2019,,0
+21275,60,11.04,70000.0,800,debt_consolidation,rent,CA,Skilled Labor,2019,4 years,0
+35000,36,57.6,123000.0,710,debt_consolidation,mortgage,CA,Others,2018,10+ years,0
+5000,36,0.2723,45000.0,692,Credit Card Refinancing,OWN,MO,Food/Hospitality,2018,9,0
+10000,36,0.1178,82000.0,662,Debt Consolidation,MORTGAGE,KY,Others,2018,10,0
+26000,36,0.3359,77000.0,672,Debt Consolidation,OWN,MO,Education,2019,17,0
+40000,60,0.0672,235000.0,752,Other,MORTGAGE,CA,Driver/Transportation,2019,5,0
+12800,36,0.2832,45000.0,702,Home Purchase,MORTGAGE,SD,Office,2018,10,0
+25000,60,0.1453,90000.0,677,Debt Consolidation,RENT,CA,Skilled Labor,2019,3,0
+10625,60,0.1233,65000.0,682,Medical Expenses,RENT,AZ,Office,2019,6,1
+24000,60,0.1663,158000.0,682,Other,MORTGAGE,NV,Office,2019,4,0
+30000,36,0.1515,213000.0,752,Other,RENT,NH,Others,2018,10,0
+16000,36,0.2404,68000.0,672,Home Improvement,MORTGAGE,VT,,2019,,0
+19700,60,0.2771,85800.0,742,Debt Consolidation,MORTGAGE,MN,Health care,2019,2,0
+25000,60,0.1386,96000.0,662,Home Improvement,OWN,TX,Others,2020,10,0
+14875,60,0.1932,100000.0,687,Debt Consolidation,MORTGAGE,CO,Unknown,2020,10,0
+20000,60,0.2059,61080.0,737,Debt Consolidation,RENT,CA,Others,2019,1,1
+20000,36,0.3254,70000.0,682,Debt Consolidation,RENT,CA,Sales,2019,10,0
+16000,36,0.0274,35000.0,662,Credit Card Refinancing,RENT,CT,Construction/Labor,2018,18,0
+5600,36,0.2116,32000.0,677,Debt Consolidation,RENT,OK,Office,2019,1,0
+5000,36,0.1676,30000.0,677,Debt Consolidation,RENT,FL,Food/Hospitality,2019,15,0
+20000,36,0.0657,70000.0,687,Debt Consolidation,RENT,NY,Unknown,2019,10,1
+15000,36,0.3681,75000.0,662,Credit Card Refinancing,RENT,FL,Others,2020,7,1
+40000,60,0.2141,104000.0,707,Other,RENT,OR,Health care,2019,0,0
+40000,36,0.2088,117000.0,712,Home Improvement,RENT,CA,Unknown,2019,15,0
+20000,60,0.134,120000.0,672,Debt Consolidation,OWN,SD,Construction/Labor,2020,1,0
+6000,36,0.1267,56000.0,672,Debt Consolidation,MORTGAGE,DE,Small Business,2019,28,0
+15000,60,0.1588,35000.0,702,Debt Consolidation,OWN,CA,,2019,0,0
+20000,60,0.1669,45000.0,727,Debt Consolidation,MORTGAGE,TX,Office,2019,21,0
+10000,36,18.15,120000.0,685,other,rent,TX,,2019,,0
+12750,36,0.3138,34000.0,702,Debt Consolidation,RENT,NJ,Office,2019,2,0
+25000,60,0.2602,86000.0,682,Credit Card Refinancing,MORTGAGE,ID,Office,2019,0,0
+17775,36,0.3608,90000.0,687,Debt Consolidation,MORTGAGE,WA,Office,2020,4,1
+20000,60,0.3711,67900.0,687,Credit Card Refinancing,MORTGAGE,OH,Skilled Labor,2018,10,0
+23000,60,0.1323,38000.0,677,Debt Consolidation,RENT,OR,Office,2019,10,0
+23000,60,0.3132,72000.0,682,Debt Consolidation,MORTGAGE,AR,Office,2020,10,0
+16000,36,0.1182,53000.0,672,Debt Consolidation,RENT,GA,Office,2018,10,0
+32000,36,0.2702,92000.0,697,Home Improvement,RENT,NC,Office,2019,15,1
+9000,36,0.0652,46000.0,727,Credit Card Refinancing,RENT,CO,Unknown,2018,2,0
+10000,36,0.2557,51400.0,692,Debt Consolidation,RENT,CA,,2020,,0
+8000,36,0.2327,90000.0,697,Debt Consolidation,OWN,MD,Education,2019,5,0
+22000,36,0.2855,175000.0,697,Debt Consolidation,MORTGAGE,MO,Health care,2018,10,0
+10000,60,0.1186,183000.0,662,Other,MORTGAGE,NJ,Others,2019,2,0
+10000,36,0.2411,63000.0,667,Debt Consolidation,MORTGAGE,PA,Office,2018,4,0
+9000,36,0.078,90000.0,742,Credit Card Refinancing,RENT,VA,Food/Hospitality,2018,8,0
+39025,36,0.1369,180000.0,697,Debt Consolidation,RENT,CO,,2019,< 1 year,1
+30000,60,0.1686,98500.0,717,Debt Consolidation,MORTGAGE,LA,,2019,,0
+2800,36,0.1231,89000.0,702,Home Improvement,MORTGAGE,WA,Legal/Government/Police,2018,10,0
+10000,36,0.2612,50000.0,692,Credit Card Refinancing,OWN,TN,Driver/Transportation,2018,0,0
+15000,36,0.1551,50000.0,742,Debt Consolidation,RENT,CA,Food/Hospitality,2018,2,0
+6000,36,0.2428,52000.0,702,Other,MORTGAGE,OH,Office,2018,10,0
+21600,36,0.2655,110000.0,707,Debt Consolidation,MORTGAGE,SD,Others,2019,2,1
+17000,36,0.2895,174000.0,732,Debt Consolidation,MORTGAGE,UT,IT/Engineering,2019,4,0
+26375,60,0.2336,102000.0,682,Debt Consolidation,MORTGAGE,FL,Office,2019,10,1
+10625,60,8.48,45000.0,690,credit_card,rent,CA,,2020,< 1 year,0
+22950,60,0.0974,153000.0,672,Other,MORTGAGE,NY,Driver/Transportation,2018,1,0
+20000,60,0.0925,48000.0,667,Credit Card Refinancing,RENT,MA,Sales,2020,0,1
+28650,60,0.2564,145000.0,752,Debt Consolidation,MORTGAGE,GA,Office,2019,6,0
+7700,36,0.0984,90000.0,667,Credit Card Refinancing,RENT,NJ,Office,2020,5,0
+29000,60,0.1461,112000.0,712,Debt Consolidation,RENT,MI,,2019,,0
+20000,60,0.1235,42000.0,667,Credit Card Refinancing,MORTGAGE,FL,Food/Hospitality,2018,0,0
+11000,60,0.16399999999999998,30000.0,672,Credit Card Refinancing,OWN,MS,,2019,,0
+22600,36,0.1312,208000.0,747,Debt Consolidation,MORTGAGE,CA,Others,2019,0,0
+16000,60,0.2142,78000.0,662,Debt Consolidation,MORTGAGE,NJ,Sales,2019,8,0
+2500,36,0.198,18000.0,742,Debt Consolidation,RENT,CT,Health care,2018,10,0
+38275,60,0.2251,94500.0,772,Debt Consolidation,OWN,OH,Office,2019,13,0
+30175,36,0.1382,240000.0,762,Home Purchase,MORTGAGE,CA,Others,2018,10,0
+25000,60,20.82,95000.0,720,debt_consolidation,rent,CA,Sales,2019,2 years,0
+15000,36,0.1435,130000.0,662,Debt Consolidation,MORTGAGE,CA,Office,2018,17,0
+5000,36,0.2855,33000.0,687,Debt Consolidation,RENT,TX,Legal/Government/Police,2019,2,0
+6400,36,0.2265,109704.0,672,Other,MORTGAGE,TN,,2019,,0
+15600,36,0.3672,90000.0,712,Debt Consolidation,RENT,NY,Office,2019,0,0
+5000,36,0.1325,67000.0,727,Debt Consolidation,RENT,CA,Education,2018,10,0
+16000,60,7.93,170000.0,555,debt_consolidation,mortgage,LA,Small Business,2018,10+ years,0
+16000,60,0.177,35000.0,702,Debt Consolidation,RENT,CA,Health care,2019,5,0
+18000,60,16.4,98000.0,765,debt_consolidation,mortgage,WI,Office,2018,10+ years,1
+10000,60,0.0847,18000.0,682,Debt Consolidation,RENT,NY,Unknown,2018,5,0
+13000,60,0.2172,98001.0,692,Debt Consolidation,MORTGAGE,IL,Office,2018,2,0
+1750,36,0.1611,45000.0,682,Other,RENT,OK,Small Business,2020,6,0
+18000,60,0.1486,175000.0,747,Home Purchase,RENT,FL,Sales,2019,1,0
+11000,36,0.2603,45000.0,672,Debt Consolidation,RENT,FL,Office,2019,6,0
+14400,36,9.34,102500.0,700,debt_consolidation,mortgage,KY,Office,2020,1 year,0
+6000,36,0.1841,80000.0,682,Debt Consolidation,OWN,WA,Health care,2018,8,0
+10000,36,0.2381,25000.0,692,Debt Consolidation,RENT,FL,,2019,< 1 year,0
+8000,36,0.3695,52000.0,697,Debt Consolidation,OWN,FL,Health care,2018,7,0
+28000,60,0.1864,90000.0,712,Credit Card Refinancing,MORTGAGE,OH,Health care,2020,1,0
+20000,60,15.26,86400.0,685,debt_consolidation,mortgage,CA,,2018,,0
+10000,60,0.3033,37000.0,682,Credit Card Refinancing,RENT,CA,Skilled Labor,2019,5,0
+12000,60,0.2145,65000.0,687,Credit Card Refinancing,MORTGAGE,CA,IT/Engineering,2020,4,0
+20800,60,0.3339,94800.0,707,Debt Consolidation,MORTGAGE,IN,Others,2020,3,1
+17000,60,0.1845,120000.0,702,Debt Consolidation,RENT,CA,Construction/Labor,2019,4,0
+16000,60,0.2649,89650.0,662,Credit Card Refinancing,MORTGAGE,NC,Legal/Government/Police,2020,7,0
+6500,60,0.053,55000.0,687,Debt Consolidation,MORTGAGE,MA,,2020,< 1 year,0
+5500,36,0.1643,87500.0,667,Debt Consolidation,MORTGAGE,AL,Others,2019,2,0
+6000,36,1.07,28000.0,755,credit_card,rent,FL,Skilled Labor,2018,2 years,0
+10625,60,14.5,84145.0,720,debt_consolidation,rent,NM,,2019,< 1 year,0
+10625,36,0.0491,65000.0,662,Debt Consolidation,MORTGAGE,MO,Others,2019,10,1
+39000,36,0.2112,267000.0,717,Credit Card Refinancing,MORTGAGE,TX,Others,2019,2,0
+14000,60,0.1701,52000.0,662,Debt Consolidation,RENT,MS,Others,2019,5,0
+10000,60,0.1347,85000.0,682,Debt Consolidation,RENT,DC,Others,2019,1,1
+21275,60,0.1585,72000.0,722,Credit Card Refinancing,RENT,IL,Driver/Transportation,2019,10,0
+15000,60,0.1064,165000.0,692,Home Improvement,MORTGAGE,TX,Others,2019,5,0
+20000,36,36.45,125000.0,710,other,mortgage,TX,Legal/Government/Police,2018,4 years,1
+10000,60,0.1464,65000.0,697,Debt Consolidation,MORTGAGE,PA,Unknown,2019,20,0
+20000,36,0.1628,92000.0,672,Debt Consolidation,OWN,TX,Health care,2019,1,1
+28000,60,0.1939,64000.0,702,Debt Consolidation,MORTGAGE,GA,Skilled Labor,2018,8,0
+10000,60,0.1039,105000.0,742,Other,MORTGAGE,MD,Legal/Government/Police,2020,23,0
+20000,36,0.2598,63000.0,667,Debt Consolidation,RENT,CA,Health care,2019,3,1
+12000,60,0.2828,37000.0,707,Debt Consolidation,RENT,NJ,Skilled Labor,2018,1,0
+16000,36,12.69,173000.0,695,debt_consolidation,rent,MD,Others,2019,4 years,0
+10000,60,0.2292,31000.0,662,Debt Consolidation,RENT,CA,Office,2020,4,0
+10650,60,0.1837,45000.0,677,Credit Card Refinancing,RENT,DC,Legal/Government/Police,2019,3,0
+23000,36,0.1116,66000.0,712,Debt Consolidation,MORTGAGE,PA,Legal/Government/Police,2017,10,0
+10000,36,0.1757,75000.0,667,Home Improvement,OWN,CA,Construction/Labor,2019,4,0
+24000,60,21.41,108000.0,705,debt_consolidation,mortgage,VA,Sales,2019,5 years,1
+25000,36,0.1479,50000.0,687,Other,MORTGAGE,NE,IT/Engineering,2019,13,1
+12000,60,0.1378,57207.0,672,Debt Consolidation,OWN,MO,Others,2019,9,0
+14000,36,0.267,37842.0,707,Debt Consolidation,MORTGAGE,DE,,2019,,0
+10000,36,0.0832,58400.0,717,Home Improvement,MORTGAGE,TX,Others,2018,5,0
+30000,60,21.04,90000.0,780,debt_consolidation,mortgage,TX,Others,2019,7 years,0
+40000,36,32.26,151800.0,745,credit_card,rent,TX,Others,2019,7 years,0
+7425,60,0.1798,77160.0,727,Debt Consolidation,MORTGAGE,KY,Office,2019,17,0
+21275,60,0.135,41000.0,687,Debt Consolidation,RENT,OR,Customer Service,2019,6,0
+23000,36,0.0764,165000.0,677,Credit Card Refinancing,MORTGAGE,NY,Others,2019,10,0
+10000,36,0.2612,25000.0,692,Debt Consolidation,OWN,OR,Skilled Labor,2018,10,0
+30000,60,0.3044,135000.0,702,Debt Consolidation,MORTGAGE,NJ,Legal/Government/Police,2019,0,0
+31900,60,0.2696,120000.0,692,Debt Consolidation,RENT,NJ,Others,2019,7,0
+27000,36,0.166,96000.0,667,Debt Consolidation,OWN,CA,Real Estate,2019,2,1
+10000,60,0.3356,29500.0,697,Debt Consolidation,RENT,FL,Others,2018,10,0
+25000,36,0.2585,195000.0,752,Debt Consolidation,RENT,TX,IT/Engineering,2019,6,0
+30000,36,0.1795,72537.04,677,Debt Consolidation,RENT,CA,,2019,,0
+30000,36,0.1658,177000.0,662,Debt Consolidation,MORTGAGE,DE,Office,2019,10,0
+26000,60,12.58,108000.0,680,debt_consolidation,mortgage,CA,Health care,2019,9 years,0
+40000,60,0.1246,104000.0,692,Credit Card Refinancing,MORTGAGE,PA,Office,2019,9,0
+20000,60,13.24,95000.0,680,credit_card,mortgage,MD,Skilled Labor,2019,5 years,0
+5300,60,0.073,12000.0,692,Credit Card Refinancing,MORTGAGE,NC,,2019,< 1 year,0
+6000,36,0.16699999999999998,43049.0,697,Home Purchase,MORTGAGE,TX,Legal/Government/Police,2019,24,0
+20000,60,0.1774,137000.0,672,Debt Consolidation,MORTGAGE,CA,Driver/Transportation,2019,4,0
+5000,36,0.1583,34500.0,692,Credit Card Refinancing,RENT,NJ,Others,2019,2,0
+16000,36,0.2815,71748.0,687,Debt Consolidation,MORTGAGE,CA,Office,2020,10,0
+3000,36,0.3618,133000.0,722,Other,MORTGAGE,IL,Education,2019,9,0
+15000,60,0.2836,28056.0,717,Debt Consolidation,OWN,KS,Office,2018,6,0
+16000,36,10.64,160000.0,515,debt_consolidation,mortgage,MS,Skilled Labor,2019,6 years,0
+32000,60,0.2643,150000.0,662,Vehicle Purchase,MORTGAGE,GA,Customer Service,2019,4,0
+25000,36,0.3589,45000.0,667,Debt Consolidation,RENT,CA,Construction/Labor,2019,10,0
+9550,36,16.5,75000.0,700,debt_consolidation,rent,CA,Health care,2020,10+ years,1
+13500,60,0.2573,70000.0,667,Debt Consolidation,OWN,MN,Others,2019,12,0
+10000,60,0.2869,90000.0,677,Home Improvement,MORTGAGE,HI,Small Business,2019,10,0
+40000,60,0.2004,145040.0,682,Debt Consolidation,MORTGAGE,MI,Sales,2019,4,1
+7400,60,0.2674,28720.0,672,Debt Consolidation,OWN,OR,,2020,,0
+20000,60,0.1278,60000.0,677,Debt Consolidation,RENT,OH,Others,2019,0,1
+16000,60,0.1546,37180.0,692,Credit Card Refinancing,MORTGAGE,CA,Office,2020,2,0
+4900,36,0.0945,130000.0,662,Debt Consolidation,MORTGAGE,TN,Sales,2019,2,0
+30000,60,0.1988,48000.0,757,Debt Consolidation,MORTGAGE,NC,Skilled Labor,2019,10,1
+24000,60,0.2281,85000.0,712,Debt Consolidation,MORTGAGE,MN,Construction/Labor,2019,7,0
+26000,60,0.2476,87000.0,677,Debt Consolidation,OWN,IL,Legal/Government/Police,2019,0,1
+18000,60,0.1847,107000.0,672,Debt Consolidation,MORTGAGE,MI,Driver/Transportation,2019,5,0
+23025,60,0.35200000000000004,45000.0,702,Debt Consolidation,OWN,CA,Skilled Labor,2018,4,0
+35000,60,0.2122,98800.0,707,Debt Consolidation,MORTGAGE,FL,Unknown,2019,2,0
+35000,60,0.2254,107322.0,667,Debt Consolidation,MORTGAGE,GA,Food/Hospitality,2018,10,0
+40000,36,0.0835,180000.0,772,Credit Card Refinancing,OWN,TX,Others,2019,14,0
+6600,36,0.2835,39996.0,702,Credit Card Refinancing,RENT,NJ,Skilled Labor,2019,3,0
+21275,36,0.1478,126000.0,677,Debt Consolidation,MORTGAGE,FL,Others,2019,22,0
+15000,60,0.1602,81450.0,672,Debt Consolidation,RENT,CO,Unknown,2019,2,0
+2125,36,0.0755,110000.0,707,Other,RENT,WA,Others,2020,0,0
+6000,36,0.1428,100000.0,667,Credit Card Refinancing,MORTGAGE,SC,,2020,,0
+21275,60,0.1185,170000.0,722,Other,RENT,MO,Office,2019,4,0
+30000,36,5.42,131000.0,705,debt_consolidation,mortgage,NJ,Skilled Labor,2019,10+ years,0
+5000,36,0.0807,40000.0,662,Credit Card Refinancing,RENT,CA,Customer Service,2018,10,0
+8925,36,0.0,180000.0,745,debt_consolidation,mortgage,FL,,2019,< 1 year,0
+35000,60,0.1123,170000.0,712,Debt Consolidation,MORTGAGE,OH,Others,2020,4,0
+10000,36,0.0444,83000.0,682,Other,RENT,NY,Skilled Labor,2018,6,0
+22000,60,0.053,60000.0,677,Moving or Relocation,RENT,CA,Others,2019,10,0
+23200,36,24.41,300000.0,675,credit_card,own,FL,Office,2019,9 years,1
+6000,36,0.2339,100000.0,677,Debt Consolidation,MORTGAGE,NM,Sales,2019,19,1
+15600,60,0.2161,26000.0,712,Credit Card Refinancing,RENT,TX,Food/Hospitality,2019,15,1
+14000,36,0.3149,84000.0,682,Debt Consolidation,RENT,TX,,2020,< 1 year,0
+12750,60,0.1907,45500.0,682,Debt Consolidation,OWN,ND,Office,2019,0,0
+16000,60,0.3229,105000.0,732,Debt Consolidation,MORTGAGE,AR,Others,2018,10,0
+4250,36,0.1875,72000.0,672,Business,RENT,KY,Legal/Government/Police,2020,10,1
+20000,36,0.2171,178145.0,682,Debt Consolidation,RENT,CA,Office,2019,9,0
+6900,36,22.63,28000.0,735,debt_consolidation,own,PA,Skilled Labor,2020,10+ years,0
+10000,60,0.1668,77000.0,687,Debt Consolidation,RENT,CA,Office,2019,7,0
+15000,36,3.39,180000.0,675,major_purchase,rent,GA,,2020,< 1 year,0
+8500,36,28.49,89500.0,685,debt_consolidation,rent,TN,,2020,,0
+20000,60,0.24,65000.0,692,Debt Consolidation,MORTGAGE,SC,Skilled Labor,2019,20,0
+30000,60,0.1843,160000.0,672,Debt Consolidation,MORTGAGE,CA,Skilled Labor,2018,1,1
+10000,36,0.2457,52500.0,722,Debt Consolidation,RENT,WI,Education,2018,1,0
+16000,36,0.3375,40000.0,662,Debt Consolidation,RENT,CA,Office,2020,1,0
+11500,36,0.2198,72000.0,682,Debt Consolidation,RENT,CA,Office,2019,2,0
+18075,60,0.2648,65755.0,677,Credit Card Refinancing,MORTGAGE,IN,Driver/Transportation,2020,10,0
+16000,36,0.35,256000.0,682,Credit Card Refinancing,MORTGAGE,NJ,Education,2019,33,0
+21000,36,0.1286,103400.0,692,Home Purchase,MORTGAGE,FL,Office,2019,19,0
+10000,36,0.1644,165000.0,677,Credit Card Refinancing,MORTGAGE,FL,Office,2020,6,0
+12750,60,0.3024,56000.0,732,Debt Consolidation,RENT,NJ,Driver/Transportation,2019,4,1
+9500,36,0.2552,60000.0,692,Debt Consolidation,RENT,IL,Driver/Transportation,2019,21,0
+14000,60,0.3468,91000.0,707,Debt Consolidation,MORTGAGE,TX,Others,2019,4,0
+22800,60,0.2083,35900.0,702,Debt Consolidation,RENT,WA,Customer Service,2019,2,0
+12000,60,0.1745,50000.0,677,Home Improvement,MORTGAGE,CA,,2019,< 1 year,0
+11000,60,0.2985,109000.0,712,Home Improvement,MORTGAGE,TX,Legal/Government/Police,2019,0,0
+34025,60,0.1571,63000.0,712,Debt Consolidation,RENT,TX,Office,2019,11,0
+26300,36,0.2825,140000.0,787,Debt Consolidation,RENT,FL,Office,2019,3,1
+1200,36,0.0975,33000.0,682,Debt Consolidation,RENT,TX,Others,2019,5,0
+22000,36,0.2074,50000.0,662,Debt Consolidation,RENT,OR,Education,2019,10,0
+8000,36,0.0657,80000.0,687,Medical Expenses,MORTGAGE,MI,Skilled Labor,2020,26,0
+10000,36,0.2631,82000.0,672,Debt Consolidation,OWN,MS,Others,2019,1,0
+40000,36,0.1719,90000.0,722,Credit Card Refinancing,MORTGAGE,AR,Health care,2019,15,0
+22000,60,0.1432,90000.0,692,Credit Card Refinancing,MORTGAGE,MS,Legal/Government/Police,2019,0,0
+40000,36,0.0969,108000.0,697,Debt Consolidation,MORTGAGE,IL,Sales,2019,3,0
+8000,36,0.188,125000.0,712,Home Improvement,MORTGAGE,OK,IT/Engineering,2019,10,0
+40000,60,0.1724,128200.0,667,Credit Card Refinancing,RENT,MD,Health care,2019,10,0
+12000,36,28.74,75000.0,720,debt_consolidation,mortgage,TX,Others,2020,10+ years,0
+25000,36,8.79,135000.0,615,debt_consolidation,rent,IN,Others,2019,2 years,0
+12750,36,0.1899,64000.0,672,Debt Consolidation,MORTGAGE,OH,Others,2019,11,0
+20000,60,30.03,50000.0,705,credit_card,mortgage,SC,Office,2019,1 year,0
+16000,36,0.0938,55000.0,662,Debt Consolidation,OWN,GA,Office,2018,6,0
+10000,36,0.3489,28000.0,687,Credit Card Refinancing,RENT,FL,Office,2018,1,0
+7400,36,22.38,93068.92,670,credit_card,rent,CA,IT/Engineering,2019,10+ years,0
+35000,60,0.0638,80000.0,672,Debt Consolidation,MORTGAGE,IL,,2018,,0
+17400,36,0.3641,158774.0,722,Debt Consolidation,MORTGAGE,MI,Education,2019,10,0
+10000,36,33.37,20000.0,735,debt_consolidation,rent,OH,Driver/Transportation,2018,2 years,0
+12000,60,25.11,55000.0,705,debt_consolidation,rent,CA,Sales,2019,2 years,1
+20000,60,0.1097,65000.0,677,Debt Consolidation,RENT,TN,IT/Engineering,2018,2,0
+35000,36,21.97,181000.0,660,debt_consolidation,mortgage,NC,Others,2018,1 year,0
+20000,36,35.14,108000.0,710,debt_consolidation,mortgage,LA,Construction/Labor,2019,1 year,0
+10625,36,0.2789,47000.0,702,Moving or Relocation,RENT,OH,Sales,2019,1,0
+13000,36,0.389,84000.0,682,Debt Consolidation,MORTGAGE,FL,Office,2019,17,0
+15000,36,0.3222,80600.0,687,Debt Consolidation,RENT,NJ,Sales,2019,4,1
+10000,36,0.0897,126320.0,717,Other,RENT,CA,Others,2019,4,0
+19000,36,0.1891,57000.0,702,Credit Card Refinancing,OWN,NJ,Office,2019,2,0
+20000,60,0.304,60000.0,682,Debt Consolidation,RENT,CA,Construction/Labor,2019,3,0
+26575,60,0.3683,48880.0,737,Debt Consolidation,OWN,NJ,Others,2019,2,0
+7000,36,14.1,42400.0,670,debt_consolidation,mortgage,FL,Office,2019,5 years,0
+22500,60,0.1727,80000.0,702,Debt Consolidation,RENT,CA,Sales,2019,5,0
+5800,36,0.2482,105000.0,662,Debt Consolidation,RENT,AL,Real Estate,2019,6,0
+5000,36,0.1263,41220.0,662,Debt Consolidation,RENT,NY,,2018,0,0
+34025,36,0.0723,220000.0,687,Credit Card Refinancing,MORTGAGE,MI,IT/Engineering,2019,7,0
+25175,36,10.39,110000.0,715,debt_consolidation,rent,SC,,2019,,0
+25000,60,0.1989,150000.0,667,Debt Consolidation,RENT,CA,Education,2019,10,0
+21275,36,0.2264,200000.0,687,Debt Consolidation,RENT,CA,Health care,2019,10,0
+14400,60,0.1325,90000.0,677,Debt Consolidation,OWN,NY,IT/Engineering,2019,10,0
+17000,36,0.2082,110000.0,702,Debt Consolidation,MORTGAGE,NV,Health care,2020,0,0
+2400,36,0.047,24000.0,672,Credit Card Refinancing,RENT,CT,Small Business,2019,6,0
+23875,60,0.2916,175000.0,702,Debt Consolidation,MORTGAGE,TX,Office,2019,10,0
+28175,36,0.1299,105000.0,662,Home Purchase,OWN,TX,Skilled Labor,2019,1,0
+24000,60,0.1307,126000.0,687,Home Improvement,OWN,MA,Others,2019,1,0
+25000,60,0.1125,51000.0,732,Debt Consolidation,MORTGAGE,TN,Driver/Transportation,2019,0,0
+15000,60,0.1512,67083.0,682,Other,MORTGAGE,WV,Health care,2019,23,0
+14000,36,12.48,94500.0,645,credit_card,mortgage,MS,Office,2020,10+ years,0
+5000,36,0.2074,50000.0,682,Debt Consolidation,RENT,WI,Legal/Government/Police,2019,2,0
+40000,60,0.2854,75000.0,737,Medical Expenses,RENT,AZ,Education,2019,11,1
+10000,36,0.2952,80000.0,707,Debt Consolidation,MORTGAGE,WV,Sales,2019,9,0
+10000,36,0.1959,25000.0,687,Debt Consolidation,RENT,AR,Education,2019,6,0
+31000,60,24.47,103423.0,755,debt_consolidation,rent,DC,Office,2018,3 years,0
+12750,60,0.157,70000.0,697,Credit Card Refinancing,MORTGAGE,IL,Customer Service,2019,4,0
+25000,60,0.3022,70000.0,702,Debt Consolidation,MORTGAGE,CT,Others,2019,1,0
+24000,36,0.3384,57000.0,737,Debt Consolidation,RENT,NJ,Food/Hospitality,2019,7,0
+18000,36,0.1282,74000.0,707,Credit Card Refinancing,RENT,MI,Small Business,2019,5,0
+18000,36,0.2699,75000.0,677,Credit Card Refinancing,MORTGAGE,NY,,2019,< 1 year,1
+7425,36,0.0549,52000.0,667,Credit Card Refinancing,MORTGAGE,CO,Office,2019,2,0
+40000,60,0.2068,123500.0,687,Debt Consolidation,MORTGAGE,PA,Others,2019,17,0
+29425,60,0.3134,167728.0,722,Debt Consolidation,MORTGAGE,TX,Office,2019,10,1
+17000,60,0.046,275000.0,662,Debt Consolidation,MORTGAGE,CA,Office,2018,27,1
+14000,60,0.263,35500.0,682,Debt Consolidation,RENT,GA,,2019,< 1 year,0
+10500,60,0.2677,65000.0,692,Debt Consolidation,RENT,IL,Others,2019,5,0
+8000,36,0.1924,92250.0,707,Debt Consolidation,OWN,OH,Office,2018,2,0
+3600,36,6.49,170000.0,660,credit_card,mortgage,IN,Office,2019,10+ years,0
+15000,60,0.1848,65000.0,667,Moving or Relocation,RENT,NY,Health care,2018,1,0
+35000,60,0.131,98000.0,672,Debt Consolidation,RENT,CA,Others,2019,2,0
+30000,60,0.2008,52000.0,727,Debt Consolidation,MORTGAGE,AZ,Office,2019,18,0
+16950,36,0.3939,65000.0,782,Other,RENT,MD,,2018,< 1 year,0
+12800,36,0.2216,74500.0,697,Debt Consolidation,MORTGAGE,IL,Office,2019,24,0
+16000,60,29.99,125000.0,740,other,mortgage,AL,Others,2018,10+ years,0
+4000,36,3.16,35000.0,665,debt_consolidation,rent,CA,Office,2019,4 years,1
+15000,36,0.0419,65000.0,667,Debt Consolidation,RENT,NY,Education,2019,10,1
+10000,36,0.0833,39050.0,662,Debt Consolidation,OWN,WA,Health care,2018,3,1
+30000,36,0.0049,95000.0,722,Vehicle Purchase,RENT,NY,Driver/Transportation,2018,10,0
+17000,60,0.2621,80000.0,697,Debt Consolidation,MORTGAGE,FL,Legal/Government/Police,2019,11,1
+5000,36,0.0801,95000.0,667,Home Improvement,MORTGAGE,GA,IT/Engineering,2018,4,0
+20000,60,0.2621,50000.0,707,Debt Consolidation,OWN,LA,IT/Engineering,2019,3,0
+24000,36,0.2787,80000.0,697,Debt Consolidation,OWN,NY,Education,2020,8,0
+5000,36,0.2056,138000.0,692,Home Improvement,MORTGAGE,PA,Office,2019,17,0
+29450,60,0.36,63000.0,692,Credit Card Refinancing,MORTGAGE,GA,Sales,2019,13,0
+2000,36,0.1134,141532.0,692,Moving or Relocation,MORTGAGE,TX,Unknown,2019,13,0
+15000,36,0.0699,144000.0,662,Credit Card Refinancing,RENT,TX,,2018,< 1 year,0
+20000,36,0.1846,70000.0,677,Debt Consolidation,MORTGAGE,CO,Skilled Labor,2018,5,0
+3600,36,0.1391,22000.0,762,Vehicle Purchase,RENT,TX,Food/Hospitality,2018,2,0
+24500,60,14.93,150000.0,675,credit_card,mortgage,CA,IT/Engineering,2019,< 1 year,0
+9025,36,0.2036,200000.0,692,Debt Consolidation,MORTGAGE,WA,,2020,< 1 year,0
+8000,36,18.41,53250.0,695,home_improvement,mortgage,SC,Education,2018,10+ years,0
+5300,36,0.2116,240000.0,697,Credit Card Refinancing,RENT,NY,Others,2019,5,0
+30000,60,0.3007,91000.0,717,Debt Consolidation,MORTGAGE,MN,Office,2019,30,0
+10000,36,0.3261,70000.0,727,Debt Consolidation,MORTGAGE,MD,,2019,0,0
+10000,36,0.2348,32000.0,667,Debt Consolidation,RENT,CA,Sales,2018,3,0
+7000,36,0.0811,50000.0,737,Credit Card Refinancing,RENT,ID,Customer Service,2018,2,0
+16000,36,4.7,115000.0,705,debt_consolidation,mortgage,NC,,2020,,0
+7700,36,0.0599,71000.0,672,Debt Consolidation,MORTGAGE,MT,Others,2020,12,0
+4000,36,0.0988,64000.0,662,Other,MORTGAGE,MN,Health care,2019,19,0
+20000,36,0.1608,45000.0,677,Debt Consolidation,RENT,WI,Skilled Labor,2019,5,0
+8000,36,14.13,90000.0,650,debt_consolidation,mortgage,RI,Office,2019,5 years,0
+10000,60,31.01,50000.0,695,debt_consolidation,own,NJ,,2019,< 1 year,0
+32475,60,0.3065,150000.0,682,Debt Consolidation,MORTGAGE,KY,Sales,2019,9,0
+30000,60,0.37200000000000005,147800.0,707,Debt Consolidation,MORTGAGE,NC,Office,2019,14,0
+40000,60,0.0485,250000.0,727,Credit Card Refinancing,RENT,CA,Unknown,2019,3,1
+12000,36,0.3115,41000.0,667,Credit Card Refinancing,RENT,FL,Legal/Government/Police,2019,1,0
+40000,60,0.2426,232402.0,727,Medical Expenses,MORTGAGE,MD,,2020,,0
+40000,36,0.2257,130000.0,692,Debt Consolidation,MORTGAGE,FL,Office,2019,8,0
+21000,60,18.64,153000.0,730,debt_consolidation,mortgage,UT,Small Business,2018,8 years,0
+34025,36,0.0924,73000.0,782,Debt Consolidation,RENT,CA,,2019,,0
+17000,60,0.1006,60000.0,662,Credit Card Refinancing,OWN,NH,Office,2019,0,0
+29500,60,0.2858,80720.0,677,Debt Consolidation,MORTGAGE,GA,Others,2019,11,0
+32000,60,0.0971,85000.0,717,Debt Consolidation,MORTGAGE,NY,Legal/Government/Police,2019,36,0
+2000,36,0.1708,120000.0,712,Other Major Purchase,MORTGAGE,IL,IT/Engineering,2019,10,0
+16000,36,0.12,31201.0,662,Credit Card Refinancing,RENT,CA,Education,2019,1,0
+40000,60,7.43,162000.0,660,debt_consolidation,mortgage,MI,Others,2018,4 years,0
+25000,60,0.2248,105000.0,757,Other,RENT,MA,Office,2019,0,0
+17000,60,0.1661,76000.0,667,Debt Consolidation,OWN,AR,,2019,< 1 year,0
+6500,36,0.102,70000.0,697,Credit Card Refinancing,MORTGAGE,OH,Construction/Labor,2020,2,0
+25000,36,19.12,205000.0,685,home_improvement,mortgage,WV,Office,2019,4 years,0
+12750,36,0.0492,80000.0,712,Vehicle Purchase,RENT,FL,,2019,< 1 year,0
+30000,60,0.1848,40000.0,667,Debt Consolidation,RENT,TX,Office,2018,10,0
+20000,36,0.1621,56350.0,717,Debt Consolidation,RENT,NY,Office,2019,10,0
+9000,36,0.1751,105000.0,672,Debt Consolidation,RENT,VA,Others,2018,10,0
+20000,60,0.166,168000.0,667,Debt Consolidation,MORTGAGE,TX,Skilled Labor,2019,4,0
+35000,36,0.1225,144000.0,682,Debt Consolidation,MORTGAGE,CA,IT/Engineering,2020,4,0
+32000,60,0.3333,90000.0,732,Vehicle Purchase,MORTGAGE,AK,Legal/Government/Police,2019,16,0
+30000,36,0.2521,59000.0,687,Credit Card Refinancing,OWN,GA,Others,2020,2,0
+15000,36,0.1198,153000.0,692,Other,RENT,CA,Small Business,2019,6,1
+10000,60,0.2565,72000.0,672,Debt Consolidation,MORTGAGE,AL,Office,2019,7,0
+5575,36,0.2569,157000.0,662,Debt Consolidation,RENT,CA,Office,2020,1,0
+16800,60,0.3213,28800.0,677,Debt Consolidation,MORTGAGE,CA,,2018,,0
+22325,36,0.0668,93000.0,732,Debt Consolidation,MORTGAGE,GA,Office,2019,2,1
+15000,36,0.1058,83000.0,682,Credit Card Refinancing,RENT,AR,Health care,2020,9,1
+13000,36,0.2248,72748.0,742,Debt Consolidation,MORTGAGE,CA,Skilled Labor,2018,0,0
+21300,36,0.3156,70000.0,662,Debt Consolidation,MORTGAGE,IL,Driver/Transportation,2020,12,0
+6000,60,0.2731,60000.0,697,Debt Consolidation,RENT,FL,Skilled Labor,2019,4,1
+20000,36,0.1519,64000.0,692,Credit Card Refinancing,MORTGAGE,MN,Skilled Labor,2018,5,0
+25000,60,0.1587,75000.0,727,Debt Consolidation,RENT,MO,Office,2019,5,0
+40000,36,0.1625,165000.0,817,Home Purchase,RENT,CA,,2019,,0
+10000,36,23.77,30636.0,540,debt_consolidation,rent,GA,,2018,,0
+12000,60,0.1268,30000.0,662,Debt Consolidation,RENT,MO,Skilled Labor,2019,1,0
+15000,60,6.69,45000.0,760,debt_consolidation,mortgage,AZ,,2019,< 1 year,0
+31575,36,16.39,103687.0,770,credit_card,own,HI,Skilled Labor,2020,2 years,0
+24000,60,0.1892,60500.0,692,Credit Card Refinancing,MORTGAGE,NY,Skilled Labor,2019,12,0
+20000,60,11.08,83000.0,700,debt_consolidation,rent,CA,Office,2018,10+ years,0
+9600,36,0.2741,37000.0,697,Credit Card Refinancing,RENT,FL,Others,2018,3,0
+14000,36,0.2612,50000.0,672,Debt Consolidation,RENT,CA,Education,2019,13,0
+14000,60,0.2403,76000.0,682,Credit Card Refinancing,OWN,CT,Food/Hospitality,2019,5,0
+11375,36,0.185,77690.0,702,Debt Consolidation,MORTGAGE,MN,Sales,2019,24,0
+30000,60,0.3517,95000.0,697,Debt Consolidation,MORTGAGE,PA,Legal/Government/Police,2019,18,1
+15000,60,6.72,49319.29,710,credit_card,rent,AZ,Driver/Transportation,2019,10+ years,0
+10000,36,0.3141,40000.0,717,Debt Consolidation,MORTGAGE,MS,Office,2019,2,0
+20000,60,0.1092,68000.0,672,Debt Consolidation,OWN,MA,Small Business,2019,10,0
+32000,60,0.2078,70000.0,682,Debt Consolidation,MORTGAGE,MI,Others,2019,16,0
+20000,60,3.61,175000.0,690,other,rent,CA,Others,2019,5 years,0
+15950,60,0.1413,48500.0,697,Debt Consolidation,RENT,TX,Unknown,2020,4,0
+25525,60,0.1098,110000.0,672,Debt Consolidation,RENT,DE,,2019,0,0
+10000,60,0.1078,50000.0,672,Debt Consolidation,RENT,CA,,2019,0,0
+19000,36,0.2185,135000.0,692,Other,MORTGAGE,KY,Sales,2018,10,0
+15000,60,13.72,72000.0,660,credit_card,mortgage,NC,,2019,,0
+21275,60,0.2403,40000.0,662,Credit Card Refinancing,OWN,ND,Office,2019,10,1
+10000,60,0.2514,60000.0,712,Debt Consolidation,RENT,CA,,2018,,0
+17000,60,0.1398,46000.0,667,Credit Card Refinancing,MORTGAGE,IL,,2018,,0
+3000,36,0.08,210000.0,672,Debt Consolidation,MORTGAGE,MD,Others,2018,2,0
+8725,36,0.3472,70000.0,717,Debt Consolidation,RENT,NJ,Unknown,2019,9,0
+3175,36,0.2179,20000.0,672,Debt Consolidation,RENT,TX,Office,2019,1,0
+4000,36,10.27,66000.0,655,credit_card,own,FL,,2019,,1
+14250,60,0.1857,36000.0,692,Debt Consolidation,MORTGAGE,OH,Sales,2019,9,0
+10000,36,8.62,72000.0,680,debt_consolidation,rent,TX,,2018,< 1 year,0
+15000,36,0.275,95000.0,692,Debt Consolidation,MORTGAGE,WA,Small Business,2019,14,0
+10500,36,0.366,52000.0,697,Credit Card Refinancing,OWN,MI,Sales,2019,6,0
+21275,36,0.0962,100000.0,687,Credit Card Refinancing,OWN,FL,Office,2019,10,0
+11900,60,0.3353,34000.0,712,Debt Consolidation,RENT,CA,Others,2018,7,1
+20000,60,0.1529,195000.0,682,Other,MORTGAGE,CA,Others,2019,5,0
+22975,60,0.2234,116000.0,717,Debt Consolidation,MORTGAGE,GA,Skilled Labor,2019,9,0
+21000,36,0.1919,100000.0,662,Debt Consolidation,OWN,NV,IT/Engineering,2019,1,0
+12750,36,0.3648,50000.0,777,Debt Consolidation,MORTGAGE,FL,Health care,2020,7,0
+14100,36,0.2052,62000.0,687,Other Major Purchase,OWN,TX,Driver/Transportation,2019,17,0
+30000,36,30.3,95000.0,685,debt_consolidation,mortgage,FL,Legal/Government/Police,2019,< 1 year,0
+40000,60,14.52,100000.0,735,debt_consolidation,own,CA,Driver/Transportation,2020,10+ years,0
+24000,60,0.2509,157275.0,792,Home Improvement,MORTGAGE,AR,Office,2019,8,0
+32000,36,6.4,600000.0,690,other,mortgage,CA,Sales,2020,10+ years,0
+22000,36,18.74,70000.0,780,debt_consolidation,rent,CA,,2020,< 1 year,0
+21275,60,0.2912,83000.0,717,Debt Consolidation,RENT,MA,Office,2019,1,0
+31125,60,0.3669,116600.0,707,Credit Card Refinancing,MORTGAGE,OK,Others,2019,4,0
+10000,60,8.43,40000.0,730,other,rent,OH,Others,2019,10+ years,0
+20125,60,0.3315,45760.0,677,Debt Consolidation,RENT,AZ,,2018,,0
+15000,36,0.1652,60000.0,687,Credit Card Refinancing,RENT,MA,Customer Service,2018,2,1
+7000,36,0.1829,61000.0,702,Moving or Relocation,RENT,NC,,2020,,0
+25000,36,0.3765,80000.0,687,Debt Consolidation,MORTGAGE,AR,Driver/Transportation,2018,0,0
+10050,36,20.33,378000.0,675,credit_card,rent,CA,Others,2018,2 years,1
+5000,36,0.0575,85000.0,667,Home Purchase,MORTGAGE,NJ,Health care,2019,6,0
+19500,36,0.1568,48000.0,662,Debt Consolidation,RENT,UT,Food/Hospitality,2019,10,0
+12800,36,0.2776,70000.0,712,Credit Card Refinancing,MORTGAGE,VT,Office,2019,2,0
+24000,60,0.2459,90000.0,672,Debt Consolidation,RENT,NC,Office,2019,0,0
+12000,36,13.59,40000.0,680,debt_consolidation,rent,CA,Travel,2020,3 years,0
+10000,60,0.228,30000.0,677,Debt Consolidation,MORTGAGE,OH,Health care,2018,3,0
+24000,60,0.3533,73596.0,687,Debt Consolidation,MORTGAGE,SC,,2019,0,0
+8000,36,0.1792,158000.0,677,Other,RENT,IN,Driver/Transportation,2018,3,0
+5300,36,0.1446,41250.0,662,Debt Consolidation,RENT,IL,Sales,2019,2,1
+11100,60,0.3173,36000.0,662,Debt Consolidation,RENT,OR,Construction/Labor,2019,1,0
+19000,36,0.1813,182000.0,757,Credit Card Refinancing,MORTGAGE,FL,Health care,2018,2,0
+15000,36,0.0569,155000.0,702,Credit Card Refinancing,MORTGAGE,TX,Others,2018,1,0
+8000,36,0.2167,35000.0,667,Debt Consolidation,RENT,CA,Office,2019,1,0
+40000,60,0.2738,205000.0,742,Credit Card Refinancing,MORTGAGE,UT,Others,2019,15,0
+15175,60,17.09,37000.0,680,debt_consolidation,rent,GA,,2019,,0
+5000,36,0.39899999999999997,14916.0,727,Debt Consolidation,OWN,FL,,2019,0,0
+3050,36,0.055,43674.0,677,Debt Consolidation,MORTGAGE,CA,Office,2020,5,0
+40000,60,0.1186,62644.0,752,Debt Consolidation,MORTGAGE,FL,,2019,,0
+18000,60,0.2633,70000.0,682,Credit Card Refinancing,OWN,FL,Office,2019,3,1
+9675,36,0.3893,42000.0,672,Debt Consolidation,MORTGAGE,OH,Office,2019,2,0
+31950,36,0.2169,265000.0,707,Credit Card Refinancing,RENT,CA,Sales,2019,1,0
+11700,36,12.49,180000.0,690,debt_consolidation,mortgage,AZ,Construction/Labor,2019,7 years,0
+40000,36,0.07,329100.0,702,Credit Card Refinancing,OWN,CA,Small Business,2019,11,0
+16000,36,22.87,78500.0,685,credit_card,mortgage,MD,Health care,2019,9 years,1
+4000,36,0.31,30000.0,702,Debt Consolidation,RENT,TX,Office,2019,1,0
+30000,36,16.69,98000.0,710,credit_card,mortgage,TX,Office,2019,< 1 year,0
+20000,36,0.1433,90000.0,682,Credit Card Refinancing,RENT,VA,Real Estate,2019,0,0
+25000,36,12.12,100000.0,715,debt_consolidation,rent,CA,,2019,,0
+12000,60,0.2475,170000.0,677,Debt Consolidation,MORTGAGE,OH,Office,2018,6,0
+6500,60,0.10800000000000001,52000.0,662,Debt Consolidation,RENT,MA,Construction/Labor,2020,10,0
+13600,36,0.1151,76000.0,667,Debt Consolidation,RENT,NY,Office,2019,1,0
+15000,36,0.1115,120000.0,692,Other,MORTGAGE,CA,,2020,< 1 year,0
+11700,36,0.1632,108000.0,667,Debt Consolidation,MORTGAGE,MN,Customer Service,2020,3,0
+11200,36,0.1043,83000.0,677,Credit Card Refinancing,RENT,CA,Legal/Government/Police,2018,10,0
+40000,36,0.12300000000000001,619000.0,722,Debt Consolidation,MORTGAGE,FL,Others,2019,4,0
+6000,36,9.13,28000.0,700,debt_consolidation,own,FL,,2020,1 year,0
+7500,36,0.1448,32500.0,672,Credit Card Refinancing,MORTGAGE,OK,,2020,,0
+9000,36,0.1818,78500.0,757,Home Improvement,MORTGAGE,CO,Others,2018,10,0
+8000,36,0.3865,19776.0,682,Debt Consolidation,MORTGAGE,TN,Driver/Transportation,2019,1,0
+10200,60,0.3653,25000.0,702,Debt Consolidation,RENT,AL,Sales,2020,1,1
+35000,60,0.0268,65000.0,672,Home Improvement,MORTGAGE,CA,Food/Hospitality,2019,3,0
+21500,60,0.2652,120000.0,682,Credit Card Refinancing,MORTGAGE,PA,Customer Service,2019,1,1
+15000,60,8.48,78000.0,680,credit_card,rent,OH,Unknown,2019,9 years,0
+40000,60,0.2646,101000.0,712,Other,MORTGAGE,PA,,2019,,0
+20000,36,5.95,106000.0,665,debt_consolidation,rent,VA,Office,2018,10+ years,0
+18000,36,0.0819,108000.0,682,Debt Consolidation,MORTGAGE,PA,Education,2018,10,0
+27000,60,0.2633,96000.0,732,Debt Consolidation,MORTGAGE,CA,Sales,2018,19,1
+40000,36,0.2385,97000.0,667,Debt Consolidation,OWN,NV,Unknown,2019,4,0
+13000,60,0.0805,66500.0,662,Debt Consolidation,RENT,IN,Others,2019,14,0
+26575,60,0.0767,94000.0,682,Debt Consolidation,RENT,CA,Office,2019,0,1
+17500,60,0.27899999999999997,100000.0,712,Credit Card Refinancing,MORTGAGE,WI,IT/Engineering,2019,10,0
+20000,36,0.2527,65000.0,682,Home Improvement,OWN,CA,Office,2019,0,0
+12000,36,9.89,100000.0,655,debt_consolidation,rent,CA,Health care,2019,3 years,0
+22000,36,13.31,218000.0,750,debt_consolidation,mortgage,NC,Sales,2018,10+ years,0
+2500,36,0.0647,82000.0,717,Other,MORTGAGE,CT,Health care,2018,1,0
+24000,36,28.62,38000.0,700,credit_card,mortgage,AL,Health care,2019,10+ years,1
+13825,36,0.3639,59000.0,662,Debt Consolidation,RENT,OH,Sales,2020,0,0
+10000,36,0.1111,33600.0,717,Debt Consolidation,RENT,TX,,2018,,0
+40000,60,0.2576,93600.0,757,Debt Consolidation,MORTGAGE,IL,Office,2020,4,0
+20000,60,0.3806,65000.0,747,Debt Consolidation,MORTGAGE,WA,Travel,2019,9,0
+14875,60,0.2123,114000.0,717,Credit Card Refinancing,RENT,AZ,Education,2019,4,0
+11900,36,0.1644,57360.0,662,Credit Card Refinancing,RENT,AK,Customer Service,2020,2,0
+12000,60,0.0701,90000.0,672,Debt Consolidation,MORTGAGE,MA,,2019,< 1 year,0
+11475,36,0.2571,50000.0,672,Debt Consolidation,RENT,CA,Construction/Labor,2019,1,0
+3000,36,0.0465,205000.0,662,Credit Card Refinancing,OWN,NY,Office,2018,5,0
+36000,60,0.1001,125000.0,692,Debt Consolidation,MORTGAGE,GA,Education,2019,16,0
+10000,36,0.135,120000.0,672,Medical Expenses,RENT,FL,Legal/Government/Police,2019,3,0
+10000,36,0.2936,30000.0,672,Debt Consolidation,MORTGAGE,SC,,2019,< 1 year,0
+15000,60,0.1213,65000.0,662,Credit Card Refinancing,RENT,CA,Office,2019,5,0
+25000,60,0.2043,47000.0,727,Debt Consolidation,MORTGAGE,FL,Others,2019,6,0
+9000,36,0.0918,60000.0,662,Debt Consolidation,MORTGAGE,CT,,2018,0,0
+5000,36,0.1422,40000.0,667,Debt Consolidation,RENT,CA,Driver/Transportation,2020,6,0
+12625,36,0.0974,200000.0,757,Credit Card Refinancing,OWN,PA,Others,2020,1,0
+35000,60,0.1987,102000.0,692,Debt Consolidation,RENT,CA,Others,2019,9,0
+13825,60,0.1815,50000.0,717,Debt Consolidation,MORTGAGE,GA,Legal/Government/Police,2019,3,0
+16000,36,0.1458,88500.0,682,Other,RENT,IN,,2018,< 1 year,0
+37225,60,0.0699,145000.0,712,Debt Consolidation,OWN,CA,Others,2019,27,0
+14000,60,0.0303,55000.0,717,Credit Card Refinancing,OWN,NM,,2019,< 1 year,0
+26800,36,0.363,41000.0,712,Debt Consolidation,OWN,TX,Others,2019,2,0
+15000,60,0.2962,90000.0,662,Other Major Purchase,MORTGAGE,SC,,2019,,0
+10000,36,0.1032,112000.0,687,Vehicle Purchase,RENT,NC,Skilled Labor,2020,0,0
+20000,60,0.2166,100000.0,677,Debt Consolidation,RENT,UT,Driver/Transportation,2019,0,1
+19000,60,0.247,75000.0,767,Debt Consolidation,MORTGAGE,OH,Construction/Labor,2019,9,0
+6375,36,0.3661,139000.0,717,Other Major Purchase,MORTGAGE,FL,,2020,,0
+35000,60,0.131,155602.0,787,Debt Consolidation,MORTGAGE,NM,Education,2019,2,0
+34950,60,0.23600000000000002,83000.0,697,Home Purchase,RENT,NJ,Skilled Labor,2019,10,1
+19200,60,0.2026,92300.0,702,Debt Consolidation,RENT,NY,Education,2019,10,0
+21275,60,0.1787,200000.0,707,Vacation,MORTGAGE,CA,Health care,2019,0,0
+5000,36,0.297,36000.0,672,Credit Card Refinancing,RENT,TX,Driver/Transportation,2019,5,0
+20000,60,0.2611,45000.0,687,Debt Consolidation,RENT,PA,Skilled Labor,2019,6,0
+40000,36,0.0931,225000.0,742,Debt Consolidation,MORTGAGE,MD,Others,2019,9,1
+31900,36,0.1732,120000.0,677,Debt Consolidation,OWN,NV,Small Business,2019,10,1
+30000,60,0.2427,98000.0,682,Debt Consolidation,MORTGAGE,NJ,Others,2019,10,0
+24000,60,16.78,115000.0,730,credit_card,mortgage,PA,,2019,2 years,0
+20000,36,0.2241,90000.0,672,Debt Consolidation,RENT,IL,Office,2019,0,0
+40000,36,0.215,350000.0,682,Debt Consolidation,MORTGAGE,OH,Health care,2019,1,0
+3000,36,0.1726,42000.0,697,Debt Consolidation,MORTGAGE,CA,Office,2018,9,0
+30000,60,0.2012,90000.0,662,Debt Consolidation,RENT,WA,Skilled Labor,2020,8,0
+15000,36,0.2312,60000.0,677,Debt Consolidation,RENT,PA,Health care,2020,2,0
+12000,36,0.125,82000.0,662,Debt Consolidation,RENT,NJ,Skilled Labor,2019,12,1
+40000,36,0.1825,150000.0,687,Credit Card Refinancing,RENT,CO,,2019,< 1 year,1
+15500,60,0.2107,35090.0,707,Debt Consolidation,MORTGAGE,MO,Customer Service,2019,7,0
+25000,60,0.1286,136000.0,677,Debt Consolidation,RENT,RI,Real Estate,2019,4,0
+12000,60,14.4,90000.0,605,other,mortgage,DC,Office,2018,< 1 year,0
+10000,60,0.1332,45760.0,692,Other,RENT,AZ,,2018,,0
+21000,60,0.1631,90000.0,667,Debt Consolidation,MORTGAGE,MD,IT/Engineering,2019,11,0
+10000,60,0.0222,95000.0,727,Debt Consolidation,RENT,NY,IT/Engineering,2018,10,1
+15000,36,0.254,50000.0,677,Debt Consolidation,RENT,NV,Sales,2020,5,1
+5750,36,0.1508,109872.0,677,Debt Consolidation,RENT,CA,,2019,,0
+18000,36,0.0774,56000.0,672,Credit Card Refinancing,RENT,CO,Office,2020,0,0
+10400,60,4.56,83000.0,705,credit_card,mortgage,OH,Skilled Labor,2020,2 years,0
+35000,36,0.89,150000.0,700,house,rent,FL,Others,2018,3 years,0
+30000,60,0.2936,113733.0,722,Debt Consolidation,RENT,TX,IT/Engineering,2019,0,1
+12000,36,0.3607,68000.0,682,Credit Card Refinancing,RENT,FL,Health care,2019,12,0
+32000,60,0.0878,150000.0,722,Debt Consolidation,MORTGAGE,WA,IT/Engineering,2019,9,1
+40000,36,9.08,420000.0,695,house,mortgage,NJ,,2020,< 1 year,1
+10000,36,0.1088,86000.0,672,Debt Consolidation,MORTGAGE,MD,Driver/Transportation,2019,5,1
+9000,60,0.1872,110000.0,717,Other,MORTGAGE,CA,Unknown,2019,4,0
+11200,36,0.2123,70000.0,662,Debt Consolidation,RENT,AL,Skilled Labor,2019,3,0
+6500,60,0.2602,16296.0,712,Debt Consolidation,RENT,MA,,2019,0,0
+23200,36,0.3604,145000.0,722,Credit Card Refinancing,MORTGAGE,WA,Education,2019,4,0
+6000,36,20.23,49000.0,675,home_improvement,mortgage,TN,Education,2019,1 year,0
+4900,36,0.3184,60000.0,712,Other,RENT,TX,,2019,,0
+6000,36,0.0805,48000.0,667,Debt Consolidation,RENT,NY,Customer Service,2018,4,0
+40000,36,0.1162,144000.0,707,Debt Consolidation,MORTGAGE,CA,,2019,,0
+36000,36,0.2121,237600.0,667,Debt Consolidation,OWN,GA,,2019,< 1 year,1
+13000,36,0.145,97000.0,677,Credit Card Refinancing,MORTGAGE,MA,Others,2019,0,0
+10000,60,0.2343,98000.0,687,Credit Card Refinancing,MORTGAGE,TX,Legal/Government/Police,2019,2,0
+34025,60,0.3325,101500.0,742,Debt Consolidation,MORTGAGE,TX,,2019,0,1
+10200,36,0.1395,48000.0,662,Debt Consolidation,OWN,NV,,2020,,0
+30000,60,0.1351,129000.0,672,Debt Consolidation,MORTGAGE,FL,Office,2019,10,0
+28000,60,13.88,135000.0,725,debt_consolidation,rent,WI,Others,2019,10+ years,0
+20000,60,0.1575,114500.0,712,Debt Consolidation,RENT,TX,Office,2020,3,0
+18000,36,0.1298,55000.0,672,Debt Consolidation,MORTGAGE,NC,Office,2019,13,0
+35500,36,0.2562,120000.0,717,Debt Consolidation,MORTGAGE,NY,,2019,,0
+6375,36,0.0236,128000.0,667,Debt Consolidation,MORTGAGE,NJ,IT/Engineering,2019,10,0
+35000,36,0.0144,245000.0,672,Home Improvement,MORTGAGE,CA,Others,2019,0,0
+22000,60,0.1597,42000.0,682,Credit Card Refinancing,MORTGAGE,MI,Skilled Labor,2019,4,0
+19200,36,0.1483,125000.0,707,Business,MORTGAGE,MA,Office,2019,9,0
+3000,36,0.0857,105000.0,717,Home Improvement,MORTGAGE,SC,Skilled Labor,2018,5,0
+10000,60,9.36,66000.0,655,credit_card,mortgage,AZ,,2020,< 1 year,0
+8000,60,0.1543,105000.0,672,Debt Consolidation,OWN,FL,,2019,< 1 year,0
+3200,36,0.2259,58000.0,682,Debt Consolidation,RENT,MI,Office,2019,6,0
+15400,60,0.156,300000.0,682,Home Improvement,MORTGAGE,GA,Sales,2019,5,0
+33000,60,0.3223,148000.0,727,Other,MORTGAGE,NC,Skilled Labor,2019,14,1
+21700,36,20.99,170000.0,665,credit_card,mortgage,CA,Others,2019,10+ years,0
+28000,60,14.53,85000.0,720,credit_card,mortgage,GA,,2018,< 1 year,0
+20000,36,0.2084,79000.0,697,Debt Consolidation,RENT,IL,Legal/Government/Police,2019,10,1
+35000,60,0.235,91107.8,687,Debt Consolidation,RENT,CT,Others,2018,10,0
+16300,60,0.3252,60000.0,707,Debt Consolidation,RENT,FL,Skilled Labor,2018,10,0
+18000,36,0.2064,82000.0,712,Credit Card Refinancing,RENT,MA,Construction/Labor,2019,3,0
+10000,60,0.1503,65000.0,702,Debt Consolidation,RENT,MA,Customer Service,2019,10,0
+11975,60,0.0825,150000.0,677,Business,OWN,NH,Small Business,2019,10,0
+19125,36,0.1017,200000.0,662,Debt Consolidation,RENT,MI,Others,2019,9,0
+16000,60,0.1583,80000.0,757,Debt Consolidation,MORTGAGE,GA,Skilled Labor,2019,3,0
+10000,36,27.16,95000.0,685,debt_consolidation,mortgage,PA,Driver/Transportation,2018,10+ years,0
+13000,60,0.1333,40000.0,692,Debt Consolidation,OWN,NE,,2018,,0
+21275,60,11.28,95000.0,780,debt_consolidation,mortgage,NC,Others,2019,10+ years,0
+6650,36,17.94,120000.0,515,debt_consolidation,rent,IN,Driver/Transportation,2018,3 years,0
+40000,36,0.0959,130000.0,662,Credit Card Refinancing,RENT,CA,,2019,< 1 year,0
+40000,36,0.2743,110000.0,697,Debt Consolidation,MORTGAGE,GA,Sales,2019,1,1
+15000,36,0.22399999999999998,80000.0,682,Debt Consolidation,MORTGAGE,CA,Health care,2020,0,0
+12000,60,0.2454,42000.0,662,Debt Consolidation,RENT,TX,Others,2019,6,0
+20000,36,0.2738,86000.0,742,Home Improvement,MORTGAGE,MO,Skilled Labor,2018,0,0
+25600,60,0.3625,71000.0,722,Debt Consolidation,RENT,TX,Office,2019,6,0
+3000,36,0.1901,65000.0,662,Other,RENT,FL,Skilled Labor,2019,2,0
+15000,36,18.23,178000.0,675,credit_card,mortgage,CA,Sales,2019,< 1 year,0
+20000,60,0.1354,130000.0,717,Business,OWN,NC,,2019,< 1 year,0
+10000,36,0.0533,52000.0,722,Business,MORTGAGE,IL,,2019,< 1 year,0
+20000,36,0.3123,75000.0,667,Debt Consolidation,MORTGAGE,FL,Education,2018,16,1
+10625,36,0.0504,75000.0,682,Credit Card Refinancing,RENT,CA,Construction/Labor,2019,3,0
+6600,36,0.2493,40000.0,717,Other,MORTGAGE,TN,,2019,< 1 year,0
+18000,36,0.0494,93000.0,687,Debt Consolidation,RENT,MN,Sales,2020,11,0
+35000,36,0.1454,79000.0,677,Debt Consolidation,OWN,CO,Sales,2018,10,0
+20000,36,1.24,265000.0,765,major_purchase,rent,CA,,2020,< 1 year,0
+35000,60,0.1254,236000.0,697,Credit Card Refinancing,RENT,PA,Others,2019,19,0
+20000,36,0.0349,96000.0,732,Debt Consolidation,RENT,NY,,2019,< 1 year,1
+20000,36,0.18100000000000002,60000.0,687,Debt Consolidation,RENT,SC,Customer Service,2019,2,1
+10000,36,0.052000000000000005,75000.0,682,Credit Card Refinancing,OWN,NC,,2019,< 1 year,0
+35000,60,0.20800000000000002,157000.0,702,Debt Consolidation,MORTGAGE,OH,Office,2018,5,1
+20825,36,0.3686,42000.0,727,Debt Consolidation,OWN,NC,Office,2019,10,0
+24000,60,0.1759,137000.0,702,Debt Consolidation,MORTGAGE,NJ,IT/Engineering,2019,23,0
+14700,36,0.2066,60000.0,702,Debt Consolidation,MORTGAGE,MI,Health care,2018,3,0
+35000,36,0.3562,95000.0,797,Debt Consolidation,RENT,AZ,Sales,2018,10,0
+30000,36,0.3057,110000.0,682,Debt Consolidation,RENT,CA,Others,2020,0,0
+15000,60,0.3128,36000.0,677,Debt Consolidation,RENT,CT,Driver/Transportation,2020,3,0
+25525,36,0.2554,95000.0,742,Debt Consolidation,OWN,TX,Food/Hospitality,2019,5,1
+18000,36,0.1809,70000.0,692,Credit Card Refinancing,MORTGAGE,NM,Others,2018,8,0
+7000,36,0.0817,56000.0,667,Credit Card Refinancing,MORTGAGE,MI,Health care,2018,3,0
+10000,36,35.77,80000.0,555,debt_consolidation,rent,CA,Others,2019,10+ years,0
+29350,60,23.42,200000.0,705,debt_consolidation,mortgage,VA,Health care,2020,10+ years,0
+10000,36,0.3236,57000.0,682,Debt Consolidation,RENT,PA,Office,2020,6,0
+7000,36,0.2451,45000.0,667,Debt Consolidation,RENT,CO,Food/Hospitality,2018,1,0
+30000,36,0.1338,97000.0,682,Debt Consolidation,RENT,CA,Office,2019,7,0
+20000,60,0.0991,54600.0,677,Home Improvement,MORTGAGE,TX,Others,2019,2,0
+10000,36,0.1152,30000.0,697,Debt Consolidation,RENT,NY,,2020,,0
+35100,60,0.162,100000.0,682,Business,RENT,NJ,Others,2019,8,1
+2000,36,10.91,55000.0,500,debt_consolidation,rent,CA,,2018,< 1 year,0
+35000,60,0.1898,147000.0,702,Credit Card Refinancing,OWN,NY,Education,2019,10,0
+30000,60,0.2442,77700.0,752,Debt Consolidation,OWN,TX,Others,2020,18,1
+13600,60,19.86,86000.0,655,credit_card,mortgage,TX,Travel,2020,7 years,0
+20000,36,0.0225,120000.0,667,Home Improvement,MORTGAGE,CO,Customer Service,2019,8,0
+6000,36,0.1559,91000.0,662,Debt Consolidation,RENT,VA,Others,2019,2,1
+14400,36,25.54,70000.0,760,debt_consolidation,rent,CA,Customer Service,2019,3 years,0
+35000,36,0.2102,162000.0,692,Debt Consolidation,MORTGAGE,PA,Office,2019,11,0
+15000,36,0.017,290000.0,667,Credit Card Refinancing,MORTGAGE,NY,IT/Engineering,2018,2,0
+15000,36,0.2906,90000.0,667,Debt Consolidation,RENT,FL,Office,2018,5,1
+26100,36,0.3127,162000.0,707,Debt Consolidation,MORTGAGE,WA,Others,2019,3,0
+37000,60,0.1422,340000.0,662,Debt Consolidation,MORTGAGE,CA,Sales,2019,2,1
+5300,36,22.28,110000.0,675,car,rent,CA,Driver/Transportation,2019,10+ years,0
+32500,60,0.0604,65000.0,727,Debt Consolidation,RENT,CA,Skilled Labor,2019,1,0
+10000,60,0.1792,60000.0,677,Credit Card Refinancing,MORTGAGE,OH,Skilled Labor,2019,17,0
+12750,60,0.2674,122480.0,712,Credit Card Refinancing,MORTGAGE,WA,Office,2020,2,0
+10000,60,0.1416,72800.0,697,Debt Consolidation,RENT,TX,Driver/Transportation,2019,1,0
+35000,60,0.1222,180000.0,677,Home Improvement,MORTGAGE,PA,IT/Engineering,2019,14,0
+12000,36,0.1475,101954.0,707,Debt Consolidation,RENT,OR,Skilled Labor,2019,8,0
+20000,36,9.99,125000.0,685,debt_consolidation,mortgage,MO,Office,2018,< 1 year,0
+30000,36,0.2721,175000.0,662,Debt Consolidation,MORTGAGE,KS,,2020,< 1 year,0
+3400,36,11.9,36000.0,665,other,mortgage,MD,,2020,,0
+30000,60,0.2248,75000.0,697,Credit Card Refinancing,MORTGAGE,MN,Others,2019,10,0
+30000,60,0.1494,120000.0,737,Debt Consolidation,MORTGAGE,GA,,2020,< 1 year,0
+8825,36,0.2416,32000.0,697,Debt Consolidation,OWN,TX,,2019,,0
+40000,60,0.2121,146000.0,752,Other,OWN,FL,Office,2019,< 1 year,0
+12000,60,0.2499,50000.0,732,Debt Consolidation,MORTGAGE,MN,Office,2019,0,0
+28000,60,0.2819,150000.0,662,Credit Card Refinancing,MORTGAGE,AZ,Driver/Transportation,2019,6,0
+14000,36,0.0533,59000.0,662,Credit Card Refinancing,OWN,CO,Health care,2018,4,0
+16500,60,0.1755,90000.0,727,Credit Card Refinancing,OWN,TX,Construction/Labor,2019,2,0
+10000,60,0.0892,77500.0,677,Debt Consolidation,RENT,MD,Health care,2019,2,1
+9000,36,0.2325,130000.0,782,Home Improvement,MORTGAGE,FL,Customer Service,2018,4,0
+40000,36,0.2241,218000.0,692,Debt Consolidation,RENT,WI,Office,2019,2,0
+31200,60,24.52,101000.0,685,credit_card,mortgage,VA,Skilled Labor,2019,2 years,0
+6375,36,0.2447,110100.0,672,Moving or Relocation,RENT,TX,Skilled Labor,2020,0,0
+6400,36,0.2667,50000.0,672,Debt Consolidation,RENT,NJ,Skilled Labor,2018,10,0
+8500,60,0.2212,70000.0,742,Debt Consolidation,MORTGAGE,OH,,2019,< 1 year,0
+1500,36,0.2241,42250.0,697,Other,RENT,WA,Sales,2019,3,0
+32000,60,0.2774,52038.96,762,Credit Card Refinancing,OWN,LA,,2019,0,0
+16000,60,0.297,52000.0,707,Debt Consolidation,RENT,CA,Office,2019,20,0
+1200,36,0.2034,40000.0,742,Other,RENT,NJ,Food/Hospitality,2020,1,1
+20000,60,0.1831,103496.0,762,Debt Consolidation,RENT,CO,Sales,2018,3,0
+7425,36,0.3639,40000.0,722,Home Improvement,MORTGAGE,NC,Office,2019,6,0
+10625,60,0.1217,150000.0,702,Medical Expenses,MORTGAGE,FL,Sales,2019,3,0
+10000,36,0.2674,47208.0,687,Debt Consolidation,MORTGAGE,IN,Others,2019,4,0
+2800,36,0.2001,46000.0,687,Other,MORTGAGE,AL,Others,2020,10,0
+3000,36,0.2393,90000.0,682,Other,MORTGAGE,AZ,Health care,2020,7,0
+20000,36,0.1745,180000.0,697,Debt Consolidation,MORTGAGE,NC,,2018,< 1 year,0
+17875,36,0.1346,75000.0,732,Debt Consolidation,RENT,NY,Others,2019,0,1
+13000,36,19.85,80000.0,670,credit_card,mortgage,TX,Skilled Labor,2018,1 year,0
+21275,60,0.2152,147000.0,712,Debt Consolidation,MORTGAGE,TX,IT/Engineering,2019,10,0
+36000,36,0.1177,150000.0,717,Credit Card Refinancing,MORTGAGE,IN,,2019,< 1 year,0
+25525,60,0.1684,225000.0,712,Debt Consolidation,MORTGAGE,TX,Others,2019,2,1
+30000,36,0.3015,88000.0,707,Credit Card Refinancing,MORTGAGE,MI,Health care,2018,10,0
+21275,36,0.3153,125000.0,717,Other,RENT,NJ,Others,2019,10,1
+6025,36,0.2236,62000.0,672,Other,MORTGAGE,MA,Construction/Labor,2018,10,0
+21000,60,0.293,77000.0,677,Debt Consolidation,MORTGAGE,NC,Office,2019,0,0
+40000,36,0.1212,150000.0,717,Debt Consolidation,MORTGAGE,FL,Others,2019,4,0
+9000,36,0.2469,33000.0,697,Debt Consolidation,RENT,FL,Office,2018,0,0
+1600,36,0.1206,20000.0,747,Debt Consolidation,RENT,TX,Office,2018,5,0
+11700,60,0.2836,78000.0,702,Debt Consolidation,RENT,CA,Others,2019,0,1
+40000,36,0.2428,140000.0,752,Debt Consolidation,MORTGAGE,VA,,2019,< 1 year,0
+5225,36,0.0723,36000.0,782,Debt Consolidation,MORTGAGE,TN,Office,2019,3,0
+5000,36,0.0831,38000.0,727,Debt Consolidation,OWN,OR,Driver/Transportation,2018,5,0
+12000,36,0.1804,27000.0,742,Credit Card Refinancing,RENT,GA,,2019,,0
+10000,36,0.1224,30000.0,702,Debt Consolidation,MORTGAGE,LA,Office,2018,10,0
+2000,36,27.24,60000.0,690,debt_consolidation,own,MD,,2019,< 1 year,0
+2500,36,5.4,12000.0,575,credit_card,rent,AZ,,2019,,0
+25525,60,0.3242,150000.0,722,Debt Consolidation,MORTGAGE,PA,Legal/Government/Police,2019,10,0
+12000,36,0.3205,120000.0,687,Debt Consolidation,MORTGAGE,FL,Sales,2019,11,0
+30000,60,11.76,160000.0,685,debt_consolidation,mortgage,PA,Skilled Labor,2019,7 years,0
+15950,60,0.2123,42000.0,677,Debt Consolidation,MORTGAGE,KY,Skilled Labor,2019,10,0
+40000,36,0.2022,200000.0,687,Credit Card Refinancing,RENT,TX,Others,2020,6,0
+10000,36,0.2283,49333.0,747,Credit Card Refinancing,MORTGAGE,MO,,2019,,0
+25000,60,0.1715,45000.0,712,Debt Consolidation,RENT,SC,Sales,2019,3,1
+9000,36,0.1186,68000.0,727,Debt Consolidation,RENT,CA,Food/Hospitality,2019,4,0
+35000,60,0.2952,124960.0,722,Debt Consolidation,RENT,CO,Others,2018,10,0
+29775,60,0.3332,99621.6,702,Debt Consolidation,MORTGAGE,WI,Driver/Transportation,2019,1,1
+8000,36,5.78,70000.0,700,debt_consolidation,rent,AZ,,2020,< 1 year,0
+3000,36,0.2271,30600.0,702,Debt Consolidation,RENT,TX,Small Business,2020,0,0
+9500,36,0.0893,180000.0,757,Credit Card Refinancing,OWN,NY,Real Estate,2018,5,0
+32000,36,0.1486,125000.0,737,Credit Card Refinancing,OWN,VA,Office,2018,0,0
+21600,60,0.3424,51418.0,707,Debt Consolidation,RENT,FL,,2018,,0
+14000,60,0.204,75000.0,687,Credit Card Refinancing,OWN,FL,Health care,2019,12,0
+15000,36,0.2851,70000.0,722,Vehicle Purchase,MORTGAGE,NJ,Small Business,2019,10,1
+12000,60,0.2162,104000.0,672,Home Improvement,MORTGAGE,NV,Skilled Labor,2019,3,0
+12000,60,0.1219,125000.0,677,Debt Consolidation,RENT,CA,Health care,2019,0,0
+30000,36,0.2353,118000.0,702,Debt Consolidation,RENT,IN,IT/Engineering,2019,0,0
+16800,36,0.3852,40000.0,667,Debt Consolidation,OWN,TX,,2019,,0
+24000,60,0.2073,120000.0,702,Debt Consolidation,ANY,TX,,2019,< 1 year,0
+30000,60,0.1841,136000.0,672,Credit Card Refinancing,MORTGAGE,IL,Others,2019,0,0
+32000,60,15.39,220000.0,745,debt_consolidation,mortgage,GA,Office,2019,7 years,0
+13500,60,0.314,97000.0,712,Debt Consolidation,OWN,OK,Skilled Labor,2019,10,0
+3600,36,0.2187,85000.0,682,Medical Expenses,RENT,NY,Office,2018,5,0
+11700,36,0.2922,40860.0,722,Debt Consolidation,MORTGAGE,PA,IT/Engineering,2020,1,1
+8400,36,0.0706,50000.0,712,Home Improvement,RENT,NY,,2019,< 1 year,0
+31900,60,0.0576,200000.0,707,Debt Consolidation,OWN,TX,Construction/Labor,2019,3,0
+6000,36,0.0888,53000.0,687,Debt Consolidation,OWN,MD,Office,2019,0,0
+26575,60,0.2248,45000.0,707,Credit Card Refinancing,MORTGAGE,MO,Others,2019,18,0
+18000,60,0.2483,65000.0,687,Debt Consolidation,MORTGAGE,MD,Office,2019,15,0
+11325,36,0.3987,32000.0,682,Credit Card Refinancing,RENT,OR,IT/Engineering,2019,1,0
+13400,60,0.2684,35360.0,672,Debt Consolidation,RENT,ID,Customer Service,2019,0,0
+20000,36,0.1003,158000.0,702,Debt Consolidation,RENT,FL,Food/Hospitality,2018,10,0
+35000,36,0.2712,120000.0,692,Credit Card Refinancing,MORTGAGE,UT,Skilled Labor,2018,0,0
+40000,60,0.2839,70000.0,697,Debt Consolidation,MORTGAGE,IL,Driver/Transportation,2018,0,0
+40000,60,16.51,100000.0,710,debt_consolidation,rent,NJ,Legal/Government/Police,2019,3 years,0
+10000,36,4.58,102000.0,745,debt_consolidation,mortgage,CA,,2019,< 1 year,0
+15000,36,0.3306,46000.0,687,Debt Consolidation,RENT,WA,Customer Service,2019,0,0
+10000,36,0.2877,65000.0,677,Credit Card Refinancing,RENT,CA,Skilled Labor,2019,4,0
+24000,60,0.2295,80000.0,702,Credit Card Refinancing,MORTGAGE,MI,Skilled Labor,2019,5,0
+20000,60,0.0991,93000.0,662,Credit Card Refinancing,MORTGAGE,UT,Skilled Labor,2018,1,1
+3250,36,0.2247,58000.0,662,Other,RENT,IL,Office,2019,2,0
+14400,36,0.28600000000000003,73000.0,682,Home Improvement,OWN,PA,Skilled Labor,2019,5,0
+17000,60,0.1114,105000.0,667,Debt Consolidation,MORTGAGE,NE,Skilled Labor,2019,2,0
+15000,36,0.128,75000.0,682,Credit Card Refinancing,RENT,CA,,2020,,0
+16000,60,0.1103,200000.0,702,Credit Card Refinancing,MORTGAGE,VA,,2019,< 1 year,0
+18500,60,16.7,99636.0,775,debt_consolidation,own,NJ,Others,2019,5 years,0
+38000,60,17.85,92000.0,680,debt_consolidation,mortgage,TN,,2019,< 1 year,0
+6400,36,0.1629,35000.0,662,Debt Consolidation,OWN,OH,Health care,2019,15,0
+2000,36,0.2302,27000.0,732,Other,RENT,CA,Driver/Transportation,2018,1,0
+5750,36,0.1728,30000.0,672,Credit Card Refinancing,RENT,NJ,Legal/Government/Police,2019,0,0
+24000,60,13.57,90000.0,515,major_purchase,rent,CA,,2018,< 1 year,0
+15000,36,0.2128,58600.0,737,Credit Card Refinancing,RENT,RI,Office,2018,2,0
+16000,36,46.19,75000.0,745,debt_consolidation,mortgage,MS,Office,2018,5 years,0
+10000,36,0.1667,80000.0,672,Credit Card Refinancing,RENT,AZ,Office,2020,10,0
+29775,36,7.01,200000.0,690,debt_consolidation,own,WA,Others,2020,4 years,0
+19625,60,0.2317,100000.0,682,Vehicle Purchase,MORTGAGE,MD,Unknown,2019,3,0
+10625,60,0.3093,54091.0,697,Debt Consolidation,MORTGAGE,KS,,2019,,0
+8500,36,27.3,55000.0,805,debt_consolidation,own,SC,,2020,< 1 year,1
+7000,36,0.2184,46000.0,682,Credit Card Refinancing,OWN,OR,Others,2019,2,0
+25000,36,0.099,220000.0,677,Debt Consolidation,MORTGAGE,FL,Sales,2019,2,1
+26575,60,34.28,32000.0,790,credit_card,mortgage,MT,Office,2019,1 year,0
+3525,36,0.2398,95000.0,687,Debt Consolidation,RENT,VA,Legal/Government/Police,2019,13,0
+29575,60,25.52,38000.0,790,debt_consolidation,own,FL,Skilled Labor,2018,8 years,0
+30000,60,0.0764,120000.0,677,Debt Consolidation,MORTGAGE,NJ,Health care,2019,4,0
+12000,36,0.157,63000.0,692,Debt Consolidation,MORTGAGE,AL,Office,2019,21,1
+5000,36,1.88,32000.0,610,debt_consolidation,rent,FL,,2019,< 1 year,0
+25000,36,0.1351,157000.0,687,Credit Card Refinancing,MORTGAGE,TX,Legal/Government/Police,2019,20,0
+20000,60,0.2802,58000.0,697,Debt Consolidation,RENT,MI,Small Business,2019,3,0
+25000,60,11.0,140000.0,715,debt_consolidation,mortgage,CA,Driver/Transportation,2020,10+ years,0
+21275,36,0.3953,160000.0,707,Debt Consolidation,MORTGAGE,NJ,Sales,2020,18,0
+40000,36,0.2133,149000.0,662,Medical Expenses,MORTGAGE,FL,Unknown,2019,23,0
+35000,60,0.2653,130000.0,667,Debt Consolidation,RENT,TX,Others,2019,8,1
+10000,36,0.2696,60000.0,687,Credit Card Refinancing,RENT,MT,Real Estate,2019,7,0
+15000,60,0.2557,108000.0,702,Other,RENT,TX,Skilled Labor,2019,17,1
+10000,36,0.1701,53560.0,672,Debt Consolidation,RENT,MA,Skilled Labor,2018,2,0
+9600,36,0.1926,60000.0,677,Debt Consolidation,OWN,AL,Construction/Labor,2020,3,0
+24000,36,0.3153,48000.0,707,Debt Consolidation,MORTGAGE,IL,Others,2018,10,0
+12000,36,0.1772,300000.0,692,Vacation,RENT,CT,Office,2020,6,0
+40000,36,0.2131,624000.0,802,Debt Consolidation,MORTGAGE,FL,,2018,< 1 year,0
+5700,36,0.203,240000.0,672,Debt Consolidation,MORTGAGE,AZ,Real Estate,2020,1,0
+40000,60,5.08,198000.0,745,other,mortgage,VA,Office,2020,8 years,0
+18000,60,0.22399999999999998,48000.0,677,Debt Consolidation,RENT,CT,Construction/Labor,2019,10,0
+31900,60,0.2961,152000.0,672,Debt Consolidation,RENT,FL,IT/Engineering,2019,2,0
+15950,60,0.2295,80000.0,737,Debt Consolidation,OWN,OK,Customer Service,2019,11,0
+6000,36,0.1008,53476.0,677,Other,RENT,AK,Others,2018,7,0
+24725,36,0.2719,75333.0,662,Debt Consolidation,MORTGAGE,TX,Skilled Labor,2019,19,0
+15000,60,0.1734,236000.0,702,Debt Consolidation,RENT,NY,Office,2018,35,0
+25000,36,0.0423,120000.0,677,Debt Consolidation,MORTGAGE,CA,,2019,< 1 year,0
+15100,36,0.0928,250000.0,707,Other,RENT,MA,Driver/Transportation,2019,9,0
+5900,36,0.2823,40000.0,662,Debt Consolidation,RENT,KS,,2019,,0
+12500,36,0.2549,35000.0,727,Debt Consolidation,RENT,CA,Education,2019,6,0
+24000,36,0.2892,70000.0,697,Debt Consolidation,RENT,CA,,2019,,0
+10000,60,0.0084,234000.0,722,Debt Consolidation,RENT,CO,,2018,,0
+25000,60,12.66,120000.0,770,debt_consolidation,mortgage,NJ,Skilled Labor,2019,4 years,0
+10000,60,0.2319,65200.0,697,Debt Consolidation,MORTGAGE,WV,,2019,,0
+10000,60,0.2232,45826.0,682,Credit Card Refinancing,MORTGAGE,OH,,2019,,0
+40000,60,8.25,188900.0,665,debt_consolidation,mortgage,CA,Office,2019,10+ years,0
+24000,60,0.23,145000.0,687,Debt Consolidation,RENT,TX,Office,2020,10,0
+5100,36,0.1894,83000.0,717,Other,MORTGAGE,OH,Others,2019,6,0
+19000,60,9.91,69000.0,580,debt_consolidation,rent,CA,Food/Hospitality,2019,10+ years,0
+32000,60,0.1931,124000.0,677,Debt Consolidation,OWN,OH,Others,2019,5,0
+5000,36,0.326,56000.0,687,Debt Consolidation,RENT,CA,Others,2019,3,0
+15000,36,0.1839,50000.0,667,Credit Card Refinancing,MORTGAGE,CA,Office,2018,10,0
+10000,60,0.2355,40000.0,672,Other,RENT,CA,Sales,2019,1,0
+13000,36,0.17,95000.0,687,Credit Card Refinancing,MORTGAGE,IL,Office,2019,0,0
+15000,36,0.2119,195000.0,677,Home Improvement,MORTGAGE,NJ,Sales,2019,15,0
+22000,60,17.52,40000.0,675,home_improvement,own,KY,,2018,,0
+23475,60,0.1337,400000.0,712,Debt Consolidation,MORTGAGE,CA,Small Business,2018,10,0
+15000,60,13.85,65000.0,630,debt_consolidation,rent,WA,Driver/Transportation,2019,1 year,0
+11000,36,20.23,100000.0,675,credit_card,rent,NJ,Office,2019,10+ years,0
+15000,60,19.51,95000.0,665,debt_consolidation,rent,FL,Office,2019,4 years,0
+10000,36,0.3811,87000.0,692,Debt Consolidation,MORTGAGE,MA,Health care,2019,0,0
+30000,36,0.23199999999999998,85000.0,742,Credit Card Refinancing,MORTGAGE,IL,Others,2018,1,0
+5000,36,0.1904,51000.0,682,Debt Consolidation,RENT,CA,Others,2019,5,0
+15000,60,15.49,89000.0,700,home_improvement,mortgage,MI,,2019,< 1 year,0
+15300,60,0.0964,56000.0,687,Debt Consolidation,MORTGAGE,CA,Construction/Labor,2019,10,0
+20000,60,7.93,263000.0,800,credit_card,mortgage,FL,Legal/Government/Police,2020,1 year,0
+10000,36,0.0742,50000.0,662,Credit Card Refinancing,MORTGAGE,MN,Unknown,2018,40,0
+18000,60,0.1913,118000.0,697,Debt Consolidation,MORTGAGE,FL,Office,2019,10,0
+3000,36,0.1886,87000.0,667,Other,OWN,VA,Health care,2019,10,0
+35000,60,0.1757,90000.0,722,Other,RENT,MN,Others,2019,5,1
+40000,36,0.0044,4255262.0,662,Debt Consolidation,MORTGAGE,MS,Office,2017,3,0
+10000,36,0.2125,65000.0,732,Debt Consolidation,MORTGAGE,CA,Office,2018,3,1
+5600,36,0.3559,46000.0,667,Credit Card Refinancing,RENT,CA,,2020,,0
+22000,36,0.3114,35000.0,682,Debt Consolidation,RENT,CA,Customer Service,2019,10,0
+33200,60,0.0685,132000.0,692,Debt Consolidation,MORTGAGE,CA,Sales,2019,20,0
+10000,36,0.1069,95000.0,762,Debt Consolidation,MORTGAGE,PA,Skilled Labor,2018,10,0
+10000,60,2.37,91000.0,635,debt_consolidation,mortgage,IN,Construction/Labor,2019,< 1 year,0
+30000,60,0.3428,65000.0,697,Debt Consolidation,RENT,GA,Skilled Labor,2018,4,0
+2200,36,0.2318,60000.0,712,Other,MORTGAGE,CA,Skilled Labor,2018,27,0
+20400,60,0.1091,55000.0,702,Other,OWN,OK,,2018,< 1 year,0
+40000,36,0.0955,118000.0,767,Credit Card Refinancing,RENT,CA,Small Business,2019,12,0
+8000,36,0.0591,42000.0,667,Debt Consolidation,RENT,NV,Skilled Labor,2019,0,0
+10000,36,0.1699,75000.0,692,Debt Consolidation,MORTGAGE,MO,Others,2020,10,0
+5300,36,0.2174,53000.0,732,Moving or Relocation,RENT,CA,Skilled Labor,2019,10,0
+3000,36,0.1892,49992.0,692,Debt Consolidation,MORTGAGE,NV,,2019,,0
+8000,36,0.2529,51000.0,687,Other Major Purchase,MORTGAGE,NV,Others,2020,6,0
+15000,60,6.28,55000.0,715,credit_card,rent,MD,Food/Hospitality,2019,6 years,0
+30000,36,0.2404,90000.0,762,Debt Consolidation,RENT,MA,Driver/Transportation,2019,0,1
+30000,36,0.1123,150000.0,697,Home Purchase,RENT,CA,Others,2018,2,1
+24000,60,0.2649,54000.0,687,Home Improvement,MORTGAGE,MI,,2019,,0
+17000,60,0.2063,215378.0,667,Debt Consolidation,MORTGAGE,TN,Real Estate,2019,10,0
+15000,36,0.1894,112000.0,662,Debt Consolidation,MORTGAGE,TN,Skilled Labor,2019,9,0
+12000,36,0.1715,120000.0,667,Debt Consolidation,MORTGAGE,MD,Others,2020,16,0
+26575,60,0.2416,112000.0,727,Credit Card Refinancing,MORTGAGE,ID,Driver/Transportation,2019,2,0
+30750,36,0.3249,112000.0,682,Credit Card Refinancing,MORTGAGE,ND,Others,2019,13,0
+35000,36,0.195,75000.0,732,Debt Consolidation,RENT,CA,Legal/Government/Police,2018,7,0
+12000,60,7.04,65112.0,715,debt_consolidation,mortgage,CA,,2020,,0
+8500,36,0.1632,40000.0,677,Debt Consolidation,RENT,TX,Construction/Labor,2020,1,0
+25000,60,0.1258,160000.0,707,Debt Consolidation,RENT,TX,Sales,2019,0,0
+21000,36,0.2864,50000.0,727,Debt Consolidation,RENT,CA,Driver/Transportation,2019,10,0
+10000,60,0.1454,108000.0,662,Debt Consolidation,MORTGAGE,IL,Skilled Labor,2020,29,0
+18000,36,13.33,45000.0,680,credit_card,rent,OH,Sales,2019,1 year,0
+15000,60,0.1365,105000.0,667,Other Major Purchase,MORTGAGE,OH,Office,2019,16,0
+5000,36,0.0915,66000.0,692,Debt Consolidation,RENT,NY,Education,2018,10,0
+7000,36,0.0867,70000.0,777,Other,MORTGAGE,CO,,2019,< 1 year,0
+21275,60,0.2585,95000.0,677,Home Improvement,RENT,MD,Education,2019,14,0
+4000,36,0.1628,60000.0,672,Debt Consolidation,RENT,IL,Food/Hospitality,2019,4,1
+2000,36,17.22,30528.0,720,medical,own,WA,,2018,,0
+20000,60,0.3624,98000.0,707,Debt Consolidation,RENT,AR,Health care,2019,2,0
+40000,60,6.76,130000.0,740,other,rent,CA,Office,2019,5 years,0
+10000,36,0.3029,50000.0,662,Debt Consolidation,RENT,CA,Unknown,2019,9,0
+20000,60,16.37,75000.0,720,debt_consolidation,mortgage,AL,Sales,2019,1 year,0
+22000,36,0.2276,62000.0,707,Credit Card Refinancing,RENT,NY,Sales,2020,10,0
+20000,60,0.3316,65000.0,682,Debt Consolidation,RENT,NJ,Office,2019,4,0
+9000,36,0.2908,30000.0,707,Credit Card Refinancing,OWN,MD,,2019,,0
+24750,60,0.2585,189000.0,702,Credit Card Refinancing,MORTGAGE,MD,Health care,2019,4,0
+10000,36,0.1211,100000.0,697,Debt Consolidation,MORTGAGE,TX,Others,2018,10,0
+36000,60,0.2458,145000.0,712,Debt Consolidation,OWN,TX,Skilled Labor,2019,2,1
+25000,36,0.1957,100000.0,682,Debt Consolidation,MORTGAGE,NM,Office,2019,16,1
+40000,60,4.49,271262.0,610,credit_card,mortgage,MD,Others,2019,5 years,0
+27350,60,0.1736,116000.0,777,Credit Card Refinancing,RENT,CO,Office,2020,1,0
+35050,36,0.2967,62000.0,692,Vehicle Purchase,RENT,NY,Driver/Transportation,2019,4,0
+35000,60,0.1713,80000.0,667,Debt Consolidation,RENT,NJ,Driver/Transportation,2019,10,0
+16000,36,5.46,89000.0,755,debt_consolidation,own,NC,,2019,,0
+15000,36,0.384,34560.0,742,Debt Consolidation,RENT,CA,Customer Service,2018,2,0
+8000,36,0.2944,39260.0,672,Debt Consolidation,RENT,AZ,Skilled Labor,2019,13,0
+15000,60,0.1502,124000.0,672,Debt Consolidation,RENT,FL,IT/Engineering,2019,1,0
+3000,36,0.2244,110000.0,707,Home Improvement,MORTGAGE,CA,Skilled Labor,2019,9,0
+25525,60,0.1786,83000.0,682,Debt Consolidation,MORTGAGE,WI,Others,2019,10,0
+10000,36,0.1269,21000.0,697,Debt Consolidation,RENT,MS,,2018,,0
+15950,60,0.3259,118000.0,752,Medical Expenses,MORTGAGE,FL,Others,2019,3,0
+14425,36,19.01,185000.0,675,credit_card,mortgage,WI,Health care,2019,2 years,0
+15000,60,30.47,116000.0,690,credit_card,mortgage,WA,,2019,,0
+11700,36,0.3035,120000.0,772,Home Improvement,MORTGAGE,NV,Others,2019,8,1
+1800,36,0.2342,31000.0,717,Other,RENT,OH,Unknown,2019,2,0
+32000,36,0.1754,140000.0,662,Credit Card Refinancing,RENT,MO,Office,2019,0,0
+26575,60,0.3061,110000.0,697,Debt Consolidation,MORTGAGE,NY,Skilled Labor,2019,9,0
+40000,60,10.3,195000.0,775,debt_consolidation,mortgage,NJ,Sales,2018,6 years,0
+8000,36,33.67,105000.0,670,debt_consolidation,mortgage,PA,Construction/Labor,2019,5 years,0
+15300,60,0.2385,63000.0,672,Debt Consolidation,MORTGAGE,IL,Unknown,2019,23,0
+7000,36,9.57,35000.0,705,credit_card,mortgage,NE,Health care,2019,5 years,0
+25000,60,0.1984,78500.0,672,Debt Consolidation,MORTGAGE,TX,Others,2019,7,0
+30800,60,19.74,110000.0,770,debt_consolidation,mortgage,NJ,Others,2019,10+ years,0
+19125,60,0.1971,68000.0,697,Debt Consolidation,RENT,MN,Office,2019,8,0
+16000,60,15.33,61000.0,730,credit_card,mortgage,SC,,2019,,0
+10000,36,4.24,45000.0,680,debt_consolidation,rent,CA,Education,2020,1 year,0
+24000,36,3.62,120000.0,660,other,mortgage,TX,,2019,< 1 year,0
+37000,36,0.0979,243000.0,672,Credit Card Refinancing,MORTGAGE,VA,Health care,2019,5,0
+40000,36,0.2729,94500.0,747,Credit Card Refinancing,MORTGAGE,WI,Office,2019,1,0
+21275,36,0.1259,382000.0,662,Home Purchase,RENT,CA,Others,2019,5,0
+35000,36,0.1475,120000.0,682,Debt Consolidation,MORTGAGE,ID,Travel,2020,4,0
+17000,36,7.59,50000.0,720,debt_consolidation,rent,CA,,2018,< 1 year,0
+15000,36,0.3488,50000.0,687,Debt Consolidation,OWN,IL,Skilled Labor,2020,1,0
+19000,36,0.134,100000.0,667,Credit Card Refinancing,OWN,MD,Health care,2018,4,0
+5600,36,0.2084,27000.0,677,Debt Consolidation,OWN,FL,,2019,,1
+35000,36,0.1556,85000.0,677,Debt Consolidation,MORTGAGE,VA,Unknown,2019,6,0
+40000,60,0.1442,200000.0,782,Debt Consolidation,MORTGAGE,VA,Legal/Government/Police,2019,18,0
+9000,36,0.2613,125000.0,692,Credit Card Refinancing,RENT,CA,Others,2019,7,1
+20000,36,0.221,70000.0,737,Credit Card Refinancing,MORTGAGE,CO,Others,2018,10,0
+2000,36,0.2059,59000.0,672,Home Improvement,MORTGAGE,VA,Office,2019,1,0
+11000,36,0.1145,70000.0,672,Debt Consolidation,MORTGAGE,SC,IT/Engineering,2019,10,0
+10000,36,0.2016,51000.0,697,Credit Card Refinancing,RENT,MO,Others,2019,8,0
+35000,36,12.87,165000.0,720,debt_consolidation,own,PA,Health care,2018,10+ years,0
+10000,60,0.2232,58289.0,697,Credit Card Refinancing,RENT,PA,Driver/Transportation,2019,8,0
+17000,60,0.185,150000.0,672,Credit Card Refinancing,MORTGAGE,GA,Skilled Labor,2019,11,0
+6000,60,10.59,58000.0,760,debt_consolidation,own,CA,Office,2020,< 1 year,0
+6000,36,0.2894,53000.0,667,Debt Consolidation,RENT,MO,Others,2020,10,0
+12000,36,0.2045,90000.0,697,Debt Consolidation,RENT,NY,Sales,2019,6,0
+30000,60,0.1263,225000.0,677,Other,MORTGAGE,FL,Sales,2019,10,0
+35000,60,0.0637,65000.0,782,Debt Consolidation,OWN,TX,Driver/Transportation,2019,2,0
+10000,60,8.43,40000.0,725,debt_consolidation,rent,FL,,2019,< 1 year,0
+30000,36,19.3,200000.0,665,debt_consolidation,mortgage,CA,,2019,< 1 year,0
+2800,36,0.2555,24000.0,677,Credit Card Refinancing,RENT,OH,Unknown,2019,2,0
+10000,36,9.24,63000.0,700,credit_card,rent,OR,,2020,,0
+3000,36,0.1425,130000.0,662,Other,MORTGAGE,NM,Others,2019,2,0
+14000,36,0.1407,140900.0,662,Other,RENT,VA,IT/Engineering,2019,2,0
+13000,60,5.46,150000.0,760,credit_card,mortgage,TX,Education,2019,2 years,0
+18000,36,0.129,60000.0,732,Debt Consolidation,RENT,KS,Office,2020,2,0
+7200,36,18.35,75000.0,685,other,mortgage,FL,,2018,,0
+12000,60,13.42,105000.0,695,other,rent,TX,Sales,2019,< 1 year,0
+10000,36,0.2823,50000.0,717,Credit Card Refinancing,MORTGAGE,ND,Skilled Labor,2018,10,0
+15000,36,0.1675,75000.0,677,Debt Consolidation,MORTGAGE,IL,,2019,< 1 year,0
+22000,60,0.1474,42000.0,692,Debt Consolidation,OWN,GA,Driver/Transportation,2019,3,0
+8000,36,0.3027,68000.0,747,Debt Consolidation,RENT,FL,Driver/Transportation,2019,4,0
+20000,60,0.1653,75000.0,662,Debt Consolidation,RENT,GA,Skilled Labor,2019,27,0
+19200,36,0.0899,156000.0,687,Other Major Purchase,MORTGAGE,MO,Office,2019,2,0
+33000,36,0.2783,80000.0,712,Debt Consolidation,OWN,SC,Food/Hospitality,2018,10,0
+12000,36,0.1296,72000.0,672,Debt Consolidation,RENT,NY,Office,2018,0,0
+30000,60,20.91,192000.0,750,debt_consolidation,mortgage,CA,,2019,,0
+40000,36,0.1779,94000.0,677,Debt Consolidation,MORTGAGE,FL,Others,2019,19,0
+40000,60,0.3168,150600.0,782,Debt Consolidation,MORTGAGE,VA,Office,2019,16,0
+14000,60,0.2118,97500.0,667,Credit Card Refinancing,RENT,OH,Sales,2020,4,1
+29075,36,0.2487,94999.0,722,Debt Consolidation,MORTGAGE,CA,Driver/Transportation,2020,10,0
+4800,36,29.98,55000.0,670,debt_consolidation,mortgage,MI,Small Business,2020,2 years,0
+22450,36,0.314,95000.0,752,Debt Consolidation,OWN,NY,Small Business,2019,6,0
+30000,36,0.15,50000.0,737,Home Purchase,MORTGAGE,MT,Small Business,2019,7,0
+9000,36,0.2526,60000.0,672,Debt Consolidation,MORTGAGE,FL,Health care,2018,7,0
+22000,36,0.1912,57000.0,667,Debt Consolidation,MORTGAGE,MN,Sales,2020,1,0
+6000,36,0.1448,70000.0,682,Debt Consolidation,MORTGAGE,SC,Office,2019,3,0
+8000,36,44.36,41200.0,700,debt_consolidation,mortgage,AZ,,2018,,0
+10000,36,0.2282,64000.0,667,Debt Consolidation,MORTGAGE,NV,Construction/Labor,2020,9,0
+21275,36,0.2157,142000.0,692,Business,RENT,WV,Health care,2019,3,0
+24000,36,0.0705,165000.0,677,Debt Consolidation,OWN,LA,Office,2019,0,0
+10000,60,0.0957,200000.0,677,Debt Consolidation,MORTGAGE,NJ,Unknown,2019,2,0
+13000,36,0.2842,75000.0,702,Credit Card Refinancing,RENT,NY,Office,2018,3,0
+15000,36,0.1934,34000.0,687,Debt Consolidation,RENT,CA,Unknown,2020,5,0
+30000,60,0.1053,135000.0,667,Debt Consolidation,MORTGAGE,MI,Skilled Labor,2019,9,0
+14000,36,16.46,85000.0,675,credit_card,mortgage,TX,,2018,< 1 year,0
+12000,36,0.1227,125000.0,682,Other,OWN,TN,Driver/Transportation,2019,1,0
+14400,60,0.1867,36000.0,702,Debt Consolidation,RENT,GA,Skilled Labor,2019,1,0
+10000,36,0.2436,50000.0,717,Other Major Purchase,RENT,IL,Office,2019,0,0
+25000,60,22.56,81728.0,705,debt_consolidation,rent,TX,Office,2018,3 years,0
+6000,36,0.1143,74160.0,687,Debt Consolidation,RENT,TX,,2020,,0
+16000,36,22.04,160000.0,490,credit_card,mortgage,TX,Sales,2019,10+ years,0
+5000,36,18.07,85000.0,565,debt_consolidation,mortgage,TX,Others,2019,10+ years,0
+7425,36,0.1902,65000.0,722,Debt Consolidation,MORTGAGE,NY,Health care,2019,2,0
+15000,60,0.1256,54000.0,732,Debt Consolidation,OWN,CA,Office,2019,10,0
+16000,36,0.2112,110000.0,667,Credit Card Refinancing,OWN,CA,Health care,2020,3,0
+12000,36,0.0924,67000.0,687,Credit Card Refinancing,MORTGAGE,OH,Health care,2018,0,1
+5000,36,0.2812,60000.0,742,Debt Consolidation,OWN,LA,Office,2018,3,0
+25200,36,0.0816,117000.0,687,Debt Consolidation,MORTGAGE,NY,Sales,2018,10,0
+25000,60,0.0985,92000.0,677,Debt Consolidation,MORTGAGE,GA,Skilled Labor,2019,10,0
+21000,60,20.6,60588.0,695,debt_consolidation,rent,CA,Food/Hospitality,2018,8 years,0
+34600,60,0.2504,132000.0,782,Debt Consolidation,OWN,WI,Others,2019,5,0
+20000,36,7.98,182000.0,705,house,mortgage,AZ,Health care,2019,4 years,0
+6100,36,0.2001,21168.0,692,Debt Consolidation,OWN,IL,,2019,0,0
+35000,60,0.0648,35000.0,697,Other,RENT,MI,Health care,2019,14,0
+30000,36,0.1082,150000.0,717,Home Improvement,MORTGAGE,CA,,2019,< 1 year,0
+31900,36,0.2291,154000.0,682,Debt Consolidation,MORTGAGE,AL,,2019,< 1 year,0
+14400,60,0.0518,35000.0,667,Debt Consolidation,RENT,NC,Skilled Labor,2019,6,0
+10000,60,0.2847,38000.0,672,Debt Consolidation,RENT,PA,Customer Service,2020,7,0
+15400,36,0.1582,133000.0,687,Debt Consolidation,MORTGAGE,NC,Skilled Labor,2019,3,0
+2200,36,0.2767,97000.0,667,Vacation,RENT,WA,Office,2019,5,0
+13500,60,0.2135,105000.0,682,Other,RENT,WA,Health care,2019,6,1
